@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Some flatworms, such as planarians, are free-living.  Other groups, such as flukes and tapeworms, are parasitic.  
+&answer2=<b>The suggested answer is:</b> With bilateral symmetry, flatworms have a definite head region where sensory cells are concentrated. Flatworms move head-first through their environment, allowing them to get and process sensory information about the region they're exploring as quickly as possible.
+&answer3=<b>The suggested answer is:</b> Flatworms have a more complex body structure than cnidarians. They have an obvious front end that allows them to move "headfirst" in response to stimuli. Cnidarians are radially symmetrical and flatworms are bilaterally symmetrical.

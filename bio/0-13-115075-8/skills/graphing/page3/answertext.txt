@@ -1,0 +1,5 @@
+&answer1=<b>The suggested answer is:</b> If the angle is acute (smaller than a right angle), use the smaller number. If the angle is obtuse (larger than a right angle), use the larger number.
+&answer2=<b>The suggested answer is:</b> Bar graphs are useful for comparing data from two or more distinct categories. Circle graphs are useful for displaying data as parts of a whole.
+&answer3=<b>The correct answer is:</b> A circle graph because each of the seven continents could be represented by sectors in the circle graph, adding up to 100%25.
+&answer4=<b>The correct answer is:</b> A bar graph because you are comparing six distinct categories, drivers in the different states.
+&answer5=<b>The suggested answer is:</b> Since the sectors of a circle graph will complete all 360 degrees of a circle, they must all add up to 100%25.

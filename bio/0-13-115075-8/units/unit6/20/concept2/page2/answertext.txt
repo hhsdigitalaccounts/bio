@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> xylem and phloem
+&answer2=<b>The correct answer is:</b> No; they are also found in monocots, but the arrangement is different.
+&answer3=<b>The correct answer is:</b> The collenchyma is found in bundles just inside the epidermis, where it provides mechanical support for a young soft stem.

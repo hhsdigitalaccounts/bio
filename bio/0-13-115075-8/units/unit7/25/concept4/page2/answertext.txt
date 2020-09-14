@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> They both have skeletons made of cartilage.  
+&answer2=<b>The correct answer is:</b> Unlike the other groups in this chart, the skin of bony fishes is covered with scales.

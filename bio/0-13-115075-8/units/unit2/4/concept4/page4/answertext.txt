@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> The pH quickly dropped when acid was added; the pH quickly increased when the base was added.   
+&answer2= <b>The correct answer is:</b> Acid still reduces the pH and base increases it, but the changes are very small.  The buffer greatly decreases the effect of adding acid or base.
+&answer3= <b>The suggested answer is:</b> The liver contained a substance called a buffer that neutralized the acid and base.
+&answer4= <b>The correct answer is:</b> buffers 

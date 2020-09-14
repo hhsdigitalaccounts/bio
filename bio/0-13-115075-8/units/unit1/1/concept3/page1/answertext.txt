@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Some themes apply to individuals, such as regulation or cellular basis of life, but most apply to individuals as well as groups of organisms.  Some only apply to different generations of organisms, such as reproduction and evolution.
+&answer2=<b>The suggested answer is:</b> Examples include: a cheetah chasing its prey (Energy and Life theme); a scientist studying the causes of a disease (Scientific Inquiry theme); a bird's webbed feet enabling it to swim (Form and Function theme).

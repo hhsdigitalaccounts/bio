@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> -70 mV suggests that the neuron is at rest and maintaining a resting potential. It also indicates that the inside of the cell is negative in comparison to the outside of the cell.
+&answer2=<b>The suggested answer is:</b> The ion channels allow the K%2B ions and Na%2B ions to diffuse into and out of the cell from higher concentration to lower concentration. No energy is expended. 
+&answer3=<b>The correct answer is:</b> The pump uses ATP to move the ions from lower concentration to higher concentration. 

@@ -1,0 +1,5 @@
+&answer1=<b>The correct answer is:</b> If more than one variable is tested, there is no way to tell which variable is responsible for the results.
+&answer2=<b>The correct answer is:</b> This allowed them to keep the fly in the arena, available to the spider.  The scientists wanted to observe the attack behavior of the spider rather than the behavior of the fly.
+&answer3=<b>The correct answer is:</b> If other scientists repeat the experiment the results can be verified.
+&answer4=<b>The correct answer is:</b> Communication enables scientists to exchange information and build on each other's work.
+&answer5=<b>The suggested answer is:</b> No. By running the experiment multiple times you increase the likelihood that your results are valid.

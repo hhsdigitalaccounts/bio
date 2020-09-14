@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b> Root tip cells spend the most time in interphase, because interphase is the stage where the cell performs its cellular duties as well as duplicates chromosomes in preparation for cell division.
+&answer2= <b>The suggested answer is:</b> Metaphase and anaphase; these stages are intermediary steps where the chromosomes line up and then separate. There is little preparation required for these phases.
+&answer3= <b>The suggested answer is:</b> Roots grow rapidly as they burrow down to find a source of water. This rapid growth is accomplished by rapid cell division (24 hours to complete a cell cycle).

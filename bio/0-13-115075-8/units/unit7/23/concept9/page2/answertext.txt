@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Platyhelminthes, nematodes, and echinoderms have bilateral symmetry.
+&answer2=<b>The correct answer is:</b> Cnidarians and platyhelminthes have gastrovascular cavities.
+&answer3=<b>The correct answer is:</b> Annelids have well defined body segmentation.

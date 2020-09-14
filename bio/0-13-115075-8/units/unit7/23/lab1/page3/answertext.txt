@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Its eyes are located near its foot.
+&answer2=<b>The suggested answer is:</b> a mantle cavity, radula, shell, gill, and foot
+&answer3=<b>The suggested answer is:</b> Squid use a structure called a siphon to propel themselves in different directions. They can release ink from their ink sacs, which hides them from predators while they escape. Squid have two tentacles that they use to catch prey.

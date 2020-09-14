@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> One mouse provides the egg, which has the nucleus removed. One mouse provides the genetic material (nucleus) that is injected into the egg. The last mouse provides the uterus, where the embryo can develop and grow. 
+&answer2=<b>The suggested answer is:</b> They could tell by the fur if the newborn mouse was a clone.
+&answer3=<b>The suggested answer is:</b> It is unnecessary to fertilize the egg because the egg nucleus was replaced by a diploid nucleus, which contains the complete genetic blueprint for making a new mouse. 

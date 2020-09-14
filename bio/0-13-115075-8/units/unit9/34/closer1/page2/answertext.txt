@@ -1,0 +1,3 @@
+&answer1= <b>The correct answer is:</b> a
+&answer2= <b>The correct answer is:</b> c
+&answer3= <b>The correct answer is:</b> a

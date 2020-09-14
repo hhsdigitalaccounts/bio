@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> <i>Rhizopus</i> black mold and <i>Penicillium</i>
+&answer2=<b>The suggested answer is:</b> As environmental conditions become harsh (for example, when water becomes scarce or at the end of a growing season) the zygote fungi switch to sexual reproduction.  One outcome of this is that the fungi produce resistant zygosporangia that can survive harsh, dry conditions. 

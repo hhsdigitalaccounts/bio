@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> roots, stems, and leaves
+&answer2=<b>The correct answer is:</b> to house the structures involved in sexual reproduction
+&answer3=<b>The suggested answer is:</b> Some surprises might include: a sweet potato is classified as a root, but a potato is classified as a stem; an onion is classified as a leaf and not a root or stem; a Brussel sprout is classified as an axillary bud and not a leaf; celery is classified as a leaf petiole, and not a stem.

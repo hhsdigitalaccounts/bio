@@ -1,0 +1,5 @@
+
+&answer1= <b>The correct answer is:</b> They must have reached the appropriate size and have the correct numbers and types of organelles, there must be a need for new cell growth, and the hereditary material (DNA) must be undamaged.
+&answer2= <b>The suggested answer is:</b> The nucleus enlarges because the hereditary material duplicates itself. 
+&answer3= <b>The suggested answer is:</b> In the M phase, the cell nucleus divides (mitosis) as does the cell cytoplasm (cytokinesis), resulting in two genetically identical cells. 
+&answer4= <b>The suggested answer is:</b> Some cells do not complete the cell cycle and remain "stuck" at the end of G1. Some cells complete the cell cycle rapidly. For example, skin cells often complete the cycle in just a matter of hours or days. 

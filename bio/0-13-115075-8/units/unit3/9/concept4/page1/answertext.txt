@@ -1,0 +1,1 @@
+&answer1= <b>The suggested answer is:</b> A normal cell on the path to cell division will reach certain checkpoints, where it will be determined if the cell has met certain criteria needed to enter the next phase. In the cancerous cell, these checkpoints are inoperative, and the cell continues to divide in an uncontrolled manner.

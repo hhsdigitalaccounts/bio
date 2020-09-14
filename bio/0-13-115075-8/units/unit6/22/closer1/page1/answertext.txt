@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Changing the light period does not change the flowering response. Only when the dark period is changed (for example, by a light flash) does the flowering response change.
+&answer2=<b>The suggested answer is:</b> At least two hours after darkness, you would have to expose the plants to a flash of light rich in the red wavelengths.  
+&answer3=<b>The suggested answer is:</b> No, the irises would not flower because the far-red light would convert the phytochrome from the active (Pfr) to the inactive (Pr) form.

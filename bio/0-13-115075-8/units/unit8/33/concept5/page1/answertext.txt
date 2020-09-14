@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> infancy, childhood, adolescence, adulthood, and old age
+&answer2=<b>The suggested answer is:</b> Examples include: babies are born with more bones than adults; during childhood, playing is essential for learning; there is no link between eating certain foods and acne during adolescence; menopause refers to a woman's reproductive history; senior citizens benefit from exercise.

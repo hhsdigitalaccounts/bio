@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Amphibians must return to aquatic habitats in order to reproduce.
+&answer2=<b>The correct answer is:</b> The skin of amphibians is not covered by scales and is generally moist. In some amphibians, this moist skin absorbs oxygen which aids in respiration.
+&answer3=<b>The correct answer is:</b> In the two-chambered heart of bony fishes, there is a single pathway for blood flow: the ventricle pumps blood to the gills and the atrium receives blood returning from the body. In amphibians, the three-chambered heart contains two atria and one ventricle.  After the ventricle pumps blood away from the heart, the blood divides into two pathways, or circuits. One circuit delivers blood to the lungs for gas exchange; the other pathway transports blood to the rest of the body.  The atria collect blood returning to the heart--one atria for each circuit.
+

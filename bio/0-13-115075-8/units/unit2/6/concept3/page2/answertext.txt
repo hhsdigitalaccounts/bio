@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> diffusion, facilitated diffusion, and active transport
+&answer2=<b>The suggested answer is:</b> The transport protein allowed the glucose molecule to cross the membrane from greater to lesser concentration in a process called facilitated diffusion. Glucose could not cross the membrane without the transport protein.
+&answer3=<b>The suggested answer is:</b> Water molecules cling to one another because they are polar. This makes it hard for them to escape from the water mass to enter the nonpolar region of the phospholipid bilayer. The transport protein provides a polar channel that attracts the water molecules as strongly as the surrounding water does, so they don't have to break their polar attractions.

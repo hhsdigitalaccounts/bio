@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> micrometers (the epithelial cells).  You could see the scales with your naked eye (1 mm) but the SEM helps to see further detail.
+&answer2=<b>The correct answer is:</b> larger
+&answer3=<b>The suggested answer is:</b> Meters are best for an automobile; kilometers are best for a school campus; and micrometers or nanometers are best for a cell nucleus.

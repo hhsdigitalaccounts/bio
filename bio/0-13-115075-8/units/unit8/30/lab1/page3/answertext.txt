@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> There are several possible ways to draw a model or illustration representing your pulse rate. For example, you could draw a line with an up-and-down pattern similar to an electrocardiogram (ECG) that you may have seen on television. Another way would be to draw a dashed line.
+&answer2=<b>The suggested answer is:</b> When the ventricles contract, pushing the blood out to the arteries of the body, the arteries expand from the pressure, and you can feel a pulse when you place your fingers near a major artery.
+

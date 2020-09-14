@@ -1,0 +1,5 @@
+
+&answer1= <b>The correct answer is:</b> 7 eagles/100 square kilometers; 6 moose/100 square kilometers
+&answer2= <b>The suggested answer is:</b> Hemlock, which makes up about 70%25 of the trees in this forest. A rough count of species in this typical area shows more hemlock than any of the other four species.
+&answer3= <b>The correct answer is:</b> unit area or volume
+&answer4= <b>The correct answer is:</b> uniform distribution

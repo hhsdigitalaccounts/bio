@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> a. laboratory balance; b. graduated cylinder
+&answer2=<b>The suggested answer is:</b> If the balance is not zeroed, the reading will not be accurate.
+&answer3=<b>The suggested answer is:</b> It is possible that one is reading the bottom of the meniscus and the other is not. It is also possible that the smallest division lines on the cylinder are 1 mL apart and the bottom of the meniscus falls between two lines. In this case, each person is making an estimate of the last digit value and there is uncertainty in that judgment. In this case, either reading would be acceptable.

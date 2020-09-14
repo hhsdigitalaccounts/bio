@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> <i>Pilobolus</i> spores must be eaten by an animal. Spores stuck on blades of grass are more likely to be ingested by an herbivore, an animal that feeds mostly on plants.
+&answer2=<b>The suggested answer is:</b> The sporangia need to land on grass where they can be eaten.

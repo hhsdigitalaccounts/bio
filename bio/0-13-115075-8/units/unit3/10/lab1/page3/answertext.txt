@@ -1,0 +1,6 @@
+
+&answer1= <b>The suggested answer is:</b> Three generations of Fast Plants are represented: the P generation, F<font size="8">1</font> generation, and F<font size="7">2</font> generation.
+&answer2= <b>The suggested answer is:</b> The pollen (containing sperm) from one flower is used to fertilize eggs in a flower on a different plant. Seeds then develop within the fertilized flower.
+&answer3= <b>The suggested answer is:</b> F<font size="7">2</font> seeds were produced by crossing an F<font size="8">1</font> plant with another F<font size="8">1</font> plant in the second cross.
+&answer4= <b>The suggested answer is:</b> The presence of F<font size="7">2</font> offspring with the dwarf (rosette) phenotype implies that the F<font size="8">1</font> generation was heterozygous <i>(Tt)</i>. The F<font size="8">1</font> plants would be tall.
+&answer5= <b>The suggested answer is:</b> Scientists can perform genetic crosses by using pollen from one Fast Plant to pollinate the flowers of another and be certain that the resulting seeds contain genetic material from both parent plants. 

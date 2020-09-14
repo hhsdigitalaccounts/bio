@@ -1,0 +1,3 @@
+&answer1= <b>The correct answer is:</b> actin and myosin
+&answer2= <b>The suggested answer is:</b> In this muscle contraction, the biceps and triceps work as a pair to return the bone to its original position. When the hand weight is lifted, the biceps contracts and the triceps relaxes. The opposite happens when the hand weight is brought down: the biceps relaxes, and the triceps contracts.
+

@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The evidence shows that birds raised in isolation, where they could not hear other birds, did not sing normal songs.
+&answer2=<b>The correct answer is:</b> The variables include 1) the presence of model songs for the young birds to hear, and 2) the age of the young bird when it first hears a model song.
+&answer3=<b>The suggested answer is:</b> Young birds that are less than 50 days old when they first hear a model song learn that song better than birds that are older than 50 days when they first hear the model song. In fact it appears that birds that are older than 50 days when they first hear a model song learn no better than birds that have not heard a model song.

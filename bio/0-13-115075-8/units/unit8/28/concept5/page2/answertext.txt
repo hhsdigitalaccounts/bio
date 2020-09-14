@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> When reading, the lens will thicken and become rounder, keeping the focal point on the retina; when gazing in the distance, the lens will flatten again, keeping the focal point on the retina. 
+&answer2=<b>The suggested answer is:</b> If the lens is more rigid, it may not be able to completely change shape, which in turn may prevent an image from focusing on the retina. Glasses may be needed.
+&answer3=<b>The suggested answer is:</b> They need corrective glasses because the eyeballs are too long or short and images are focused either in front of or behind the retina.
+&answer4=<b>The suggested answer is:</b> A concave lens is recommended for someone who is nearsighted because an image is focused in front of his or her retina. A concave lens will bend the light away from the center of the lens, extending the focal point of the image so that it focuses directly on the retina.  

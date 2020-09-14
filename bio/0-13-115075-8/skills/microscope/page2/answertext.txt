@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> You use the coarse focus adjustment knob only when focusing on an object while the low-power objective lens is in place.
+&answer2=<b>The suggested answer is:</b> Use the diaphragm to adjust the amount of light coming through the microscope.
+&answer3=<b>The suggested answer is:</b> Switch back to medium power and locate the organism again. Make sure it is centered in the field of view and is in focus. Then, switch back to high power and focus with the fine focus knob. You may also need to adjust the amount of light using the diaphragm.
+&answer4=<b>The suggested answer is:</b> Air bubbles interfere with the view of the specimen. If there are air bubbles, you should gently tap the cover slip with a pencil eraser.

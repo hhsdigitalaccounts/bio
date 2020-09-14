@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Functions of mineral nutrients include the formation of genetic materials (DNA and RNA), proteins, and chlorophyll; providing stability to the cell wall; and regulating water balance.
+&answer2=<b>The suggested answer is:</b> Magnesium is required for the synthesis of chlorophyll, which is the green pigment required in photosynthesis.  
+&answer3=<b>The suggested answer is:</b> Mineral nutrients do not contain carbon; therefore they are classified as inorganic molecules.

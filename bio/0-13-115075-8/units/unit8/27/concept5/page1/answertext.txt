@@ -1,0 +1,2 @@
+&answer1= <b>The correct answer is:</b> sarcomere
+&answer2= <b>The suggested answer is:</b> Many myofibrils bundled together make up a muscle fiber; many muscle fibers (or muscle cells) arranged together in parallel, make up a muscle.

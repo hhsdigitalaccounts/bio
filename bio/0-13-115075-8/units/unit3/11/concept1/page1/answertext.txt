@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Scientists chose bacteriophages because they have only these two molecules, enabling the scientists to determine which one, DNA or protein, carries the genetic information.
+&answer2=<b>The correct answer is:</b> DNA
+&answer3=<b>The suggested answer is:</b> DNA must be the genetic material; radioactive phage DNA was discovered inside the bacterial cells, so DNA must be directing the reproduction of new viruses inside the bacteria. 

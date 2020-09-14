@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The male gametes in gymnosperms are contained within pollen grains, which protect the gamete from drying out. Pollen can be transferred by the wind or other organisms.
+&answer2=<b>The suggested answer is:</b> Gymnosperms produce seeds%2D%2Dplant embryos packaged with a food supply and wrapped in a protective, waterproof coat. Dispersed by animals or the wind, seeds allow the plant to spread to wider and wider areas.
+&answer3=<b>The suggested answer is:</b> Conifers are the dominant gymnosperms in northern and mountain forests. Coniferous forests cover much of Alaska, Canada, and northern Europe.

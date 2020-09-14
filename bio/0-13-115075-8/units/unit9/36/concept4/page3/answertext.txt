@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> The reference serves as a benchmark that allows the scientist to decide whether or not the predicted effect is really due to the variable under consideration. The reference data at Watershed 6 represented a similar area of forest that was not clear-cut and left as an intact forest.
+&answer2= <b>The suggested answer is:</b> Plants started growing back quickly.
+&answer3= <b>The suggested answer is:</b> Vegetation plays a significant role in the nitrogen cycling of a forested ecosystem. Removal of vegetation by a whole-tree clear-cut causes a rise in soil and stream water nitrate concentrations. The cycling of this nutrient does not return to normal until plants re-grow in the deforested area.
+&answer4= <b>The suggested answer is:</b> microbial activity from decomposing, denitrifying, nitrifying, nitrogen-fixing bacteria, and fungus in the soil

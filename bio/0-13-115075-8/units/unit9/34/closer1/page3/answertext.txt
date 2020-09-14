@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> b
+&answer2= <b>The correct answer is:</b> c
+&answer3= <b>The correct answer is:</b> a
+&answer4= <b>The suggested answer is:</b> The direction of air flow and the rise and fall of air masses in the circulation cells determine the varied climatic regions on Earth. This uneven distribution of temperature and precipitation over Earth's surface leads to the different types of land biomes on Earth.

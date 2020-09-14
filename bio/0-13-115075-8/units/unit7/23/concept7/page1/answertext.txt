@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> squids, clams, and snails.  
+&answer2=<b>The suggested answer is:</b> Mollusks have a mantle, an organ that produces the mollusk's shell and functions in respiration, waste removal, and sensing the environment. Mollusks also have a radula, which is a raspy organ used for scraping food off surfaces.
+&answer3=<b>The suggested answer is:</b> The whelk used its radula--a raspy organ, much like a tongue, that scrapes algae from surfaces. Some predatory mollusk species use radula to drill through the shells of prey, such as other mollusks.

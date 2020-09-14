@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Three examples of bryophytes are haircap moss, liverwort, and hornwort. Characteristics of bryophytes include small size, alternating generations (between a gametophyte stage and a sporophyte stage), and sperm with flagella.
+&answer2=<b>The correct answer is:</b> The sperm produced by the male gametophyte swim in a layer of water to the female gametophyte, using the flagella to propel them.

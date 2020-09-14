@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> Wood is secondary xylem; it conducts water from the roots to the leaves and gives support to the plant.
+&answer2=<b>The suggested answer is:</b> Tree rings are the result of different growth rates that occur throughout the year, and the size of the xylem cells that are produced depend on the amount of available water. In the tropics, temperature and moisture tend to be more constant.

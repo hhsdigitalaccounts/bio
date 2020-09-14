@@ -1,0 +1,7 @@
+
+&answer1= <b>The correct answer is:</b> 4%B0C.
+&answer2= <b>The correct answer is:</b> 1L.
+&answer3= <b>The correct answer is:</b> 4 kcal or dietary calories.
+&answer4= <b>The correct answer is:</b> 1 kcal or dietary calorie.
+&answer5= <b>The suggested answer is:</b> Both calorimeters have a container that holds water, a thermometer, some kind of insulation, and a place to burn the sample.
+&answer6= <b>The suggested answer is:</b> The calorimeter for the lab may give less accurate measurements because the insulation is poor, the water does not circulate or surround the samples, and the samples may not burn completely.

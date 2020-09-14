@@ -1,0 +1,1 @@
+&answer1= <b>The suggested answer is:</b> Geneticists can test whether the parent with the dominant trait is either pure-breeding (for example, AA), or a hybrid (for example, Aa).&answer2= <b>The correct answer is:</b> All the offspring would have short hair.&answer3= <b>The correct answer is:</b> There would be both long and shorthaired offspring in a 1:1 ratio.

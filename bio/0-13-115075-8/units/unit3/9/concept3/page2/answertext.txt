@@ -1,0 +1,5 @@
+
+&answer1= <b>The suggested answer is:</b> The microtubules act as a guide for chromosome movement.
+&answer2= <b>The suggested answer is:</b> A chromosome is a single unit that contains hereditary material. When a chromosome duplicates during interphase, the two identical copies are called chromatids. They are joined together at a point called the centromere.
+&answer3= <b>The correct answer is:</b> The chromatids become daughter chromosomes at the anaphase.
+&answer4= <b>The correct answer is:</b> There would be 8 chromosomes in each of the daughter cells.

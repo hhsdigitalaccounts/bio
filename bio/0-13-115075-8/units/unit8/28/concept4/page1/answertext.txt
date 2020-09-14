@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The cerebrum is responsible for higher-level thinking and memory, while the cerebellum is responsible for maintaining body coordination.
+&answer2=<b>The correct answer is:</b> thalamus
+&answer3=<b>The correct answer is:</b> The occipital lobe interprets the visual input; the temporal lobe is involved in interpreting the sound and the smell.

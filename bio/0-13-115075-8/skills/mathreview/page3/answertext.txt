@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Rewrite the number as a decimal between 1 and 10 by moving the decimal point to the left or the right so that only one digit is to the left of it. Determine the exponent by counting the number of places you moved the decimal point. If you moved the decimal point to the left, the exponent is positive if you moved the decimal point to the right, the exponent is negative. Then write the number multiplied by the base 10 with the exponent.
+

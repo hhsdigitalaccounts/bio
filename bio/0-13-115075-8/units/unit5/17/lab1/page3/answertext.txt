@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> b. Lysosomes merge with food vacuoles and expose the yeast to enzymes that digest the yeast cells into smaller particles that the paramecium can use.
+&answer2=<b>The suggested answer is:</b> Lysosomes have released acids that have caused the red dye in the yeast cells to turn blue.
+

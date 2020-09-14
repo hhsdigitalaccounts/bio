@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> The four major types of tissue are epithelial, connective, nervous, and muscle. They are all tissues because they are made up of specialized cells that work together to carry out a common function.
+&answer2= <b>The suggested answer is:</b> In the lungs, epithelial tissue is a single layer of moist cells that allows diffusion of gases between air and blood. In the arm, muscle tissues are bundles of long thin cells attached to bones; contractions enable the arm's skeleton to move.
+

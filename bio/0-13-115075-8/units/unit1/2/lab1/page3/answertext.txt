@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The experiment is designed to test the effects of different levels of sun exposure leaf toughness.
+&answer2=<b>The suggested answer is:</b> Conclusion c is best supported by the data. Given the wide range of variation shown by the data, there is no significant difference between the average toughness of leaves grown in the shade and leaves grown in the sun.
+&answer3=<b>The suggested answer is:</b> Yes, from the first set of data, it appears that the sun grown leaf is tougher. However, as more data is taken it is clear that this is just part of the natural variation of this type of leaf.

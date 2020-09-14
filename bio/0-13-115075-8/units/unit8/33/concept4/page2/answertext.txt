@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Ultrasound can provide a fetus' size, age, gender, and possibly determine if there are any abnormalities.
+&answer2=<b>The suggested answer is:</b> approximately 8 weeks.
+&answer3=<b>The suggested answer is:</b> The fetus would probably have little body fat and the brain hemisphere would be visible. The eyes may be open and react to light. Fingernails and toenails are beginning to grow.

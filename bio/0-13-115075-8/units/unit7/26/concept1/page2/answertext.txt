@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Turtles, lizards and snakes, and crocodiles and alligators are all described as reptiles. 
+&answer2=<b>The correct answer is:</b> According to the cladogram, mammals appeared before birds.
+&answer3=<b>The correct answer is:</b> According to the cladogram, crocodiles and alligators are most closely related to birds. 

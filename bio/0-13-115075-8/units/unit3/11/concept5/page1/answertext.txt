@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Most transcription takes place in the nucleus of the eukaryotic cell.
+&answer2=<b>The suggested answer is:</b> No; only one of the two strands is copied. The copied strand is called the template strand.
+&answer3=<b>The suggested answer is:</b> The RNA transcript contains non-coding groups of nucleotides, called introns, and the coding nucleotides, called exons. In mRNA, the introns have been removed, and only the exons remain.

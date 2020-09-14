@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Meristems are regions of actively dividing cells.  In young roots, they are found near the tip of the root.
+&answer2=<b>The correct answer is:</b> The root hairs develop in the region of cell differentiation.
+&answer3=<b>The correct answer is:</b> A root hair is a single cell; it is an extension of the epidermal cell.
+&answer4=<b>The suggested answer is:</b> Roots hairs greatly increase the surface area for water and mineral nutrient absorption.

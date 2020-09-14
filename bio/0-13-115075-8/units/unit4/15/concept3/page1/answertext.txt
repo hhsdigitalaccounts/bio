@@ -1,0 +1,5 @@
+&answer1=<b>The correct answer is:</b> Piltdown man
+&answer2=<b>The correct answer is:</b> 14,100 years old
+&answer3=<b>The suggested answer is:</b> They estimate the ages of surrounding rocks that have elements with longer half-lives.
+&answer4=<b>The suggested answer is:</b> Carbon dating is a useful tool because all living things contain carbon, and fossil ages can be determined based on evaluating how much carbon-14 is present. A limitation in using carbon dating is that it cannot be used for older fossils because after about 50,000 years, they have lost nearly all of their C-14.
+

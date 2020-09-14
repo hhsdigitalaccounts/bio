@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> The plasma cell secretes antibodies.
+&answer2=<b>The correct answer is:</b> The helper T cell binds to specific antigen-presenting cells, such as the macrophage, and secretes a chemical alarm that activates both cell-mediated and humoral immune responses.
+&answer3=<b>The suggested answer is:</b> When the helper T cell binds to the antigens displayed on a macrophage, the helper T cell releases chemicals. The chemicals activate the B cells, which produce plasma cells. These plasma cells produce the antibodies.
+&answer4=<b>The suggested answer is:</b> One attacks the invader with antibodies released into the blood and lymph; the other attacks infected cells that display the antigens. In humoral immunity response, B cells produce antibodies after being activated by free antigens present in body fluids. In cell-mediated immunity response, T cells attack infected body cells that display the antigens of pathogens on their surface.

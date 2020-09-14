@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> sensory, motor, interneuron
+&answer2=<b>The suggested answer is:</b> The sensory receptor detects that there is a stretch in the responding muscles. The interneuron receives a signal from the sensory neuron and then signals a motor neuron, which blocks the responding muscles from contracting. A different motor neuron is signaled directly by a sensory neuron to stimulate the responding muscles to contract. 

@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Damaged tissues release chemicals that attract histamine-releasing cells.
+&answer2=<b>The correct answer is:</b> mast cell
+&answer3=<b>The correct answer is:</b> Histamine causes the blood vessels to dilate, or widen, and become leaky.
+&answer4=<b>The correct answer is:</b> They attack and engulf invading pathogens.

@@ -1,0 +1,6 @@
+
+&answer1= <b>The suggested answer is:</b> I can collect samples from areas where plants show signs of nutrient deficiency such as leaves that have turned yellow or purplish or appear burned. I can also look for soil that appears low in humus.
+&answer2= <b>The correct answers are:</b> a. Nitrogen     b. N     c. Ammonium%0Dd. Potassium     e. K     f. K%2B     g. P     h. <font size="12">PO</font><font size="9">4</font>3<font size="10">-</font>     i. Phosphate
+&answer3= <b>The correct answer is:</b> c.
+&answer4= <b>The suggested answer is:</b> I will separate the ions from the rest of the soil by mixing the soil with water. The larger, heavier soil particles will sink and the humus will float. The solution that forms "in between" will contain the dissolved ions.
+

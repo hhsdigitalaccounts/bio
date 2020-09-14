@@ -1,0 +1,5 @@
+
+&answer1= <b>The correct answer is:</b> wavelengths in the red and blue range
+&answer2= <b>The suggested answer is:</b> Without light, photosynthesis would stop, but cellular respiration would continue. Therefore, oxygen production via photosynthesis would stop and the plant would consume oxygen.
+&answer3= <b>The suggested answer is:</b> Yes, but green light is less effective than other colors.  Leaves look green because much green light passes right through the leaf.  Other colors are absorbed more completely.
+&answer4= <b>The suggested answer is:</b> The pigment molecules are sensitive only to certain wavelengths of light.

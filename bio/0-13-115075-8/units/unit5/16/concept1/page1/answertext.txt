@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> ultraviolet radiation (sunlight), and electricity (lightning)
+&answer2=<b>The correct answer is:</b> oxygen
+&answer3=<b>The suggested answer is:</b> Alanine (an amino acid) is one of the building blocks of proteins. Other examples include glycine, lactic acid, acetic acid, and succinic acid.

@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The nerve signal is a wave-like change in membrane potential, or a wave of sequential action potentials, that moves farther and farther away from the site of stimulation.
+&answer2=<b>The suggested answer is:</b> In order for an action potential to "fire," the stimulus must be strong enough to change the membrane voltage to approximately -50 mV.
+&answer3=<b>The correct answer is:</b> %2B35; it indicates that the charge inside the cell is positive in relationship to the outside of the cell. 

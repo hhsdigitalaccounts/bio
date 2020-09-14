@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The pedigree indicates that the trait is probably dominant. In each generation, an affected parent produces at least one affected child. For this to happen and the trait to be recessive, the unaffected parent would have to be a carrier. This is unlikely since the condition is rare. Furthermore, no one in those parts of the family exhibits the trait.
+&answer2=<b>The correct answer is:</b> Chloe's sister can be either <i>Ww</i>, or <i>ww</i>.
+&answer3=<b>The correct answer is:</b> no white forelock 

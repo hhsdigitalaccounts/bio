@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Crustaceans include crabs, shrimps, and barnacles.  
+&answer2=<b>The suggested answer is:</b> Crustaceans have legs on their abdomen, unlike other arthropods that have legs on their thorax. Crustraceans are also the only arthropods with two pairs of antennae.
+&answer3=<b>The correct answer is:</b> Copepods feed by filtering microscopic algae and bacteria from water.

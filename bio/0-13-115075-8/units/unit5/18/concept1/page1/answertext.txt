@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> 4.5 mm per hour; 108 mm per day; 756 mm per week
+&answer2=<b>The suggested answer is:</b> At the end of one day, the surface area of the hyphae at this rate of growth would be about 31,400 square mm or about the size of a small dinner plate.
+&answer3=<b>The suggested answer is:</b> The hyphal mat absorbs nutrients from the environment. The fast rate of growth allows the fungal organism to quickly absorb nutrients from a large area.
+&answer4=<b>The suggested answer is:</b> The faster they grow the more area they expand into and the more nutrients they can absorb.

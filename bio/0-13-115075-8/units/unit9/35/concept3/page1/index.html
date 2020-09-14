@@ -1,0 +1,226 @@
+<HTML>
+<HEAD>
+	<TITLE>Unit 9: Chapter 35: Activity 35.3</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+	<SCRIPT LANGUAGE="Javascript" src="../../../../../shared/code/stylesheet.js"></SCRIPT>
+	<SCRIPT LANGUAGE="javascript" SRC="../../../../../shared/code/shared.js"></SCRIPT>
+	<SCRIPT LANGUAGE="Javascript" src="../../../../../shared/code/rolllib.js"></SCRIPT>
+	<SCRIPT LANGUAGE="Javascript" src="../../../../../shared/code/pathman.js"></SCRIPT>
+	<SCRIPT>setBrowserStyle("../../../../../shared/css/");</SCRIPT>
+	<script language="javascript">
+		top.goPathMan.register("misc", 9, 35, "Activity 35.3");
+		
+		top.giCurMiscPage = 1;
+		top.giTotalMiscPages = 1;
+		top.goPathMan.refreshPathFrame();
+	</script>
+	
+	<script language="javascript">
+		var giCurrentPeriod = 1;				// Var used for the back & next buttons on this page only.
+		var gbPreloadFlag = true;
+		newRollImage("images/backup.jpg");
+		newRollImage("images/backroll.jpg");
+		newRollImage("images/nextroll.jpg");
+		newRollImage("images/2period.jpg");
+		newRollImage("images/3period.jpg");
+		newRollImage("images/4period.jpg");
+		newRollImage("images/5period.jpg");
+		newRollImage("images/6period.jpg");
+		
+		//Possible actions = {click, mouseover, mouseout}
+		function handleButton(xsAction, xsBtnName) {
+			var currentPeriod = giCurrentPeriod;			// Grab the global
+			var nextPeriod = currentPeriod + 1;
+			var prevPeriod = currentPeriod - 1;
+			switch (currentPeriod) {
+				case 1:
+					if (xsBtnName == "next") {
+						switch (xsAction) {
+							case "mouseover":
+								changeRollImages("next", "images/nextroll.jpg");
+								break;
+							case "mouseout":
+								changeRollImages("next", "images/nextup.jpg");
+								break;
+						}
+						if (xsAction == "click") {
+							giCurrentPeriod = nextPeriod;	// Set the global
+							document.images["period"].src = "images/" + nextPeriod + "period.jpg";
+							changeRollImages("back", "images/backup.jpg");
+						}
+					}
+					break;
+				case 6:
+					if (xsBtnName == "back") {
+						switch (xsAction) {
+							case "mouseover":
+								changeRollImages("back", "images/backroll.jpg");
+								break;
+							case "mouseout":
+								changeRollImages("back", "images/backup.jpg");
+								break;
+						}
+						if (xsAction == "click") {
+							giCurrentPeriod = prevPeriod;	// Set the global
+							document.images["period"].src = "images/" + prevPeriod + "period.jpg"; 
+							changeRollImages("next", "images/nextup.jpg");
+						}
+					}
+					break;
+				default: {
+					switch (xsAction) {
+						case "mouseover":
+							changeRollImages(xsBtnName, "images/" + xsBtnName + "roll.jpg");
+							break;
+						case "mouseout":
+							changeRollImages(xsBtnName, "images/" + xsBtnName + "up.jpg");
+							break;
+					}
+					if (xsAction == "click") {
+						if (xsBtnName == "next") {
+							giCurrentPeriod = nextPeriod;			// Set the global
+							document.images["period"].src = "images/" + nextPeriod + "period.jpg"; 
+						} else {
+							giCurrentPeriod = prevPeriod;			// Set the global
+							document.images["period"].src = "images/" + prevPeriod + "period.jpg"; 
+						}
+						// gray out the buttons if necessary 
+						if (currentPeriod == 2 && xsBtnName == "back") { changeRollImages("back", "images/backgray.jpg"); }
+						if (currentPeriod == 5 && xsBtnName == "next") { changeRollImages("next", "images/nextgray.jpg"); }
+					}
+					break;				
+				}
+			}
+		}
+		
+	</script>
+	
+</HEAD>
+<BODY bgcolor="white">
+
+
+
+
+	<table WIDTH="580" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<tr>
+			<td VALIGN="TOP" background="../../images/contentbg.gif" valign="middle">
+				<table border="0" cellsapcing="0" cellpadding="0">
+					<tr>
+						<td><IMG SRC="../../images/spacer.gif" WIDTH="50" HEIGHT="18" alt=""></td>
+						<td><span CLASS="blacktextlarge"><B>Biologists are trying to predict the impact of human population  growth.</B></span></td>
+					</tr>
+				</table>
+			</TD>
+		</TR>
+		
+		<tr>
+		<td><img src="../../../../../shared/images/onepixel.gif" border=0 width=1 height=10 alt="">
+		</TD>
+		</TR>
+	</TABLE>
+	
+	<table WIDTH="580" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<tr>
+			<td VALIGN="TOP" WIDTH="50">
+				<IMG SRC="../../images/spacer.gif" WIDTH="50" HEIGHT="1" alt=""><BR>
+			</TD>
+			<td>
+				<table WIDTH="530" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+					<tr><br>
+						<td colspan=2>
+							
+						<p>
+							<table BORDER="0" CELLSPACING="0" CELLPADDING="0">
+								<tr>
+									<td><IMG SRC="../../images/subheader_icon.gif" WIDTH="19" HEIGHT="19" align="center" valign="center"alt="subheader icon"></td>
+									<td><IMG SRC="../../images/spacer.gif" WIDTH="5" HEIGHT="1" alt=""></td>
+									<td><span class="activitysubheader"><b>Plot human population growth over time.</b><br></span></td>
+								</td>
+							</table>
+						</p>
+						
+						
+						<p><b>OBJECTIVE:</b> to examine human population growth and the impact of population density<br><br>
+						In this activity, you will analyze human population growth dynamics during historical and present times. When you finish plotting the graph, scroll down to answer the questions below.<br><br></p>
+</td>
+					</tr>
+					<tr>
+						<td colspan=2 align="center"><p><img src="../../../../../shared/images/onepixel.gif" border=0 width=30 height=1 alt=""><img src="images/ch35c3p1bluebox.jpg" alt="Text Description"></p></td>
+					</tr>
+					
+					<tr>
+						<td>
+							<table border=0>
+								<tr><td align="center"><img src="images/1period.jpg" border=0 alt="Period Description" name="period"></td></tr>
+								<tr><td align="center"><img src="images/time.jpg" alt="Time Period"></td></tr>
+								<tr>
+									<td>
+										<img src="../../../../../shared/images/onepixel.gif" border=0 width=50 height=1 alt="">
+										<a href="#"   
+											onmouseover="handleButton('mouseover','back');" 
+											onmouseout="handleButton('mouseout', 'back');"
+											onClick="handleButton('click', 'back');return false;" >
+											<img src="images/backgray.jpg" border=0 alt="Back" name="back"></a>
+										<a href="#"   
+											onmouseover="handleButton('mouseover','next');" 
+											onmouseout="handleButton('mouseout', 'next');"
+											onClick="handleButton('click', 'next'); return false;" >
+											<img src="images/nextup.jpg" border=0 alt="Next" name="next"></a>
+										
+									</td>
+								</tr>
+							</table>
+						</td>
+						
+						<td>
+							<!-- Enter the size of the flash movie-->
+							<!-- if you need to use "jpg" or "gif" file, remove the comment around
+the image tag. After entering the information you need delete all the unused tags /the embed tag for
+the flash movie, jpg or gif file/ -->
+							<!-- flash movie *****************-->
+							<p align="center">
+							<EMBED src="ch35c3p1.swf" quality="high" width="365" height="350"
+bgcolor="#fffbe2" TYPE="application/x-shockwave-flash"
+PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+							</EMBED>
+							
+						</td>
+					</tr>
+				</table>
+			
+				<p>Answer the following questions in the boxes provided. After you complete each answer, click the Check Your Answer button for feedback.</p>
+				<p><b>1.</b> Describe the graph that you plotted and explain the results.</p>
+				<p><EMBED src="../../../../../shared/flash/answerq1.swf" quality=high
+bgcolor="#fffbe2"  WIDTH=400 HEIGHT=170 TYPE="application/x-shockwave-flash"
+PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+					</EMBED></p>
+				
+				<p><b>2.</b> Explain the unusual "dip" in the J-curve on the graph. </p>
+				<p><EMBED src="../../../../../shared/flash/answerq2.swf" quality=high
+bgcolor="#fffbe2"  WIDTH=400 HEIGHT=170 TYPE="application/x-shockwave-flash"
+PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+					</EMBED></p>
+					
+				<p><b>3.</b> What factors might cause the human population to increase? Decrease?</p>
+				<p><EMBED src="../../../../../shared/flash/answerq3.swf" quality=high
+bgcolor="#fffbe2"  WIDTH=400 HEIGHT=170 TYPE="application/x-shockwave-flash"
+PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+					</EMBED></p>
+				
+				<p>When you have answered all the questions, go to the <A
+HREF="javascript:goToFromContentPage('concept4');">next activity</a>.</p>
+			<td>
+		</tr>
+	</table>
+	
+	
+	<br><br>
+	<table WIDTH="580" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<tr VALIGN="TOP"> 
+			<td><IMG SRC="../../images/bottom_line.gif" WIDTH="600" HEIGHT="2" alt="bottom line"></TD>
+		</TR>
+	</table>
+	<script language="JavaScript" type="text/javascript">writeCopyright();</script>
+		
+</BODY>
+</HTML>

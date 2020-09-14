@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> It is important to make sure that the publisher respects careful scientific research and that the publisher does not have a particular bias.
+&answer2=<b>The suggested answer is:</b> You could search the Internet and find the original sources of the articles. These original sources would include more detailed, extensive information about the research.

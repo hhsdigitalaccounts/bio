@@ -1,0 +1,6 @@
+&answer1= <b>The correct answers is:</b> lighter
+&answer2= <b>The correct answers is:</b> softer
+&answer3= <b>The correct answers is:</b> more flexible
+&answer4= <b>The suggested answer is:</b> The enzyme would most likely function best at temperature and pH conditions that allow the organism that produces it to thrive.
+&answer5= <b>The suggested answer is:</b> Fabric treated with cellulase for 24 hours would look lighter in color and feel softer than fabric treated for only one hour.  Enzymes continue to function and are not used up in a reaction, so the longer the fabric is exposed to cellulase, more bonds will be broken in the cellulose fibers.
+

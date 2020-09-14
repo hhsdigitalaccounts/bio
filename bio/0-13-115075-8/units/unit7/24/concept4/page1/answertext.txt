@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The thorax anchors the wings and the legs.
+&answer2=<b>The suggested answer is:</b> Insect development from egg to adult is known as metamorphosis. In complete metamorphosis, the insect begins as an egg and becomes a larva, then a pupa, and then an adult, with a different body form at each stage. In incomplete metamorphosis, the insect develops from an egg to an adult through a number of stages, but each stage resembles the adult. 
+&answer3=<b>The suggested answer is:</b> Insects are found in most freshwater aquatic habitats and in terrestrial habitats, such as soil, grassy fields, and woods.

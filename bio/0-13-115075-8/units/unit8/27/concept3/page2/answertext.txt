@@ -1,0 +1,2 @@
+&answer1= <b>The suggested answer is:</b> The pancreas secretes insulin when the blood glucose levels are high and glucagon when the blood glucose levels are low. Both these hormones act on specific parts of the body to either absorb excess glucose or release stored glucose.
+&answer2= <b>The suggested answer is:</b> Their blood glucose levels remain high because without insulin, the cells cannot take up and store glucose.

@@ -1,0 +1,2 @@
+&answer1= <b>The suggested answer is:</b> Cardiac muscle tissue forms a contractile wall of the heart. This wall and the heart's blood-filled chambers pump blood to lungs and other parts of the body.
+&answer2= <b>The correct answer is:</b> They are both built from cells, tissues, and organs.

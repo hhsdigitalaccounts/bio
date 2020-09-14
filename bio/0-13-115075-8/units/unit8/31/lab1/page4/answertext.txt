@@ -1,0 +1,7 @@
+
+&answer1= <b>The suggested answer is:</b> Antibodies are specific. Only antibodies that were produced in response to <i>B. burgdorferi</i>, would bind to the antigen.
+&answer2= <b>The suggested answer is:</b> The positive control would contain primary antibody. The sample is known to contain antibodies to the Lyme disease antigen.
+&answer3= <b>The suggested answer is:</b> e. <i>b</i> or <i>d</i> could have caused the problem.
+If substrate were not added then the liquid in the well would not change color, even if antibodies were present. If not enough time was allowed for the antigen to bind to the well, it would have been washed away.
+&answer4= <b>The suggested answer is:</b> A new pipette should be used because there can be trace amounts of a sample still left in the inside of the pipette that would contaminate the next sample.
+

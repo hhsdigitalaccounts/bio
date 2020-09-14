@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> A microclimate is the actual climate in a certain area that varies from the surrounding climate region.
+&answer2= <b>The suggested answer is:</b> Within the kangaroo rat's underground burrow is a cool, moist microclimate that protects the animal from the hot climate during the day.
+&answer3= <b>The suggested answer is:</b> They all have found a way to adapt and survive in a microclimate that is very different from their actual climatic surroundings.

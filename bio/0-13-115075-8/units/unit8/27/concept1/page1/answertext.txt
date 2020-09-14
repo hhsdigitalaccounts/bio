@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> The skeletal system protects the body's internal organs and provides support for movement.
+&answer2=<b>The correct answer is:</b> skin, hair, nails
+&answer3=<b>The suggested answer is:</b> Cartilage is connective tissue that is strong and flexible. It surrounds the ends of bones, forms discs in between vertebrae, and is found in the tip of the nose and the outside part of the ears.
+&answer4=<b>The suggested answer is:</b> The muscular system allows the body to move.

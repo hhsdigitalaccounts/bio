@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Angiosperms have flowers%2D%2Dreproductive structures with both male and female organs. Other important reproductive adaptations include double fertilization and development of fruit.
+&answer2=<b>The suggested answer is:</b> The second sperm nucleus fertilizes another female cell that then develops into endosperm for nutrient storage.
+&answer3=<b>The correct answer is:</b> Fruits form in the ripened wall of the ovary.
+

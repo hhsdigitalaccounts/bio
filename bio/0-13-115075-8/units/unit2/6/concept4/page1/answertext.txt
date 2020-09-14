@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> The endoplasmic reticulum is connected to the nuclear envelope.
+&answer2=<b>The suggested answer is:</b> Ribosomes make proteins, which can then be transported through the ER to other parts of the cell.

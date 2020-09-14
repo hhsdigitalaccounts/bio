@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> In an inversion, a piece of the chromosome breaks off and reattaches to the same chromosome. In translocation, a piece of a chromosome breaks off and reattaches to a different chromosome. 
+&answer2=<b>The suggested answer is:</b> In a deletion, there are missing genes that may be essential for the normal development of an embryo.
+&answer3=<b>The suggested answer is:</b> All the cells of the embryo inherit the chromosome abnormality carried by the gamete. Whereas a damaged chromosome in a skin cell is only passed to a few other skin cells.

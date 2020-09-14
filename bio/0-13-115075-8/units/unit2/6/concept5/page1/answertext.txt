@@ -1,0 +1,1 @@
+&answer1=<b>The correct answer is:</b> Each organelle has two membranes.&answer2=<b>The correct answer is:</b> Light is striking the disks in the chloroplast.&answer3=<b>The correct answer is:</b> ATP is accumulating in the mitochondrion.

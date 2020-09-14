@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Aquatic turtles have lungs, and they lay their eggs on land.
+&answer2=<b>The correct answer is:</b> All turtles have shells. A turtle's shell is composed of bony plates, though some aquatic and marine turtles have leathery shells.
+&answer3=<b>The suggested answer is:</b> Turtles are classified as amniotes because they lay waterproof eggs, have water-tight skin, and internal fertilization.

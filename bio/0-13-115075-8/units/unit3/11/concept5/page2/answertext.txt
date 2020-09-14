@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Since there are 3 nucleotides in a codon and 4 possible nucleotides in each nucleotide position, the total number of different codons equals 4 x 4 x 4 %3D 64.
+&answer2=<b>The correct answer is:</b> tRNA and mRNA molecules
+&answer3=<b>The correct answer is:</b> 300 nucleotides

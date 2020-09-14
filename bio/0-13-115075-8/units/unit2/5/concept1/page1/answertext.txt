@@ -1,0 +1,2 @@
+&answer1= <b>The correct answer is:</b> In general, organic molecules contain carbon; inorganic molecules do not contain carbon.
+&answer2= <b>The suggested answer is:</b> Each carbon atom can form a total of four bonds. These bonds can be formed with additional carbon atoms or a variety of other atoms. Carbon-based molecules, therefore, can be quite large and diverse.

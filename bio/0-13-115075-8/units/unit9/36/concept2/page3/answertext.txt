@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> The sun is the ultimate energy source because it provides the initial energy for photosynthesis.
+&answer2= <b>The suggested answer is:</b> Because there is less energy available at each trophic level, there are fewer individual organisms. So there are fewer primary consumers (krill) than producers, and fewer secondary consumers (penguins) than primary consumers.
+&answer3= <b>The correct answer is:</b> Killer whale: 457 kcal; Adelie penguin: 45700 kcal
+&answer4= <b>The suggested answer is:</b> Each time that energy moves to a new trophic level, approximately 90 percent of the useful energy is lost as heat to the environment.

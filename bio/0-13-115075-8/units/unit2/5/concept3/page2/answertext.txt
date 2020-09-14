@@ -1,0 +1,2 @@
+&answer1= <b>The correct answer is:</b> The fat is unsaturated; the double bond only occurs in unsaturated fatty acids. In saturated fats, there are no double bonds in the fatty acid chains. 
+&answer2= <b>The correct answer is:</b> Corn oil has the least; beef fat has the most.

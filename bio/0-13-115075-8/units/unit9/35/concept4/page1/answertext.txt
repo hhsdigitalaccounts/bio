@@ -1,0 +1,3 @@
+
+&answer1= <b>The correct answer is:</b> They all do: predation, mutualism, commensalism, competition, and parasitism.
+&answer2= <b>The correct answer is:</b> predation, competition, parasitism, commensalism 

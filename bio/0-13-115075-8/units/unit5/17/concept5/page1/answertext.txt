@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> 1) the ancestral host cell ingests aerobic bacteria for food, which is not digested and continues to live; 2) the ancestral host cell ingests photosynthetic bacteria for food; which also continues to live; 3) over time, the aerobic and photosynthetic bacteria evolve into cellular organelles within a eukaryotic photosynthetic cell.
+&answer2=<b>The suggested answer is:</b> Endosymbiosis is a process in which chloroplasts and mictochondria evolved from smaller, symbiotic prokaryotes that lived within other, larger host prokaryotes.

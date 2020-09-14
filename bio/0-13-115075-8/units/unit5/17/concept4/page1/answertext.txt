@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The protists in this group are photosynthetic.
+&answer2=<b>The correct answer is:</b> There are three groups of seaweeds: red, brown, and green algae. The different groups are based on their photosynthetic pigments.
+&answer3=<b>The correct answer is:</b> Volvox could be found in a sunlit, aquatic habitat.

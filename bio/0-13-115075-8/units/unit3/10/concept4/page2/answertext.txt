@@ -1,0 +1,3 @@
+&answer1= <b>The correct answer is:</b> Yes, because they are on separate chromosomes.
+&answer2= <b>The correct answer is:</b> No; genes A and C are on the same chromosome, and are therefore "linked."
+&answer3= <b>The correct answer is:</b> About 50 percent of the time; there is an equal chance of the chromosomes carrying the "A" and "b" alleles moving together in anaphase I.

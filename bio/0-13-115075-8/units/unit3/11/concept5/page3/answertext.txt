@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> The sequence would occur in the following order: 2, 4, 3, 5, 1.
+&answer2=<b>The correct answer is:</b> : 3, 4, 5, 6; Separate enzymes make mRNA and bind amino acids to tRNA. The ribosome, with the help of tRNA and separate proteins, finds the start codon, moves from one codon to the next, tests whether a tRNA matches the codon in the A site, links new amino acids to the end of a growing protein, and recognizes the stop codon.

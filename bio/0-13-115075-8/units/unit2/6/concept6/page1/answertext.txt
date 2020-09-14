@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> microtubules
+&answer2=<b>The suggested answer is:</b> The amoeba moves by creating pseudopods that extend and contract. The paramecium has hair-like extensions, called cilia, that move in a back and forth motion.

@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b> The graph shows a J-shaped curve. The bacteria population grows exponentially and there are no factors limiting the growth in this example.
+&answer2= <b>The suggested answer is:</b> lack of space and/or food, waste build-up, predation, and disease
+&answer3= <b>The suggested answer is:</b> The J-shaped curve would most likely be altered in this case because a sudden population decline would occur.

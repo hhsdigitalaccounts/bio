@@ -1,0 +1,5 @@
+
+&answer1= <b>The correct answer is:</b> 46
+&answer2= <b>The correct answer is:</b> 23
+&answer3= <b>The suggested answer is:</b> It is important for each to have one set so that when they combine to form a zygote, the zygote will have two copies of each chromosome necessary to form a healthy human.
+&answer4= <b>The correct answer is:</b> Mitosis

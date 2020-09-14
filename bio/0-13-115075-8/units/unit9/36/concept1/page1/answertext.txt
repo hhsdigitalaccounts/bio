@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> The penguin eats krill and small fish; it is a third-level consumer.
+&answer2= <b>The suggested answer is:</b> Plants and algae contain chlorophyll and the sun supplies the energy necessary for the phytoplankton, the producers in this food chain, to carry out photosynthesis and thereby produce sugars for their own energy needs and the energy needs of the primary consumers.
+&answer3= <b>The suggested answer is:</b> The phytoplankton eventually increase because there would be fewer krill to consumer them. The population of the penguins would probably decline because they would not have enough food. The seal and whale populations would decline for the same reason.
+&answer4= <b>The suggested answer is:</b> They are important because they break down wastes and dead organisms and recycle nutrients back into the environment.

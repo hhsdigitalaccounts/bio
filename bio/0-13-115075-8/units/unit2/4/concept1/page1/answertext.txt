@@ -1,0 +1,3 @@
+
+&answer1= <b>The correct answer is:</b> Water, glucose, and fructose; each contains more than one element.
+&answer2= <b>The suggested answer is:</b> When different elements chemically combine, the properties of the new compound will be different from the properties of the elements.

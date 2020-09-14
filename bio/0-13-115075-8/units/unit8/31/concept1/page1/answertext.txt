@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Factors might include how the disease spreads, how quickly it spreads, and for how long a person is contagious.
+&answer2=<b>The suggested answer is:</b> Understanding these patterns can help the medical profession in treating the disease and also provide important preventive information to the public that could keep the disease from spreading.

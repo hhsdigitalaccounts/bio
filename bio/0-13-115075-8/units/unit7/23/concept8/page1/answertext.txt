@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Examples of echinoderms include sea stars, sun stars, brittle stars, sea cucumbers, and the Maine sand dollar.  
+&answer2=<b>The correct answer is:</b> No. They appear to be radially symmetrical, but close inspection shows that they are actually bilaterally symmetrical.
+&answer3=<b>The suggested answer is:</b> Echinoderms wrap themselves around their prey and evert their own stomachs into the inside of the prey. For example, a sea star wraps itself around a clam. When the clam opens just a little, the sea star everts its stomach into the inside of the clam. Then the sea star's stomach enzymes digest the clam body inside the clam's shell.

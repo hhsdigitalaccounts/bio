@@ -1,0 +1,6 @@
+
+&answer1= <b>The correct answer is:</b> 2
+&answer2= <b>The suggested answer is:</b> enzyme, or protein, or catalyst
+&answer3= <b>The correct answer is:</b> ATP
+&answer4= <b>The suggested answer is:</b> The Calvin cycle produces G3P molecules that will combine to form glucose and other organic molecules needed by the plant, and it regenerates RuBP (the CO<h2>2</h2> receptor) so that eventually more sugar and organic materials may be formed.
+&answer5= <b>The suggested answer is:</b> approximately 38

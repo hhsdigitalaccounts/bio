@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Carbon dioxide and oxygen both easily cross a membrane because they are both nonpolar, small molecules.
+&answer2=<b>The correct answer is:</b> Sodium ion is a charged particle, which prevents it from crossing the hydrophobic region of a membrane.
+&answer3=<b>The correct answer is:</b> A glucose molecule is both large and polar, and rarely crosses a membrane by simple diffusion.
+&answer4=<b>The suggested answer is:</b> Faster; a benzene molecule is nonpolar, so it is not held back by attraction to water the way that glucose is. Because it is smaller, a benzene molecule fits between phospholipids more easily than a glucose molecule.

@@ -1,0 +1,5 @@
+
+&answer1= <b>The correct answer is:</b> 23
+&answer2= <b>The correct answer is:</b> 23
+&answer3= <b>The suggested answer is:</b> They each provide one member of a pair of chromosomes found in a body cell.
+

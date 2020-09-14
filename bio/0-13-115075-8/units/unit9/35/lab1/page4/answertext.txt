@@ -1,0 +1,6 @@
+
+&answer1= <b>The suggested answer is:</b> The fisheries biologists and I were trying to answer the question, "Is the trout population recovering successfully on its own from the damage caused by the 1995 flood?"
+&answer2= <b>The correct answer is:</b> The trout population recovered from the flood in about two to three years.
+&answer3= <b>The suggested answer is:</b> Yes, the number is important. The more organisms are collected, the more accurate the estimate will be.
+&answer4= <b>Some suggested answers are:</b> Trout could have traveled from upstream. Eggs may have survived the flood and hatched.
+&answer5= <b>The suggested answer is:</b> Trout can swim downstream more easily than upstream; it is unlikely that trout eggs could have survived the flood; in the unlikely event that a person released their pet fish into a river, the fish would certainly not survive for very long.

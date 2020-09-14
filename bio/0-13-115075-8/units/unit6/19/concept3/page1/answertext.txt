@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Ferns and their relatives contain lignin, a chemical that hardens plants' cell walls, making them stronger. Lignin provides greater support for plants larger than a few centimeters. In addition, ferns have vascular tissue, which can transport water and nutrients throughout the plant.
+&answer2=<b>The suggested answer is:</b> There is a small, haploid generation that relies on a moist environment for sperm dispersal.

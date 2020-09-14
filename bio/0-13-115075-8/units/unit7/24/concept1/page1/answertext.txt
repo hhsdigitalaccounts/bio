@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The jointed legs (and feet) of arthropods are used for locomotion and give the arthropods their name.
+&answer2=<b>The correct answer is:</b> in the head region
+&answer3=<b>The suggested answer is:</b> The arthropod uses the chemical and touch receptors in its antennae to sense its environment.

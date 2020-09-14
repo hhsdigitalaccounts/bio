@@ -1,0 +1,2 @@
+&answer1= <b>The suggested answer is:</b> Mendel's principle of segregation states that the two alleles separate (segregate) from each other in gamete formation. In Anaphase I, the "A" and "a" alleles, and the "B" and "b" alleles do separate from one another.
+&answer2= <b>The correct answer is:</b> The probability is the same.

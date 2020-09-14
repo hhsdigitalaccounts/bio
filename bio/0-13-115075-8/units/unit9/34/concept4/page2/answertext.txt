@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> Phytoplankton; they obtain their energy from sunlight so they must live in the zones that are closest to the ocean's surface.
+&answer2= <b>The suggested answer is:</b> Zooplankton, unlike phytoplankton, do not depend on direct sunlight for energy; they can live in zones below the surface. Zooplankton can also tolerate a wide range of water temperatures. 
+&answer3= <b>The correct answer is:</b> Conch is found in the neritic benthic zone.
+&answer4= <b>The correct answer is:</b> Red tide is seen in the intertidal, neritic, and oceanic zones.

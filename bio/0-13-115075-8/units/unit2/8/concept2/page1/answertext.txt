@@ -1,0 +1,6 @@
+
+&answer1= <b>The correct answer is:</b> gamma rays
+&answer2= <b>The correct answer is:</b> x-rays
+&answer3= <b>The correct answer is:</b> from about 1 meter to about 10,000 meters
+&answer4= <b>The suggested answer is:</b> 510 nm to 550 nm
+&answer5= <b>The correct answer is:</b> blue

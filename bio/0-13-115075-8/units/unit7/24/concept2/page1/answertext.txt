@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Scorpions have fanglike chelicerae, which inject poison into prey, and pedipalps, which are used to manipulate prey.  
+&answer2=<b>The correct answer is:</b> Spiders and scorpions are predators.
+&answer3=<b>The correct answer is:</b> Spiders usually inject poison to subdue their prey. Some spiders are active hunters, while others lie in ambush and trap their prey with various kinds of webs made of spider silk.
+&answer4=<b>The suggested answer is:</b> Arachnids are classified as arthropods because they have segmented bodies, exoskeletons, and jointed appendages.

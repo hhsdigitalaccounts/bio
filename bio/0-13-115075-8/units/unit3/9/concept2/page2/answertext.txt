@@ -1,0 +1,3 @@
+
+&answer1= <b>The correct answer is:</b> The cells are permanently stopped in G1 while they continue to carry out their important cellular functions.
+&answer2= <b>The suggested answer is:</b> The cells that line the stomach and gut are continually being lost due to the grinding action and acidic environment. Normally, neurons do not need to be replaced, and their cellular structure and function would make it difficult for them to undergo cell division.

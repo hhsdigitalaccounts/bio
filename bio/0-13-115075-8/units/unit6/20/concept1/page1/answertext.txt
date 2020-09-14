@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Look closely at the point where the flower parts are attached. The sepals are attached in ring outside the petals.
+&answer2=<b>The correct answer is:</b> stigma, style, and ovary  
+&answer3=<b>The correct answer is:</b> Large, colorful petals are adaptations that attract insects and other animals, which function as pollinators.
+&answer4=<b>The correct answer is:</b> The ovary develops into the fruit and the ovule develops into the seed. 

@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> The sponges, or Porifera, have no true tissues.
+&answer2=<b>The correct answer is:</b> The cnidarians have radial symmetry.

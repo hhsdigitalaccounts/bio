@@ -1,0 +1,2 @@
+&answer1= <b>The correct answer is:</b> During fertilization, the mother contributed one chromosome and the father contributed one chromosome.
+&answer2= <b>The suggested answer is:</b> They can make sure that the individual has the appropriate number of chromosomes and that there are no deletions or additions to individual chromosomes that might cause a change in a person's genes.

@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Many different types of bacteria prey on molds. Molds have evolved many natural chemical defense mechanisms, which help them survive. Penicillin is one of the natural chemical defenses produced by molds.
+&answer2=<b>The suggested answer is:</b> Penicillin does not destroy the bacterial cell walls structure itself, but penicillin prevents an enzyme from making new bacteria cell walls. The result is that the new bacteria do not have cell walls that are strong enough to prevent them from bursting.
+&answer3=<b>The suggested answer is:</b> These bacteria can reproduce and grow in the presence of penicillin.

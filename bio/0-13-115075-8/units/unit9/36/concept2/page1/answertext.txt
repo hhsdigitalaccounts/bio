@@ -1,0 +1,2 @@
+&answer1= <b>The suggested answer is:</b> Both have high levels of chlorophyll indicating a high level of productivity.
+&answer2= <b>The suggested answer is:</b> Plants are producers and provide the basis for the food chain.

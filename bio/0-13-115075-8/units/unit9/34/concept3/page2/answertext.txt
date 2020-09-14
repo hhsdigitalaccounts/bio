@@ -1,0 +1,2 @@
+&answer1= <b>The correct answer is:</b> The coldest month is February; the wettest month is August.
+&answer2= <b>The suggested answer is:</b> June: the amount of rainfall is less than the other summer months and the temperature is warm.

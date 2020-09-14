@@ -1,0 +1,2 @@
+&answer1= <b>The suggested answer is:</b> Polymers are built by joining monomers together during the dehydration reaction, and water is released as a byproduct. 
+&answer2= <b>The suggested answer is:</b> During digestion, hydrolysis must occur so that the starch can break down into glucose units.

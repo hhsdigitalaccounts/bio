@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The operculum is a protective flap that covers a fish's gills. When it moves, the operculum pumps water through the gills, allowing the fish to obtain oxygen from the water even when it's not swimming.  
+&answer2=<b>The suggested answer is:</b> The swim bladder enables the fish to change its buoyancy, which allows the fish to suspend at different depths in the water.
+&answer3=<b>The suggested answer is:</b> Unlike the skeletons of bony fishes, sharks have skeletons made of cartilage. Sharks do not have an operculum for gas exchange, swim bladders, or scales as bony fishes do. They are alike in that both are predators and have lateral line systems and paired fins.

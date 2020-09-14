@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Using this technology, a gene that provides resistance to specific weed-killing chemicals has been developed. When farmers use chemicals, they kill weeds without killing the crops. 
+&answer2=<b>The suggested answer is:</b> Using this technology, scientists can insert the human gene that directs the production of human insulin into the bacterium <i>E.coli</i>, which can produce large quantities of human insulin. Insulin is used to treat diabetes.

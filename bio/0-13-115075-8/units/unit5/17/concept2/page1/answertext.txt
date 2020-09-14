@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Protozoa have no cell wall, are frequently free-living, and eat organisms.
+&answer2=<b>The correct answer is:</b> Cilia are small, oar-like projections that allow some protozoans to move through water. They also help some protozoans filter water for food particles.
+&answer3=<b>The correct answer is:</b> Animal-like protozoans are found in many kinds of aquatic habitats.

@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The follicle is a cluster of cells that surrounds, protects, and nourishes a developing egg cell and also secretes hormones.
+&answer2=<b>The correct answer is:</b> The function of the oviduct is to carry the secondary oocyte away from the ovary and toward the uterus.
+&answer3=<b>The suggested answer is:</b> %0D<b>Seminal vesicles</b>: secrete a clear fluid that lubricates and nourishes the sperm%0D<b>Prostate gland</b>: secretes a milky fluid that helps to protect the sperm from the natural acidity of the vagina%0D<b>Bulbourethral glands</b>: secrete only a few drops of fluid into the urethra; this fluid is thought to lubricate the urethra, helping sperm move through it

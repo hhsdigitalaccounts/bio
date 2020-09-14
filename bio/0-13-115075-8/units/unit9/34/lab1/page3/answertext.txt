@@ -1,0 +1,6 @@
+
+&answer1= <b>The suggested answer is:</b> When you move a slide while looking through the microscope, the object you are viewing moves in the opposite direction. For example, if you move the slide to the left, the object you are viewing moves to the right of the field of view.
+&answer2= <b>The suggested answer is:</b> The student may not have centered the organism in the field of view before switching lenses, or the organism may have moved out of the field of view.
+&answer3= <b>The suggested answer is:</b> Some examples of clues were color, shape, size, and movement. 
+
+

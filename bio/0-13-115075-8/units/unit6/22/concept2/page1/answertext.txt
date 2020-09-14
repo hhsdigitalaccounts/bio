@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> blue
+&answer2=<b>The suggested answer is:</b> You could try to grow the plant in blue and yellow or blue and green light at opposite sides of the plant; the plant always grows toward the blue light.  

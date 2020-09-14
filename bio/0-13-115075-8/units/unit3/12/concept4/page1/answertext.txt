@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Growth factor genes produce proteins that stimulate cells to develop, grow, and enter into the next phase of the cell cycle. 
+&answer2=<b>The suggested answer is:</b> This tumor-suppressor gene prevents the cell from leaving G<sub>1</sub> until defective DNA is repaired.

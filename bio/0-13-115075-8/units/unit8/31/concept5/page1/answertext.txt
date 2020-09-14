@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> An allergen is usually a foreign protein that stimulates an allergic response, but is normally harmless.
+&answer2=<b>The suggested answer is:</b> peanuts, shellfish, dander, pollen, molds, and dust mites
+&answer3=<b>The suggested answer is:</b> Histamine, released from mast cells, dilates local blood vessels, which results in liquid filling areas like the eyes and the nose.

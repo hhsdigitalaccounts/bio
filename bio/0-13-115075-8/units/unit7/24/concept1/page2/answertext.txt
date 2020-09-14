@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> All arthropods have exoskeletons and jointed appendages.
+&answer2=<b>The correct answer is:</b> Arachnophobia refers to a fear of spiders.
+

@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b>  The light reactions supply the NADPH and ATP to provide energy to form sugar, while the Calvin cycle recycles NADP%2B and ADP back to the light reactions.
+&answer2= <b>The suggested answer is:</b> It is one of the end products of the breakdown of water and is not used in the process of forming sugar.
+&answer3= <b>The suggested answer is:</b> Because it provides the energy necessary to produce ATP and NADPH.

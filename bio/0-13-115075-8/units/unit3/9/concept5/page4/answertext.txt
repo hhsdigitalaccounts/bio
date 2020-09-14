@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b> The pairing of homologous chromosomes in prophase I allows them to move opposite of each other, in the middle of the cell, during metaphase I.  Therefore, the two daughter nuclei will contain only one copy of each homologous pair.
+&answer2= <b>The suggested answer is:</b> In prophase I and II, the chromosomes are composed of two chromatids. However, in prophase II there is only half the number of chromosomes.
+&answer3= <b>The suggested answer is:</b> During the metaphase of both meiosis II and mitosis, the chromosomes line up in the middle with the centromeres.

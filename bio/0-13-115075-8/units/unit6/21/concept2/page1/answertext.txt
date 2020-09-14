@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> carbon dioxide (CO<font size="7">2</font>), water vapor (H<font size="7">2</font>O), and oxygen (O<font size="7">2</font>)
+&answer2=<b>The correct answer is:</b> Usually, higher light intensities cause the stoma to open if water is available.
+&answer3=<b>The suggested answer is:</b> Since water evaporates through the stoma, closing the stoma can minimize water loss. When internal CO<font size="7">2</font> concentrations are high, photosynthesis can occur. CO<font size="7">2</font> does not need to enter the leaf through the stoma, and closing the stoma prevents water loss.
+&answer4=<b>The suggested answer is:</b> Some oxygen is used for cellular respiration, but most oxygen is a waste product and must be eliminated.  

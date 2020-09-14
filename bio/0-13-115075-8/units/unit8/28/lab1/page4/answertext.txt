@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> The place where the optic nerve pokes through the retina is the blind spot. There are no photoreceptors in this part of the retina.
+&answer2= <b>The suggested answer is:</b> The brain uses the background colors and patterns to fill in the blind spot.
+&answer3= <b>The suggested answer is:</b> The visual information missing in one eye's blind spot is filled in with information obtained from the other eye.
+&answer4= <b>The suggested answer is:</b> The fovea in the macula lutea is probably the most important area of the retina because it is densely packed with thousands of cones that make it possible for you to see a sharp, detailed image.

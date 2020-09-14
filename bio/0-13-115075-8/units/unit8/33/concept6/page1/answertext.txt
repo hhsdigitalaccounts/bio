@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> STDs caused by bacteria can be treated with antibiotics and can be cured. Viral infections have no cure; with medication, the symptoms can be eased.
+&answer2=<b>The suggested answer is:</b> If a person is infected and does not know it, he or she may unintentionally infect another person. Also, by the time the symptoms appear, the disease may have damaged some internal organs.
+&answer3=<b>The suggested answer is:</b> If antibiotics no longer kill bacteria that cause STDs, the people who are infected may not be cured.

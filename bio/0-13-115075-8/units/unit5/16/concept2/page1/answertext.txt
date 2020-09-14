@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Humans require pre-formed organic compounds that break down, extracting energy and providing a carbon source. Therefore, humans are chemoheterotrophs. 
+&answer2=<b>The suggested answer is:</b> Plants require light as an energy source and carbon dioxide to make organic compounds. Therefore, plants are photoautotrophs.
+&answer3=<b>The suggested answer is:</b> It is significant because it shows the diversity of prokaryotes and how they have adapted to so many different environments.

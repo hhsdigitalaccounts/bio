@@ -1,0 +1,1 @@
+&answer1=<b>The suggested answer is:</b> Both display information in sequential steps, but in a cycle diagram, there is no beginning or end point--the cycle is continuous. 

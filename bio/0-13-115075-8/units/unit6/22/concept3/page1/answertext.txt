@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> There are more likely to be day-neutral plants growing in the equatorial regions. 
+&answer2=<b>The suggested answer is:</b> The plants should receive more than ten hours of darkness each day to induce flower bud formation.
+&answer3=<b>The suggested answer is:</b> No; plants measure the length of the dark period. If a short-day plant has a critical day length of 14 hours, it needs 10 or more hours of dark.

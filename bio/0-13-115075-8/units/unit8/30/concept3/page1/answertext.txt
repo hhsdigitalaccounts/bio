@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> White blood cells are the body's primary defense against infection. They can move out of the bloodstream and reach tissues being invaded.   
+&answer2=<b>The suggested answer is:</b> The red blood cells are found in the cellular component layer. They contain the protein hemoglobin, which enables them to pick up and deliver oxygen to all parts of the body.  
+&answer3=<b>The suggested answer is:</b> The percentage of blood that consists of red blood cells is called hematocrit. Hematocrit is an important medical value because it is a relative measure of the oxygen-carrying capacity of the blood.   

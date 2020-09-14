@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> There is a higher probability that a crossover will happen between gene D and E; however, there is a small possibility that you have more crossovers between C and D.
+&answer2= <b>The suggested answer is:</b> Since the position of a crossover is random and the distance between D and E is greater than the distance between C and D, more crossovers will fall between D and E than between C and D.
+&answer3= <b>The correct answer is:</b> 15.

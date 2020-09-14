@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b> The graph shows an S-shaped curve. The population started growing exponentially after the bears returned to the area, but limiting factors restricted the growth. The bear population leveled off as it reached its carrying capacity.
+&answer2= <b>The suggested answer is:</b> Scarcity of food and competition for food may have forced some bears to leave the area; disease; competition for space.
+&answer3= <b>The suggested answer is:</b> A fire limited the bear population, but the fire is not related to the bear population density. A fire has the same effect on a population, no matter what size the population is. 

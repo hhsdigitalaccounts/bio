@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> The genetic code usually has more than one codon specifying an amino acid. Therefore, base substitutions may or may not affect the final amino acid sequence.
+&answer2=<b>The suggested answer is:</b> This would alter the grouping of the triplet nucleotides, causing all the nucleotides beyond the deletion to be regrouped into different codons. Most likely the new codons would result in a different amino acid sequence or encounter an early stop codon.

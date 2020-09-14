@@ -1,0 +1,5 @@
+&answer1=<b>The correct answer is:</b> Fermentation takes place in the cytoplasm.
+&answer2=<b>The correct answer is:</b> Four ATP molecules per glucose molecule are made, but two are used. The net gain, therefore, is two.
+&answer3=<b>The suggested answer is:</b> Producing 38 ATP molecules per glucose molecule, cellular respiration makes up to 19 times as much ATP per glucose molecule as fermentation makes.
+&answer4=<b>The suggested answer is:</b> Cellular respiration can't get enough oxygen to supply all the ATP that I need, so my cells run fermentation too. Glycolysis then runs even faster, making extra ATPs and recycling the NAD%2B that glycolysis needs.
+ 

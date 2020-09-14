@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Aggressive and submissive behaviors help members of the social group determine rankings, which minimizes actual physical conflict.
+&answer2=<b>The suggested answer is:</b> Upon seeing an aggressive display, an intruder coyote will get the message and might avoid a risky confrontation with an established coyote.
+&answer3=<b>The suggested answer is:</b> Both dogs and coyotes communicate with barks, growls, and howls.  Also, both rely on smell by marking territories with urine.

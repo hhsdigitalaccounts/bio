@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> primary
+&answer2= <b>The correct answer is:</b> secondary
+&answer3= <b>The suggested answer is:</b> Secondary, tertiary and quaternary structures will be affected, but not the primary structure. As a result, the shape of the molecule will change along with its ability to bind and transport oxygen.
+

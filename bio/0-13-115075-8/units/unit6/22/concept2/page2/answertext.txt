@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> It grows away from the light, against the pull of gravity.
+&answer2=<b>The suggested answer is:</b> When seeds fall to the ground, they land in no particular orientation. Therefore, the young embryonic shoot must be able to grow up, out of the soil.  And the root must grow down into the soil to anchor the plant and absorb water and nutrients.

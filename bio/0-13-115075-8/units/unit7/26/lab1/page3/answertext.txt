@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> the shell and the outer and inner shell membranes
+&answer2=<b>The suggested answer is:</b> the yolk and egg white
+&answer3=<b>The suggested answer is:</b> A yolk is forms in the ovary and is released into the oviduct. As the yolk travels through the oviduct, the egg white forms, the shell membranes form, and then the shell forms. An egg is laid 22-24 hours after the yolk is released into the oviduct.

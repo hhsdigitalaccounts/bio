@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Both cytochrome <i>c</i> and hemoglobin data suggest that humans and monkeys are more closely related than humans are to the other three species.
+&answer2=<b>The correct answer is:</b> Both cytochrome <i>c</i> and hemoglobin data suggest that humans and frogs are more distantly related than humans are to the other three species. 
+&answer3=<b>The suggested answer is:</b> The amino acid sequence of proteins is determined by information carried in DNA. Measuring the similarity of amino acid sequences also measures the similarity in the DNA. 

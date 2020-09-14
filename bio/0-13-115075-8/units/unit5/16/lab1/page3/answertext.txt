@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Copepods, which are found in bodies of water, carry the bacteria that cause cholera infections. If a person drinks water containing enough copepods carrying <i>Vibrio cholerae</i>, that person may develop cholera.
+&answer2=<b>The suggested answer is:</b> The two best items shown in the photograph are clay jars and cloth. 
+&answer3=<b>The suggested answer is:</b> Place one or more layers of cloth over the opening to a clay water jar. Fill another jar with water and pour the water through the cloth and into the first jar.

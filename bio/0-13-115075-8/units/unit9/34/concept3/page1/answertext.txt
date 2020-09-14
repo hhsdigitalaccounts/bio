@@ -1,0 +1,5 @@
+&answer1= <b>The correct answer is:</b> The left-hand vertical axis represents temperature; the right-hand vertical axis represents precipitation.
+&answer2= <b>The correct answer is:</b> The letters along the horizontal axis represent the months of the year.
+&answer3= <b>The correct answer is:</b> The units of temperature are %B0C; the units of precipitation are centimeters, cm
+&answer4= <b>The correct answer is:</b> January: For January, the average temperature is 26.1%B0C and the average precipitation is 27 cm. For July, the average temperature is 26.5%B0C and the average precipitation is 7.0 cm.
+&answer5= <b>The suggested answer is:</b> medium rainfall and warm temperature throughout the year

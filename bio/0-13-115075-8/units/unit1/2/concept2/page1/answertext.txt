@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Examples of questions include: Was the difference in height due to different environments? Was the difference in height due to genetic differences in the two populations of plants?  
+&answer2=<b>The suggested answer is:</b> She could try to control the light, the soil, the humidity, and the altitude of the test garden.

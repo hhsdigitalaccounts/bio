@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> The tentacles and the surfaces of cnidarians are lined with cnidocytes, or stinging cells. As prey is encountered, the tentacles wrap around the prey, and then some stinging cells inject venom that paralyzes the prey. The cnidarian then draws the prey into its mouth.
+&answer2=<b>The correct answer is:</b> Cnidarians have two possible body forms: the medusa form, which moves freely through water, and the polyp form, which attaches or anchors to surfaces.

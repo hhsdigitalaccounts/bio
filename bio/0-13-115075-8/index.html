@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+            "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+	<head>
+		<title>Biology: Exploring Life</title>
+		<script language="javascript" src="shared/code/pathman.js"></script>
+		<script language="javascript" src="shared/code/stylesheet.js"></script>
+		<script language="Javascript">
+			var gbAtHome = false;			//Flag whether or not at the home page
+			var gbIsViewBy = false;			//Flag whether the home is at viewby
+			var gsSubtoolbarBtnNum = "1";	//indicates which of the subtoolbar buttons is down
+			var gbReloadSubtoolbarHome = false;	//Whether or not the subtoolbarhome needs loading
+			var gbIEMac = is.ie && is.mac;	// this must come before pathman creation
+			var goPathMan = new PathMan();
+			var gsCurMiniNavLoc = "";		// which section - i.e. - concept1, etc.
+			var giCurMiscPage = 0;    		// which page for the pageNav stepper
+			var giTotalMiscPages = 0;
+			var giNumConceptsInCurChap = 0;	// the number of concepts in the current chap
+		</script>  
+	</head>
+
+	<frameset rows="79,*" border="0" frameborder="NO" framespacing="0">
+		<frameset  rows="52,27" border="0" frameborder="NO" framespacing="0">
+			<frame src="toolbar/index.html" name="toolbar" scrolling="NO" marginwidth="0" marginheight ="0" noresize>
+			<frame src="toolbar/subtoolbars/subtoolbarhome.html" name="subtoolbar" scrolling="NO" marginwidth="0" marginheight ="0" noresize>
+		</frameset>
+		<frame src="home/index.html" name="maincontent" scrolling="auto" marginwidth="4" marginheight ="4" noresize>
+	</frameset>
+	<noframes>
+		<body bgcolor="white">
+
+
+
+
+			You need a frame enabled browser to view this site. Sorry.
+		</body>
+	</noframes>
+</html>

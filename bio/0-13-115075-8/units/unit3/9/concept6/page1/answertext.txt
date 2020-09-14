@@ -1,0 +1,5 @@
+
+&answer1= <b>The correct answer is:</b> ABCDEFgh
+&answer2= <b>The correct answer is:</b> abcdefGH
+&answer3= <b>The correct answer is:</b> abcdeFGH and ABCDEfgh
+

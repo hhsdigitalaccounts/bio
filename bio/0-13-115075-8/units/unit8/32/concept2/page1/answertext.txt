@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The kidneys maintain water and salt balance and regulate the removal of metabolic wastes.
+&answer2=<b>The suggested answer is:</b> In the ureter, urine travels from the kidneys through the ureters to the urinary bladder. The urinary bladder is a sac that temporarily stores urine until it is eliminated from the body. The urethra is a tube that carries urine from the urinary bladder to the outside of the body.
+&answer3=<b>The suggested answer is:</b> The nephron is the main filtering unit of the kidney. It consists of a tubule and surrounding capillaries and produces the urine that ultimately collects in the renal pelvis. 

@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> an exotoxin
+&answer2=<b>The correct answer is:</b> the outer membrane of the cell wall
+&answer3=<b>The suggested answer is:</b> Because endotoxins can only cause the symptoms of the disease when the bacteria is broken open. The antibiotics kill the bacteria, break it open, and release the endotoxins.

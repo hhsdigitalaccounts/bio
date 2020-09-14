@@ -1,0 +1,5 @@
+
+&answer1= <b>The suggested answer is:</b> The lines represent the difference in potential energy for each pair of electrons.
+&answer2= <b>The suggested answer is:</b> Line "A" is correct. All of the energy is released in one short burst.
+&answer3= <b>The suggested answer is:</b> Line "B" is correct. As the electron moves "down" the electron transport chain, the changes in potential energy are gradually released in small amounts.
+&answer4= <b>The suggested answer is:</b> In both cases the same amount of energy is released. However, in "B," the energy releases are suitable to perform useful work in the cell (e.g., make ATP).

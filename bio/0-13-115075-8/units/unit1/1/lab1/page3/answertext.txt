@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> You use the coarse focus knob only when focusing on an object while the low power objective lens is in place.
+&answer2=<b>The suggested answer is:</b> Use the diaphragm to adjust the amount of light coming through the microscope.
+&answer3=<b>The suggested answer is:</b> Switch back to medium power and locate the organism again. Make sure it is centered in the field of view and is in focus. Then, switch back to high power and focus with the fine focus knob.

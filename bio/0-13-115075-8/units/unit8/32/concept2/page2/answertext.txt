@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> Blood cells and large molecules that cannot be forced through the capillary walls.
+&answer2=<b>The suggested answer is:</b> During secretion, substances are transported from the blood to the filtrate. In reabsorption, substances are transported from the filtrate to the blood.

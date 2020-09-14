@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Thermoregulation is one of many body processes that help maintain a stable internal condition--homeostasis. The function of thermoregulation is to maintain a constant body temperature at about 37 degrees C. 
+&answer2=<b>The correct answer is:</b> The "thermoregulation center" in the brain 
+&answer3=<b>The suggested answer is:</b> A thermostat is set for a particular room temperature. When the temperature in the room rises above or below the set amount, it regulates the amount of heat released. The body also has a set temperature (about 37 degrees) and when it falls below or rises above this, the body regulates the heat accordingly. 

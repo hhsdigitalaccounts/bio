@@ -1,0 +1,3 @@
+&answer1= <b>The correct answer is:</b> All the offspring were purple.
+&answer2= <b>The suggested answer is:</b> All the offspring would produce pale purple flowers.
+&answer3= <b>The correct answer is:</b> They appear identical, but they are genetically different.

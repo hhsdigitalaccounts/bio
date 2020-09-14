@@ -1,0 +1,683 @@
+<HTML>
+<HEAD>
+<TITLE>Viewby_layout</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<SCRIPT SRC="../shared/code/stylesheet.js" LANGUAGE="javascript"></SCRIPT>
+<SCRIPT SRC="../shared/code/shared.js" LANGUAGE="javascript"></SCRIPT>
+<LINK rel="stylesheet" href="../shared/css/linkstyle.css">
+
+<SCRIPT LANGUAGE="JavaScript">
+	setBrowserStyle("../shared/css/");
+		// Do some things when loading this page.	
+	function init() {
+		//This if-statement is used for when returning home from the pathman toolbar or from welcome page.
+		parent.gbViewBy = true;
+		
+		if (top.gbReloadSubtoolbarHome == true) {
+			top.subtoolbar.document.location.href = "../toolbar/subtoolbars/subtoolbarhome.html";			//reload subtoolbar
+			top.gbReloadSubtoolbarHome = false;
+		}
+		top.gbAtHome = true;
+		top.gsSubtoolbarBtnNum = "2";
+		top.goPathMan.reset();
+	}
+
+		// Clean up things when leaving this page.
+	function leave() {
+		top.gbAtHome = false;
+	}
+
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="images/viewbybg.jpg" ONLOAD="init();" ONUNLOAD="leave();">
+
+
+
+	
+<table  BORDER=0 CELLPADDING=0 CELLSPACING=0>
+ 	<tr>
+		<td rowspan=5><!-- spacer to set left margin -->		
+			<IMG SRC="images/spacer.gif" WIDTH=147 HEIGHT=1 ALT=""></TD>
+		<td><!-- left gutter for first column-->
+			<IMG SRC="images/spacer.gif" width=9 HEIGHT=1 ALT=""></TD>
+		<td><!-- content for first column -->	
+			<IMG SRC="images/spacer.gif" WIDTH=151 HEIGHT=1 ALT=""></TD>
+		<td><!-- gutter between section names and chapter numbers-->		
+			<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+		<td><!-- chapter numbers -->		
+			<IMG SRC="images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=""></TD>	
+		<td><!-- right gutter  for first column-->		
+			<IMG SRC="images/spacer.gif" WIDTH=9 HEIGHT=1 ALT=""></TD>	
+		<td><!-- left gutter for second column-->	
+			<IMG SRC="images/spacer.gif" width=11 HEIGHT=1 ALT=""></TD>
+		<td><!-- section names for second column -->	
+			<IMG SRC="images/spacer.gif" WIDTH=153 HEIGHT=1 ALT=""></TD>
+		<td><!-- gutter between section names and chapter numbers-->		
+			<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+		<td><!-- chapter numbers -->		
+			<IMG SRC="images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=""></TD>	
+		<td><!-- right gutter  for second column-->		
+			<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+		<td><!-- left gutter for third column-->	
+			<IMG SRC="images/spacer.gif" width=10 HEIGHT=1 ALT=""></TD>
+		<td><!-- section names for third column -->	
+			<IMG SRC="images/spacer.gif" WIDTH=140 HEIGHT=1 ALT=""></TD>
+		<td><!-- gutter between section names and chapter numbers-->		
+			<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+		<td><!-- chapter numbers -->		
+			<IMG SRC="images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=""></TD>	
+		<td><!-- right gutter  for third column-->		
+			<IMG SRC="images/spacer.gif" WIDTH=22 HEIGHT=1 ALT=""></TD>	
+		<td rowspan=5><!-- right gutter for content table -->		
+			<IMG SRC="images/spacer.gif" WIDTH=4 HEIGHT=1 ALT=""></TD>	
+	</TR> 
+	<tr>
+		<td colspan=5 background="images/fadeout.gif"><!-- first column-->
+			<IMG SRC="images/spacer.gif" width=197 HEIGHT=13 ALT=""></TD>
+		<td colspan=5 ><!-- second column-->	
+			<IMG SRC="images/spacer.gif" width=200 HEIGHT=13 ALT=""></TD>
+		<td colspan=5 background="images/fadeout.gif"><!-- third column -->	
+			<IMG SRC="images/spacer.gif" WIDTH=197 HEIGHT=13 ALT=""></TD>
+	</TR>
+	<tr>
+		<td class="yellowtable" colspan=3 valign="baseline"><img src="images/spacer.gif" alt="" width="2" height="1" border="0"><img src="images/webquesticon.gif" alt="" width="21" height="22" border="0" align="absbottom"><span class="unitheader">WebQuests</span></TD>
+		<td class="yellowtable" valign="baseline" align="right"><span class="chapnum">Ch.</span></TD>
+		<td class="yellowtable"><IMG SRC="images/spacer.gif" width=1 HEIGHT=1 ALT=""></TD>
+		<td colspan=3 valign="baseline"><img src="images/spacer.gif" alt="" width="2" height="1" border="0"><img src="images/labsicon.gif" alt="" width="17" height="22" border="0" align="absbottom"><span class="unitheader">Labs</span></TD>
+		<td valign="baseline" align="right"><span class="chapnum">Ch.</span></TD>
+		<td><IMG SRC="images/spacer.gif" width=1 HEIGHT=1 ALT=""></TD>
+		<td class="yellowtable" colspan=3 valign="bottom"><img src="images/spacer.gif" alt="" width="2" height="1" border="0"><img src="images/featuresicon2.gif" alt="" width="20" height="22" border="0" align="absbottom"><span class="unitheader">Features</span></TD>
+		<td class="yellowtable" valign="baseline" align="right"><span class="chapnum">Ch.</span></TD>
+		<td class="yellowtable"><IMG SRC="images/spacer.gif" width=1 HEIGHT=1 ALT=""></TD>
+	</TR>
+	<tr>
+		<td class="yellowtable" colspan=5 valign=top><!-- first column (webquests)-->
+			<table CELLPADDING=0 CELLSPACING=2 BORDER=0>
+				<tr>
+					<td rowspan=37><!-- left gutter for first column-->
+						<IMG SRC="images/spacer.gif" width=9 HEIGHT=1 ALT=""></TD>
+					
+          <td><p class="viewbynote">NOTE: WebQuests are not included on the CD-ROM 
+              because they contain Internet links. They are available online.</p>
+            <p class="viewbynote"> <IMG SRC="images/spacer.gif" WIDTH=151 HEIGHT=1 ALT=""></p></TD>
+					<td rowspan=37><!-- gutter between section names and chapter numbers-->		
+						<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+					<td><!-- chapter numbers -->		
+						<IMG SRC="images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=37><!-- right gutter  for first column-->		
+						<IMG SRC="images/spacer.gif" WIDTH=9 HEIGHT=1 ALT=""></TD>
+				</TR>
+				<tr>
+					<td><a class="chapters">CuriosityQuest</a></TD>
+					<td align=right><a class="chapnum">1</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">GoodallQuest</a></TD>
+					<td align=right><a class="chapnum">2</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">AnimalBehaviorQuest</a></TD>
+					<td align=right><a class="chapnum">3</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">AcidRainQuest</a></TD>
+					<td align=right><a class="chapnum">4</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">PizzaQuest</a></TD>
+					<td align=right><a class="chapnum">5</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">CellQuest</a></TD>
+					<td align=right><a class="chapnum">6</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">CalorieQuest</a></TD>
+					<td align=right><a class="chapnum">7</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ChocolateQuest</a></TD>
+					<td align=right><a class="chapnum">8</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">GrowthQuest</a></TD>
+					<td align=right><a class="chapnum">9</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ProbabilityQuest</a></TD>
+					<td align=right><a class="chapnum">10</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">CodeQuest</a></TD>
+					<td align=right><a class="chapnum">11</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">TraitQuest</a></TD>
+					<td align=right><a class="chapnum">12</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ForensicQuest</a></TD>
+					<td align=right><a class="chapnum">13</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ArchaeopteryxQuest</a></TD>
+					<td align=right><a class="chapnum">14</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ContinentalDriftQuest</a></TD>
+					<td align=right><a class="chapnum">15</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">BacteriaQuest</a></TD>
+					<td align=right><a class="chapnum">16</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">RedTideQuest</a></TD>
+					<td align=right><a class="chapnum">17</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">FungiQuest</a></TD>
+					<td align=right><a class="chapnum">18</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">RainforestQuest</a></TD>
+					<td align=right><a class="chapnum">19</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">PollenQuest</a></TD>
+					<td align=right><a class="chapnum">20</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">CarnivorousPlantQuest</a></TD>
+					<td align=right><a class="chapnum">21</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">AdaptQuest</a></TD>
+					<td align=right><a class="chapnum">22</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">TidePoolQuest</a></TD>
+					<td align=right><a class="chapnum">23</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">HorseshoeCrabQuest</a></TD>
+					<td align=right><a class="chapnum">24</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">CoelacanthQuest</a></TD>
+					<td align=right><a class="chapnum">25</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">TarPitQuest</a></TD>
+					<td align=right><a class="chapnum">26</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">DaVinciQuest</a></TD>
+					<td align=right><a class="chapnum">27</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">BrainQuest</a></TD>
+					<td align=right><a class="chapnum">28</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">StomachQuest</a></TD>
+					<td align=right><a class="chapnum">29</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">EverestQuest</a></TD>
+					<td align=right><a class="chapnum">30</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ImmuneQuest</a></TD>
+					<td align=right><a class="chapnum">31</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">SleepQuest</a></TD>
+					<td align=right><a class="chapnum">32</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">TwinQuest</a></TD>
+					<td align=right><a class="chapnum">33</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">ChesapeakeBayQuest</a></TD>
+					<td align=right><a class="chapnum">34</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">KillerBeeQuest</a></TD>
+					<td align=right><a class="chapnum">35</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">FrogQuest</a></TD>
+					<td align=right><a class="chapnum">36</a></TD>	
+				</TR>
+			</TABLE>
+			</TD>
+		<td colspan=5 valign=top><!-- second column (Labs)-->	
+			<table CELLPADDING=0 CELLSPACING=2 BORDER=0>
+				<tr>	
+					<td rowspan=38><!-- left gutter for second column-->	
+						<IMG SRC="images/spacer.gif" width=11 HEIGHT=1 ALT=""></TD>
+					<td><!-- section names for second column -->	
+						<IMG SRC="images/spacer.gif" WIDTH=153 HEIGHT=1 ALT=""></TD>
+					<td rowspan=38><!-- gutter between section names and chapter numbers-->		
+						<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+					<td><!-- chapter numbers -->		
+						<IMG SRC="images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=38><!-- right gutter  for second column-->		
+						<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td><span class="viewbysubheader">Investigative Labs</span></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit1/1/index.html" class="chapters">Kingdom Exploration</a></TD>
+					<td align=right valign=top><a href="../units/unit1/1/index.html" class="chapnum">1</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit1/2/index.html" class="chapters">Making a Rip-o-meter</a></TD>
+					<td align=right valign=top><a href="../units/unit1/2/index.html" class="chapnum">2</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit1/3/index.html" class="chapters">Termite Tracking</a></TD>
+					<td align=right valign=top><a href="../units/unit1/3/index.html" class="chapnum">3</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit2/4/index.html" class="chapters">Soil Solutions</a></TD>
+					<td align=right valign=top><a href="../units/unit2/4/index.html" class="chapnum">4</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit2/5/index.html" class="chapters">Way to Go, Indigo!</a></TD>
+					<td align=right valign=top><a href="../units/unit2/5/index.html" class="chapnum">5</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit2/6/index.html" class="chapters">Design a Cell</a></TD>
+					<td align=right valign=top><a href="../units/unit2/6/index.html" class="chapnum">6</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit2/7/index.html" class="chapters">Food as Fuel</a></TD>
+					<td align=right valign=top><a href="../units/unit2/7/index.html" class="chapnum">7</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit2/8/index.html" class="chapters">Photo Finish</a></TD>
+					<td align=right valign=top><a href="../units/unit2/8/index.html" class="chapnum">8</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit3/9/index.html" class="chapters">You Are a 19th-Century Cell Biologist</a></TD>
+					<td align=right valign=top><a href="../units/unit3/9/index.html" class="chapnum">9</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit3/10/index.html" class="chapters">Family Reunion in a Dish</a></TD>
+					<td align=right valign=top><a href="../units/unit3/10/index.html" class="chapnum">10</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit3/11/index.html" class="chapters">Berry Full of DNA</a></TD>
+					<td align=right valign=top><a href="../units/unit3/11/index.html" class="chapnum">11</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit3/12/index.html" class="chapters">You Are a Cytogeneticist</a></TD>
+					<td align=right valign=top><a href="../units/unit3/12/index.html" class="chapnum">12</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit3/13/index.html" class="chapters">A Glowing Transformation</a></TD>
+					<td align=right valign=top><a href="../units/unit3/13/index.html" class="chapnum">13</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit4/14/index.html" class="chapters">Birds on an Island</a></TD>
+					<td align=right valign=top><a href="../units/unit4/14/index.html" class="chapnum">14</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit4/15/index.html" class="chapters">Eat Your Greens</a></TD>
+					<td align=right valign=top><a href="../units/unit4/15/index.html" class="chapnum">15</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit5/16/index.html" class="chapters">Sari Solution</a></TD>
+					<td align=right valign=top><a href="../units/unit5/16/index.html" class="chapnum">16</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit5/17/index.html" class="chapters">Protists Feast on Yeast</a></TD>
+					<td align=right valign=top><a href="../units/unit5/17/index.html" class="chapnum">17</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit5/18/index.html" class="chapters">A Twist on Fermentation</a></TD>
+					<td align=right valign=top><a href="../units/unit5/18/index.html" class="chapnum">18</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit6/19/index.html" class="chapters">Seeds, Spores, and Sperm</a></TD>
+					<td align=right valign=top><a href="../units/unit6/19/index.html" class="chapnum">19</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit6/20/index.html" class="chapters">Bees, Birds, and Botanists</a></TD>
+					<td align=right valign=top><a href="../units/unit6/20/index.html" class="chapnum">20</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit6/21/index.html" class="chapters">Zip Up the Xylem</a></TD>
+					<td align=right valign=top><a href="../units/unit6/21/index.html" class="chapnum">21</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit6/22/index.html" class="chapters">How Do Plants Grow Up?</a></TD>
+					<td align=right valign=top><a href="../units/unit6/22/index.html" class="chapnum">22</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit7/23/index.html" class="chapters">Mapping a Mollusk</a></TD>
+					<td align=right valign=top><a href="../units/unit7/23/index.html" class="chapnum">23</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit7/24/index.html" class="chapters">The Life of WOWBugs</a></TD>
+					<td align=right valign=top><a href="../units/unit7/24/index.html" class="chapnum">24</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit7/25/index.html" class="chapters">Voyagers and Acrobats</a></TD>
+					<td align=right valign=top><a href="../units/unit7/25/index.html" class="chapnum">25</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit7/26/index.html" class="chapters">Suitcases for Life on Land</a></TD>
+					<td align=right valign=top><a href="../units/unit7/26/index.html" class="chapnum">26</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/27/index.html" class="chapters">Every Flex Is Quite Complex</a></TD>
+					<td align=right valign=top><a href="../units/unit8/27/index.html" class="chapnum">27</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/28/index.html" class="chapters">What Gives Your Vision Precision?</a></TD>
+					<td align=right valign=top><a href="../units/unit8/28/index.html" class="chapnum">28</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/29/index.html" class="chapters">Breaking Down Fat Digestion</a></TD>
+					<td align=right valign=top><a href="../units/unit8/29/index.html" class="chapnum">29</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/30/index.html" class="chapters">Sensing Circulation</a></TD>
+					<td align=right valign=top><a href="../units/unit8/30/index.html" class="chapnum">30</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/31/index.html" class="chapters">Detecting Disease</a></TD>
+					<td align=right valign=top><a href="../units/unit8/31/index.html" class="chapnum">31</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/32/index.html" class="chapters">You Are a Medical Technologist</a></TD>
+					<td align=right valign=top><a href="../units/unit8/32/index.html" class="chapnum">32</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit8/33/index.html" class="chapters">Name That Tube</a></TD>
+					<td align=right valign=top><a href="../units/unit8/33/index.html" class="chapnum">33</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit9/34/index.html" class="chapters">Life As a Pond Organism</a></TD>
+					<td align=right valign=top><a href="../units/unit9/34/index.html" class="chapnum">34</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit9/35/index.html" class="chapters">Dynamic Populations</a></TD>
+					<td align=right valign=top><a href="../units/unit9/35/index.html" class="chapnum">35</a></TD>	
+				</TR>
+				<tr>
+					<td><a href="../units/unit9/36/index.html" class="chapters">Can Lake Life Remain Despite Acid Rain?</a></TD>
+					<td align=right valign=top><a href="../units/unit9/36/index.html" class="chapnum">36</a></TD>	
+				</TR>
+				<!-- Online Collaborative Science -->	
+<tr>	
+					<td rowspan=6><IMG SRC="images/spacer.gif" width=1 HEIGHT=10 ALT=""></TD>
+					
+          <td><p class="viewbynote"><IMG SRC="images/spacer.gif" WIDTH=140 HEIGHT=1 ALT=""></p>
+            <p class="viewbynote">NOTE: The following labs are not included on the CD-ROM because they contain Internet links. They are available online.</p>
+            <p class="viewbynote"><IMG SRC="images/spacer.gif" WIDTH=140 HEIGHT=1 ALT=""></p></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=6><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+
+				<tr>
+					<td align=left colspan=3><span class="viewbysubheader">Online Collaborative Science</span></TD>
+				</TR>
+				<tr>
+					<td><a class="chapters">Exploring Yawning Behavior</a></TD>
+					<td rowspan=4><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td align=right valign=top><a class="chapnum">2</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Exploring Patterns in Leaf Stomata</a></TD>
+					<td align=right valign=top><a class="chapnum">21</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Exploring Cardiorespiratory Fitness</a></TD>
+					<td align=right valign=top><a class="chapnum">30</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Exploring Lawn Biodiversity</a></TD>
+					<td align=right valign=top><a class="chapnum">35</a></TD>	
+				</TR>	
+				<!-- Guided Research Labs -->
+				<tr>	
+					<td rowspan=6><IMG SRC="images/spacer.gif" width=1 HEIGHT=10 ALT=""></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=10 ALT=""></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=6><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td align=left colspan=3><span class="viewbysubheader">Guided Research Labs</span></TD>
+				</TR>
+				<tr>
+					<td><a class="chapters">Escape Behavior in California Blackworms</a></TD>
+					<td rowspan=4><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td align=right valign=top><a class="chapnum">3</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Cellular Respiration in Fast Plants</a></TD>
+					<td align=right valign=top><a class="chapnum">7</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Inheritance Patterns in Plants</a></TD>
+					<td align=right valign=top><a class="chapnum">10</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Diversity of Soil Invertebrates</a></TD>
+					<td align=right valign=top><a class="chapnum">24</a></TD>	
+				</TR>								
+			</TABLE>	
+		</TD>
+		<td class="yellowtable" colspan=5 valign=top><!-- third column (Features)-->
+			<table CELLPADDING=0 CELLSPACING=2 BORDER=0>
+<tr>	
+					<td rowspan=12><!-- left gutter for third column-->	
+					<IMG SRC="images/spacer.gif" width=10 HEIGHT=1 ALT=""></TD>
+					
+          <td><p class="viewbynote">NOTE: Features are not included on the CD-ROM because they contain Internet links. They are available online.</p>
+            <p class="viewbynote"><IMG SRC="images/spacer.gif" WIDTH=140 HEIGHT=1 ALT=""></p></TD>
+					<td rowspan=12><!-- gutter between section names and chapter numbers-->		
+					<IMG SRC="images/spacer.gif" WIDTH=8 HEIGHT=1 ALT=""></TD>	
+					<td><!-- chapter numbers -->		
+					<IMG SRC="images/spacer.gif" WIDTH=20 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=12><!-- right gutter for third column-->		
+					<IMG SRC="images/spacer.gif" WIDTH=22 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<!-- Careers -->
+				<tr>
+					<td><span class="viewbysubheader">Careers</span></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Science Journalist</a></TD>
+					<td align=right valign=top><a class="chapnum">1</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet an Animal Behaviorist</a></TD>
+					<td align=right valign=top><a class="chapnum">3</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet Two Biochemists</a></TD>
+					<td align=right valign=top><a class="chapnum">5</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Genetic Counselor</a></TD>
+					<td align=right valign=top><a class="chapnum">12</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Laboratory Technician</a></TD>
+					<td align=right valign=top><a class="chapnum">16</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Farmer</a></TD>
+					<td align=right valign=top><a class="chapnum">21</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Commercial Fisher</a></TD>
+					<td align=right valign=top><a class="chapnum">25</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Medical Doctor</a></TD>
+					<td align=right valign=top><a class="chapnum">27</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet a Registered Dietitian</a></TD>
+					<td align=right valign=top><a class="chapnum">29</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Meet an Ecologist</a></TD>
+					<td align=right valign=top><a class="chapnum">34</a></TD>	
+				</TR>
+				<!-- History of Science -->
+				<tr>	
+					<td rowspan=8><IMG SRC="images/spacer.gif" width=1 HEIGHT=10 ALT=""></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=10 ALT=""></TD>
+					<td rowspan=8><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=8><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td><span class="viewbysubheader">History of Science</span></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Discovery of Cells</a></TD>
+					<td align=right valign=top><a class="chapnum">6</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Discovery of Chromosomes</a></TD>
+					<td align=right valign=top><a class="chapnum">9</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Discovery of DNA</a></TD>
+					<td align=right valign=top><a class="chapnum">11</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">History of Evolutionary Theory</a></TD>
+					<td align=right valign=top><a class="chapnum">14</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Bird Evolution</a></TD>
+					<td align=right valign=top><a class="chapnum">26</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Discovery of Blood and Circulation</a></TD>
+					<td align=right valign=top><a class="chapnum">30</a></TD>	
+				</TR>
+				<!-- Science, Technology, & Society --> 
+				<tr>	
+					<td rowspan=22><IMG SRC="images/spacer.gif" width=1 HEIGHT=10 ALT=""></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=10 ALT=""></TD>
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td rowspan=22><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+				</TR>
+				<tr>
+					<td align=left colspan=3><span class="viewbysubheader">Science, Technology, & Society</span></TD>
+				</TR>
+				<tr>
+					<td><a class="chapters">Scientific Collaboration on the Internet</a></TD>
+					<td rowspan=20><IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD>	
+					<td align=right valign=top><a class="chapnum">2</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Fluoridation</a></TD>
+					<td align=right valign=top><a class="chapnum">4</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Aerobic Performance</a></TD>
+					<td align=right valign=top><a class="chapnum">7</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Effects of Increasing Carbon Dioxide Levels</a></TD>
+					<td align=right valign=top><a class="chapnum">8</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Environmental Effects on Phenotypes</a></TD>
+					<td align=right valign=top><a class="chapnum">10</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Genetically Modified Foods</a></TD>
+					<td align=right valign=top><a class="chapnum">13</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">New Data on Dinosaur Evolution</a></TD>
+					<td align=right valign=top><a class="chapnum">15</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Depletion of Kelp Forests</a></TD>
+					<td align=right valign=top><a class="chapnum">17</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Discovery of Giant Fungi</a></TD>
+					<td align=right valign=top><a class="chapnum">18</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Rainforest Conservation</a></TD>
+					<td align=right valign=top><a class="chapnum">19</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Plants and Bioremediation</a></TD>
+					<td align=right valign=top><a class="chapnum">20</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Genetic Control of Fruit Ripening</a></TD>
+					<td align=right valign=top><a class="chapnum">22</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Protecting Coral Reefs</a></TD>
+					<td align=right valign=top><a class="chapnum">23</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Controlling Mosquitoes with Pesticides</a></TD>
+					<td align=right valign=top><a class="chapnum">24</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Smell and Behavior</a></TD>
+					<td align=right valign=top><a class="chapnum">28</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Living Organ Donors</a></TD>
+					<td align=right valign=top><a class="chapnum">31</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Thermoregulation</a></TD>
+					<td align=right valign=top><a class="chapnum">32</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Fetal Surgery</a></TD>
+					<td align=right valign=top><a class="chapnum">33</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">The Alaskan Wilderness</a></TD>
+					<td align=right valign=top><a class="chapnum">35</a></TD>	
+				</TR>
+				<tr>
+					<td><a class="chapters">Releasing Genetically Modified Salmon</a></TD>
+					<td align=right valign=top><a class="chapnum">36</a></TD>	
+				</TR>				
+			</TABLE>			
+		</TD>
+	</TR>
+	<tr>
+		<td class="yellowtable" colspan=5><img src="images/spacer.gif" alt="" width="1" height="10" border="0"></TD>
+		<td colspan=5><img src="images/spacer.gif" alt="" width="1" height="10" border="0"></TD>
+		<td class="yellowtable" colspan=5><img src="images/spacer.gif" alt="" width="1" height="10" border="0"></TD>
+	</TR>
+</TABLE>
+
+
+
+
+	
+</BODY>
+</HTML>

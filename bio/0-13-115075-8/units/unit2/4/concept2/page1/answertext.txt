@@ -1,0 +1,3 @@
+&answer1= <b>The correct answer is:</b> 5
+&answer2= <b>The correct answer is:</b> 15; 15
+&answer3= <b>The correct answer is:</b> It is not possible unless you weigh the atom because not all phosphorus atoms have the same number of electrons.

@@ -1,0 +1,6 @@
+
+&answer1= <b>The correct answer is:</b> ball and socket joint
+&answer2= <b>The correct answer is:</b> hinge joint and pivot joint
+&answer3= <b>The correct answer is:</b> hinge joint
+&answer4= <b>The correct answer is:</b> ball and socket joint
+&answer5= <b>The suggested answer is:</b> The ball and socket joint allows for the greatest range of motion. This joint enables a bone to rotate back-and-forth and side-to-side. The pivot joint only allows one bone to rotate around another bone.

@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> All 28 species probably arose by adaptive radiation from a single species that came from the west coast of North America.
+&answer2=<b>The suggested answer is:</b> It cannot be known for certain, but it is likely that seeds from the founding species clung to the feathers of birds that flew to Hawaii from the mainland of the United States.
+&answer3=<b>The suggested answer is:</b> One plant species on the island of Hawaii grows as a tall shrub and is adapted to dry conditions; on Maui, a plant species grows as a small tree with a trunk and is adapted to wet conditions; and in Kauai, a species grows in a small, compact shape and is adapted to extremely wet conditions.
+&answer4=<b>The suggested answer is:</b> Both the climate and the landscape of Hawaii are highly diverse. On each island there is a large range in water availability, elevation, and temperature.

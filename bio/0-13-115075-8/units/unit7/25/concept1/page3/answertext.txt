@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Lampreys and hagfishes lack jaws and a bony skeleton.
+&answer2=<b>The suggested answer is:</b> Lampreys are parasites that feed on other fishes by attaching themselves to the fishes' skin with sucker mouths. 

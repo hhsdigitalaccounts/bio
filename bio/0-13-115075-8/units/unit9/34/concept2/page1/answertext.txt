@@ -1,0 +1,2 @@
+&answer1= <b>The correct answer is:</b> low
+&answer2= <b>The correct answer is:</b> from 23.5%B0 S latitude to 23.5%B0 N latitude between the Tropic of Capricorn and the Tropic of Cancer

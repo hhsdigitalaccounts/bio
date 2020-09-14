@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> skin, sweat and oil glands, saliva, tears, mucous membranes, stomach acids, and enzymes
+&answer2=<b>The suggested answer is:</b> In the second line of defense, the macrophage is a nonspecific defender that is present in the interstitial fluid, destroying pathogens through phagocytosis. In the third line, the macrophage displays the antigens of a pathogen it has "eaten." This activates a helper T cell that recognizes the specific antigen, alerting it to stimulate B and T cells.
+&answer3=<b>The suggested answer is:</b> The mast cell secretes histamine, which stimulates blood vessel dilation and blood flow to the damaged area.
+&answer4=<b>The suggested answer is:</b> Nonspecific defenses are part of the body's first and second lines of defense and do not distinguish one invader from another. Specific defenses are part of the body's third line of defense, the immune system, which recognizes and targets specific invaders.

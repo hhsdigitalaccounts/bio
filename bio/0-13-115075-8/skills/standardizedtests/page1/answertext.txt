@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> No. It would be better to go to sleep earlier and wake up earlier. She will have to rush and may be late to the test, and may not have time for breakfast.
+&answer2=<b>The suggested answer is:</b> No. Eating breakfast will help him perform well on the test by providing energy.
+&answer3=<b>The suggested answer is:</b> No. She should spread out her studying over a longer time. She should also get plenty of sleep before the test.

@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> vascular cambium and cork cambium  
+&answer2=<b>The correct answer is:</b> Secondary xylem usually occupies the greatest area in a woody stem.  
+

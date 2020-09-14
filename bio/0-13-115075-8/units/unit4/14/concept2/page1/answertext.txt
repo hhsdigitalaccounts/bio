@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Homologous structures show how different animals can use their very similar forelimb bones in different ways.  This suggests a common ancestral species whose forelimb bone structure was modified as those forelimbs took on new functions in the descendents.
+&answer2=<b>The suggested answer is:</b> The forelimb bones of the whale flipper are thick and flat, providing a paddlelike surface. The forelimb bones of the bat wing are thin and light, which is a necessary adaptation for flight.
+&answer3=<b>The correct answer is:</b> not likely 

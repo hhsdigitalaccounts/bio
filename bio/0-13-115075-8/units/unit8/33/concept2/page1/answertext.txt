@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> During this time a primary oocyte, stopped in prophase meiosis I, resumes meiosis until prophase of meiosis II and becomes a secondary oocyte.
+&answer2=<b>The correct answer is:</b> Ovulation occurs. The follicle and adjacent wall of the ovary rupture, releasing the secondary oocyte.
+&answer3=<b>The suggested answer is:</b> The thickened endometrium lining is necessary for the possible embryo implantation and to provide nourishment if an egg is fertilized.
+&answer4=<b>The correct answer is:</b> The degeneration of the corpus luteum marks the beginning of another menstrual cycle.

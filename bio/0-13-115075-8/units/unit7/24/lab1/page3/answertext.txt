@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> Like other insects, adult WOWBugs have a head, thorax, abdomen, and three pairs of walking legs.
+&answer2= <b>The suggested answer is:</b> Females have red compound eyes, while males only have pits where the eyes would be. Males have stubby wings, while females have wings capable of flight.
+&answer3= <b>The suggested answer is:</b> Females develop from fertilized eggs, which contain maternal and paternal DNA. Males develop only from unfertilized eggs, which contain only one set of DNA (maternal).
+&answer4= <b>The suggested answer is:</b> Complete metamorphosis. WOWBug adults look and function very differently from larvae.

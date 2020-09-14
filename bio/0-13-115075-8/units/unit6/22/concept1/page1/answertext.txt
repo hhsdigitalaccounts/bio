@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Auxin is produced in the tip of the seedling.
+&answer2=<b>The suggested answer is:</b> No, the cells in the tip make the auxin; it is the cells behind the tip (approximately 5 mm) that respond to the auxin by elongating. By definition a hormone is chemical produced in one tissue, but has an effect on another tissue.
+&answer3=<b>The suggested answer is:</b> The seedling would grow very poorly because the source of the auxin would be removed.

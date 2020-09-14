@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> 4
+&answer2= <b>The correct answer is:</b> Two electrons are shared in a single covalent bond.
+&answer3= <b>The correct answer is:</b> 1; 7
+&answer4= <b>The suggested answer is:</b> Lithium; its highest occupied energy level contains 1 electron, while fluorine's highest occupied level contains 7 electrons.  Now fluorine's highest occupied level is filled with 8 electrons, and lithium's highest occupied level is also filled with 2 electrons (the level that had the lost electron is no longer occupied).

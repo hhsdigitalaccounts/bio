@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> The enzyme and the active sites changed shape.
+&answer2= <b>The suggested answer is:</b> 23%B0C
+&answer3= <b>The suggested answer is:</b> Yes; even at 0%B0C there is enough energy for some of the substrates to react.
+&answer4= <b>The correct answer is:</b> 45%B0C

@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> They all are released from endocrine glands, enter the bloodstream, and affect cells in other parts of the body.
+&answer2=<b>The suggested answer is:</b> pancreas, ovaries, testes, hypothalamus
+&answer3=<b>The suggested answer is:</b> Calcitonin released by the thyroid reduces the level of calcium in the blood, while the parathyroid hormone raises the calcium level. 

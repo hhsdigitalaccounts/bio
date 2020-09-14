@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The repressor binds to the operator and prevents RNA polymerase from starting the process of transcription and translation.
+&answer2=<b>The correct answer is:</b> RNA polymerase is the enzyme that copies the DNA code into RNA.
+&answer3=<b>The suggested answer is:</b> To conserve energy; it's a bad strategy for the organisms to produce a very "expensive" set of proteins if they are not needed.

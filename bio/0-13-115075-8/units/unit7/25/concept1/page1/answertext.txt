@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> While all chordates share certain features, including pharyngeal slits, hollow nerve cords, notochords, and tails that extend past the anus, some chordates also have a skull and backbone (the vertebrates) while a few do not (the invertebrate chordates).
+&answer2=<b>The suggested answer is:</b> No; some adult chordates do not have hinged jaws.
+

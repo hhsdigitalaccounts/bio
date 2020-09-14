@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+			"http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+	<TITLE>Toolbar</TITLE>
+	<SCRIPT language="Javascript">
+	function leave() {
+		top.gbReloadSubtoolbarHome = true;  //This page gets reloaded next time this var is checked.
+	}
+	
+	// an attempt to make the viewby/contents hilite work when the back button or 
+	// refresh is clicked
+	function SetViewByContentsHilite() {
+		/*if(parent.gbIsViewBy) {
+			document['contents'].src = "images/contents.gif";	
+			document['viewby'].src = "images/viewbyhi.gif";	
+		} else {
+			document['contents'].src = "images/contentshi.gif";	
+			document['viewby'].src = "images/viewby.gif";	
+		}*/
+	}
+	</SCRIPT>
+	<SCRIPT SRC="../../shared/code/shared.js" LANGUAGE="javascript"></SCRIPT>
+</HEAD>
+<body  bgcolor="#fffbe2" background="images/subtoolbarbg.gif" onload="SetViewByContentsHilite();" onunload="leave();">
+
+
+
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+	<tr>
+		<td><img src="images/spacer.gif" alt="" width="500" height="1" border="0"></td>
+		<td><a href="javascript:ContentsViewbyClick('contents');" title="Contents"><img src="images/contentshi.gif" name="contents" alt="Contents" width="51" height="18" border="0"></a></td>
+		<td><img src="images/slash.gif" alt="" width="7" height="18" border="0"></td>
+		<td><a href="javascript:ContentsViewbyClick('viewby');" title="View By"><img src="images/viewby.gif" alt="View By" name="viewby" width="43" height="18" border="0"></a></td>
+		<td><img src="images/spacer.gif" alt="" width="15" height="1" border="0"><a href="javascript:openSmallerWindoweltext('../../text/index.html');" title="Launches Online Textbook pop-up window"><img src="images/textbook.gif" alt="Textbook" width="76" height="18" border="0"></a></td>
+		<td><img src="images/spacer.gif" alt="" width="5" height="1" border="0" alt=""></td>
+				<td></td>
+		<td><img src="images/spacer.gif" alt="" width="5" height="1" border="0" alt=""></td>
+
+	</tr>
+</table>
+</BODY>
+</HTML>

@@ -1,0 +1,5 @@
+
+&answer1= <b>The suggested answer is:</b> The penguins represent a uniform distribution because the population is evenly distributed, with individuals establishing territories for nesting and other life functions.
+&answer2= <b>The suggested answer is:</b> The snapper fish represent a clumped distribution because the population stays together, or "clumps"; this behavior makes feeding more efficient when resources are limited and helps reduce risks of predator attacks.
+&answer3= <b>The suggested answer is:</b> The barnacles represent a random distribution because the individuals in this population are spaced in a patternless, unpredictable way. 
+&answer4= <b>The correct answer is:</b> clumped

@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Restriction enzymes can recognize a specific base sequence in DNA, attach themselves to the DNA, and cut the two nucleotide strands. 
+&answer2=<b>The suggested answer is:</b> Scientists keep this set so that they can cut DNA where they want, eliminate a gene, and replace it with another one.
+&answer3=<b>The suggested answer is:</b> Bacteria reproduce rapidly and could make many copies of a new gene. Bacteria could also produce large quantities of a gene product. 
+&answer4=<b>The suggested answer is:</b> DNA ligase pastes the sticky ends (the single strand of DNA available to bind to complementary bases) to a new complementary sequence.

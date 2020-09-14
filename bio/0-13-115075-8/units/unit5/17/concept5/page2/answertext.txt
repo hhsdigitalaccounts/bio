@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The fungus-like protists, slime molds, play the role of decomposer.
+&answer2=<b>The correct answer is:</b> The photosynthetic lifestyle shows the greatest diversity of size.
+&answer3=<b>The correct answer is:</b> The protozoan lifestyle is heterotrophic.

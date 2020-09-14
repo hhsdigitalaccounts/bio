@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> It shows how two chains of nucleotides are twisted around one another, forming a helix.
+&answer2=<b>The correct answer is:</b> The phosphates are on the outside of the double-helix, whereas the nitrogenous bases point toward the middle.
+&answer3=<b>The suggested answer is:</b> A 3-D animation more closely models the actual structure of the molecules and helps you to visualize how the helix twists through space.

@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> If energy intake is less than the expenditure of energy, then the body must break down fat and release stored glucose (glycogen) into the bloodstream. The person may lose weight over time.
+&answer2=<b>The suggested answer is:</b> If the energy intake is greater than the expenditure of energy, then the body will store fat in tissues and glucose in the liver, and the person may gain weight over time. 
+&answer3=<b>The suggested answer is:</b> Homeostasis will be maintained, and the person's weight will remain the same.
+&answer4=<b>The suggested answer is:</b> The body cannot function without essential nutrients, so in maintaining a proper diet, it is important to know which essential nutrients are contained in the foods you eat and if you are including the proper amount in your diet. 

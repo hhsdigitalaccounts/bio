@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> Four ATP molecules are made, but two are used. The net gain, therefore, is two.
+&answer2=<b>The correct answer is:</b> The Krebs cycle produces one ATP per turn, but turns twice per glucose molecule.
+&answer3=<b>The correct answer is:</b> 34
+

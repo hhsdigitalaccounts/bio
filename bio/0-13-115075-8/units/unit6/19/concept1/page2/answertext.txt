@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> Pteridophytes
+&answer2=<b>The correct answer is:</b> According to the cladogram, angiosperms were the latest group to appear.

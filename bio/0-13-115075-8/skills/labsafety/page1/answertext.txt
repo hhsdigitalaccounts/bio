@@ -1,0 +1,6 @@
+&answer1=<b>The correct answer is:</b> safety goggles, an apron or lab coat, and gloves or hot mitt
+&answer2=<b>The correct answer is:</b> tie back
+&answer3=<b>The correct answer is:</b> You should alert your teacher immediately and wash your skin with large amounts of water.
+&answer4=<b>The correct answer is:</b> smell or taste
+&answer5=<b>The correct answer is:</b> cut in a direction away from your body
+&answer6=<b>The correct answer is:</b> wash your hands

@@ -1,0 +1,1 @@
+&answer1=<b>The suggested answer is:</b> A low-power objective has a lower magnification capability than a high-power objective.&answer2=<b>The correct answer is:</b> 430X &answer3=<b>The suggested answer is:</b> You may want to let more light pass through a specimen if it is thick or dark in color. More light will allow you to see its parts more clearly.

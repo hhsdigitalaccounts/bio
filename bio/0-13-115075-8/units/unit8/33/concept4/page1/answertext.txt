@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Ectoderm tissue develops into the embryo's skin and nervous system. Mesoderm tissue forms the skeletal and muscular systems as well as many other organs. Endoderm tissue forms the embryo's digestive tract and lungs. 
+&answer2=<b>The correct answer is:</b> The placenta provides nourishment and oxygen to the developing embryo.
+&answer3=<b>The suggested answer is:</b> The human yolk sac has a very important function in that it is the site of early formation of blood cells.

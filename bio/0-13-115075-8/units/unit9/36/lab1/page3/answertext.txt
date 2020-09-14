@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> Phytoplankton are the lake's primary producers. The phytoplankton are eaten by the zooplankton, crayfish and young trout. The zooplankton are eaten by the crayfish and young trout. Bass eat both crayfish and young trout. Detritus is a food source for the crayfish.
+&answer2= <b>The suggested answer is:</b> The lake organisms that are most sensitive to pH changes caused by acid rain are the zooplankton. The least sensitive lake organisms are the bass.
+&answer3= <b>The suggested answer is:</b> When the pH of the lake water decreases to pH 6.5, the zooplankton die. Organisms that depend on zooplankton as a food source, such as crayfish and young trout, will decline in numbers. The bass population, which feeds on young trout and crayfish, will decline as some die of starvation if other food sources are not available.
+

@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> The basic chemistry that occurs in plant cells and animal cells is very similar.
+&answer2= <b>The correct answer is:</b> Hydrolysis%2Da molecule of water must be added for each bond that is broken in the glycogen chain.
+

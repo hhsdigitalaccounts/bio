@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Ribosomes that are bound to the ER.
+&answer2=<b>The correct answer is:</b> The insulin is secreted into the bloodstream.
+&answer3=<b>The correct answer is:</b> This process is called exocytosis.
+&answer4=<b>The suggested answer is:</b> Insulin is a large polar molecule and cannot move through membranes.

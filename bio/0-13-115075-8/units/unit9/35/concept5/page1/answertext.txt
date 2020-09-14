@@ -1,0 +1,5 @@
+
+&answer1= <b>The suggested answer is:</b> The retreating glacier has scoured the land, and lichens and mosses begin to grow through the cracks in the rocks. Yes, this is an important stage in succession because the lichens and mosses colonize the barren ground, leading to the build-up of soil.
+&answer2= <b>The correct answer is:</b> Primary succession usually takes longer to occur than secondary succession because soil must first be built during primary succession. 
+&answer3= <b>The suggested answer is:</b> Examples are: clear-cutting a forest, a fire, a farmer cultivating a field for a period of time and then abandoning it, etc. Any disturbance that disrupts a biological community and leaves the soil unharmed could cause secondary succession.
+&answer4= <b>The suggested answer is:</b> This is known as primary succession because the process of primary succession begins in an essentially lifeless area where soil has not yet formed. 

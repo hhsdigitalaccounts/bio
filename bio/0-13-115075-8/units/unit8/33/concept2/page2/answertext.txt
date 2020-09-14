@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> anterior pituitary of the brain
+&answer2=<b>The suggested answer is:</b> They would remain elevated.
+&answer3=<b>The correct answer is:</b> corpus luteum

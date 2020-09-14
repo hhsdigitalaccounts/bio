@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> The body uses cholesterol to produce other steroids, such as testosterone and estradiol. 
+&answer2= <b>The suggested answer is:</b> Where testosterone has a carbonyl group, estradiol has a hydroxyl group. Testosterone also lacks a CH<font size="9">3</font> that's present in estradiol, and has more double bonds in one of its rings. This small difference causes many of the physical differences between males and females.
+&answer3= <b>The suggested answer is:</b> Both have the same chemical structure, except that where testosterone has a hydroxy group, DHEA has a carbonyl group. 

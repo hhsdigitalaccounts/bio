@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The plant cell has chloroplasts, a large central vacuole, and a cell wall; the animal cell does not. Also, the animal cell is more irregular in shape.
+&answer2=<b>The suggested answer is:</b> Both cells have a nucleus and a plasma membrane.
+&answer3=<b>The suggested answer is:</b> The cytoplasm of the human cheek cells were stained with purple dye to highlight their specific structures.  No structures in the cheek cells are actually purple; they are transparent. 

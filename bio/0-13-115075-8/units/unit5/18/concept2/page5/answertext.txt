@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> Yeasts reproduce asexually by cell division or by the pinching of small buds off a parent cell.
+&answer2=<b>The correct answer is:</b> Yeasts are used to ferment alcoholic beverages and to raise bread dough.

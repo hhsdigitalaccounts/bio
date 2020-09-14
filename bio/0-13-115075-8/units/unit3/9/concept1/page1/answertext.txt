@@ -1,0 +1,3 @@
+
+&answer1= <b>The suggested answer is:</b> They both occur as a result of a series of cell divisions and produce more cells.
+&answer2= <b>The suggested answer is:</b> The paramecium, like the root tip and the <i>C. elegans</i>, make daughter cells that are genetically identical. The difference is that the daughter paramecium cells each become an individual organism, whereas the other cells become part of the larger organism.

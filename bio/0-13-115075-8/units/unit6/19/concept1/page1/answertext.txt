@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> In the leaves of land plants, the waxy cuticle protects the leaf from drying out in air. Another adaptation is bark, which protects trees from drying out.
+&answer2=<b>The suggested answer is:</b> In land plants, flowers provide a watertight environment for developing embryo.
+&answer3=<b>The suggested answer is:</b> The roots collect water and dissolved nutrients from the soil. The water and nutrients are transported to the rest of the plant through the small tubes of the vascular system.
+&answer4=<b>The suggested answer is:</b> Unlike aquatic algae, land plants are not surrounded by water that supports them and provides them with nutrients.  Terrestrial plants need a vascular system that distributes water and nutrients to all cells in the plant. The lignin-reinforced cell wall structure helps land plants stand upright.

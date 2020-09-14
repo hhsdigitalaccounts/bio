@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> nitrate and ammonium
+&answer2=<b>The correct answer is:</b> In the roots of some plants, nitrogen-fixing bacteria grow. These bacteria are able to use the nitrogen atoms in nitrogen gas to make ammonium, a compound that plants can absorb and use as a nutrient.
+&answer3=<b>The correct answer is:</b> Nitrogen-containing nutrients for plants also come from soil. The bacteria that break down dead organisms and other organic matter in the soil produce nitrate and ammonium.

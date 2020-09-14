@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b> The graph shows a J-shaped curve. The human population has been growing exponentially because developments, such as machines for agriculture, medicines, vaccines, and antibiotics have enabled people to live longer and healthier lives.
+&answer2= <b>The correct answer is:</b> The "dip" represents the sudden decrease in the human population in the 1300s, when the bubonic plague caused millions of deaths. 
+&answer3= <b>The suggested answer is:</b> Factors that could possibly cause increases: technology that eases food shortages worldwide; medicines and vaccines that cure and/or prevent diseases that are currently widespread. Factors that could possibly cause decreases: major food scarcity in areas of the world, diseases that cannot be controlled or cured; major natural disasters such as earthquakes.

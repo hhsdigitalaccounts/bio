@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> CAAGTCT
+&answer2=<b>The correct answer is:</b> GTTCAGA
+&answer3=<b>The suggested answer is:</b> The model replicates only one strand; a cell replicates both strands.  With further study, you would see other differences. For example, the cell uses additional enzymes that are not shown in the model. 

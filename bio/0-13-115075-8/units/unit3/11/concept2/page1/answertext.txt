@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The three major components of DNA are nitrogenous bases, phosphate, and a deoxyribose sugar.
+&answer2=<b>The suggested answer is:</b> The unique pattern is that thymine only pairs with adenine; cytosine only pairs with guanine.
+&answer3=<b>The suggested answer is:</b> Adenine and guanine have a double-ring structure; cytosine and thymine have a single-ring structure.

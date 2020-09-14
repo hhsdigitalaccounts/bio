@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The inside of the neuron becomes more positively charged than the outside of the cell (the opposite of the resting potential).
+&answer2=<b>The correct answer is:</b> The charge inside the neuron becomes more negative compared to the outside of the cell and eventually returns to its resting potential. 
+&answer3=<b>The suggested answer is:</b> The nerve signal is a series of action potentials that move in a wave-like pattern along a neuron's membrane, with one action potential stimulating the next. This is similar to a row of dominos: when the first one is tipped over, it causes the next one to tip over, and so on. 

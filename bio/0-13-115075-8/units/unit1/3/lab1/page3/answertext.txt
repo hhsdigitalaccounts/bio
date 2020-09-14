@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Worker termites dig tunnels, search for food, and feed other termites.
+&answer2=<b>The suggested answer is:</b> The queens and kings are the termite castes that can reproduce.
+&answer3=<b>The suggested answer is:</b> Place a barrier in front of the termite and observe the behavior.  Does the termite change direction before walking into the barrier?  Or shine a light on the termite and observe the behavior.  Is the termite attracted to or repulsed by the light?
+&answer4=<b>The suggested answer is:</b> Place strong-smelling chemicals on cotton swabs near the termite. Observe if a termite is attracted to or repulsed by certain strong smells.

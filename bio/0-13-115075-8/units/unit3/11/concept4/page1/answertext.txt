@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The code is on a segment of the DNA that is located in the nucleus of the cell.
+&answer2=<b>The correct answer is:</b> transcription; translation
+&answer3=<b>The suggested answer is:</b> The nuclei in all of the human body cells have the gene for salivary amylase (along with all the other genes), but the gene for salivary amylase is transcribed and translated into a protein only in the cells of the salivary gland.

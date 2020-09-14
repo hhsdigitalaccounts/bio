@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> One possibility would be to develop a series of black and white models. The spot on the bill could be varied from white (low contrast) to black (high contrast) with different shades of gray in between. 
+&answer2=<b>The suggested answer is:</b> Chicks could be presented models that varied the position of the red spot on the bill.  
+&answer3=<b>The suggested answer is:</b> You could measure the response several times with a single bird.  If the bird did not receive food from the model, then you might predict that the response would be less.  In fact, the scientists had to adjust their studies to account for this learning.

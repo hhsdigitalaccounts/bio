@@ -1,0 +1,141 @@
+<HTML>
+<HEAD>
+	<TITLE>Exploring Life: Unit 3: Chapter 9 Concept</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+	<SCRIPT LANGUAGE="Javascript" src="../../../../../shared/code/stylesheet.js"></SCRIPT>
+	<SCRIPT LANGUAGE="Javascript" src="../../../../../shared/code/rolllib.js"></SCRIPT>
+	<SCRIPT>setBrowserStyle("../../../../../shared/css/");</SCRIPT>
+	<script language="javascript">
+		var giCurrentPeriod = 1;				// Var used for the back & next buttons on this page only.
+		var gbPreloadFlag = true;
+		newRollImage("images/video3still1.jpg");
+		newRollImage("images/video3still2.jpg");
+		newRollImage("images/video3still3.jpg");
+		newRollImage("images/video3still4.jpg");
+		newRollImage("images/video3still5.jpg");
+		newRollImage("images/nextdown.jpg");
+		newRollImage("images/nextup.jpg");
+		newRollImage("images/nextroll.jpg");
+		newRollImage("images/nextgray.jpg");
+		newRollImage("images/backdown.jpg");
+		newRollImage("images/backup.jpg");
+		newRollImage("images/backroll.jpg");
+		newRollImage("images/backgray.jpg");
+		
+		//Possible actions = {click, mouseover, mouseout}
+		function handleButton(xsAction, xsBtnName) {
+			var currentPeriod = giCurrentPeriod;													// Grab the global
+			var nextPeriod = currentPeriod + 1;
+			var prevPeriod = currentPeriod - 1;
+			var finalFrame = 4;						//both the final frame # and the total # of frames
+			switch (currentPeriod) {
+				case 1:
+					if (xsBtnName == "next") {
+						switch (xsAction) {
+							case "mouseover":
+								changeRollImages("next", "images/nextroll.jpg");
+								break;
+							case "mouseout":
+								changeRollImages("next", "images/nextup.jpg");
+								break;
+						}
+						if (xsAction == "click") {
+							giCurrentPeriod = nextPeriod;											// Set the global
+							document.images["video3still"].src = "images/video3still" + nextPeriod + ".jpg";
+							changeRollImages("back", "images/backup.jpg");
+						}
+					}
+					break;
+				case finalFrame:
+					if (xsBtnName == "back") {
+						switch (xsAction) {
+							case "mouseover":
+								changeRollImages("back", "images/backroll.jpg");
+								break;
+							case "mouseout":
+								changeRollImages("back", "images/backup.jpg");
+								break;
+						}
+						if (xsAction == "click") {
+							giCurrentPeriod = prevPeriod;											// Set the global
+							document.images["video3still"].src = "images/video3still" + prevPeriod + ".jpg"; 
+							changeRollImages("next", "images/nextup.jpg");
+						}
+					}
+					break;
+				default: {
+					switch (xsAction) {
+						case "mouseover":
+							changeRollImages(xsBtnName, "images/" + xsBtnName + "roll.jpg");
+							break;
+						case "mouseout":
+							changeRollImages(xsBtnName, "images/" + xsBtnName + "up.jpg");
+							break;
+					}
+					if (xsAction == "click") {
+						if (xsBtnName == "next") {
+							giCurrentPeriod = nextPeriod;											// Set the global
+							document.images["video3still"].src = "images/video3still" + nextPeriod + ".jpg"; 
+						} else {
+							giCurrentPeriod = prevPeriod;											// Set the global
+							document.images["video3still"].src = "images/video3still" + prevPeriod + ".jpg"; 
+						}
+						// gray out the buttons if necessary 
+						if (currentPeriod == 2 && xsBtnName == "back") { changeRollImages("back", "images/backgray.jpg"); }
+						if (currentPeriod == (finalFrame - 1) && xsBtnName == "next") { changeRollImages("next", "images/nextgray.jpg"); }
+					}
+					break;				
+				}
+			}
+		}
+		
+	</script>
+	
+	<script language="javascript" type="text/javascript" SRC="../../../../../shared/code/shared.js"></script>
+</HEAD>
+<BODY>
+
+
+
+
+	
+	<table border=0>
+		<tr><td colspan=2><img src="images/bluebox3.jpg" border=0 alt=""></td></tr>
+		<tr><td colspan=2 align="center"><img src="images/video3still1.jpg" border=0 alt="" name="video3still"></td></tr>
+		<tr><td colspan=2><img src="../../../../../shared/images/onepixel.gif" border=0 width=1 height=10></td></tr>
+		<tr>
+			<td align="center">
+				<img src="../../../../../shared/images/onepixel.gif" border=0 width=50 height=1>
+				<a href="#"   
+					onmouseover="handleButton('mouseover','back');" 
+					onmouseout="handleButton('mouseout', 'back');"
+					onClick="handleButton('click', 'back');return false;" >
+					<img src="images/backgray.jpg" border=0 alt="Back" name="back"></a>
+				<a href="#"   
+					onmouseover="handleButton('mouseover','next');" 
+					onmouseout="handleButton('mouseout', 'next');"
+					onClick="handleButton('click', 'next'); return false;" >
+					<img src="images/nextup.jpg" border=0 alt="Next" name="next"></a>
+				
+			</td>
+			<td align="center">
+				<a href="#"   
+				onmouseover="changeRollImages('return', 'images/returnroll.gif');" 
+				onmouseout="changeRollImages('return', 'images/return.gif');"
+				onClick="document.location='index.html';return false;" >
+				<img src="images/return.gif" border=0 alt="Return to previous page" name="return"></a>
+			</td>
+		</tr>
+	</table>
+				
+		
+	<P>&nbsp;<P>	
+	<table WIDTH="580" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		<tr VALIGN="TOP" BGCOLOR="#FFFFFF"> 
+			<td><IMG SRC="../../images/bottom_line.gif" WIDTH="600" HEIGHT="2"></TD>
+		</TR>
+	</table>
+	<script language="JavaScript" type="text/javascript">writeCopyright();</script>
+		
+</BODY>
+</HTML>

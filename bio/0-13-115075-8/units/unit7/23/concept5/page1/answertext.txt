@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> bilateral; complete  
+&answer2=<b>The correct answer is:</b> Nematodes have a fluid-filled body cavity called a pseudocoelom. This cavity provides support and protects internal organs.
+&answer3=<b>The suggested answer is:</b> Roundworms have complete digestive tracts (with two openings at opposite ends) whereas flatworms have a gastrovascular cavity (with a single opening). Both groups have members that are parasitic.

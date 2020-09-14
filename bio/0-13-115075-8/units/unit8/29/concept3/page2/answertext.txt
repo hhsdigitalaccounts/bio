@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> 68 Calories
+&answer2=<b>The correct answer is:</b> 18%25
+&answer3=<b>The correct answer is:</b> approximately 14 slices 

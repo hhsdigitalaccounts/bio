@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> salivary amylase
+&answer2=<b>The correct answer is:</b> The pancreas releases pancreatic amylase, which further breaks down the polysaccharides.
+&answer3=<b>The suggested answer is:</b> The starch is a very large molecule that must be broken down into its monomers, glucose molecules, which are small enough to be absorbed into the villi. 
+&answer4=<b>The suggested answer is:</b> Glucose is the fuel for cellular respiration, and it provides energy for cellular work.

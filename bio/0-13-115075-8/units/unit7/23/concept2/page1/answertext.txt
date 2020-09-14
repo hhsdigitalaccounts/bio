@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> Sponges have only two layers of cells and no true tissues (specialized cells) or organs. 
+&answer2=<b>The suggested answer is:</b> Sponges lack a digestive tract. When they feed, food particles are absorbed directly by the cells (collar cells) that line a central cavity. Food trapped by the collar cells is transferred to other parts of the sponge body by amoebocytes cells--cells that can move throughout the sponge.
+&answer3=<b>The correct answer is:</b> Although they are very simple, sponges are eukaryotic, multicellular organisms that ingest their food.

@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> The target cells in the activity included a skeletal muscle cell and a liver cell. A target cell is a cell that responds to a signal given by a chemical; in this case, a hormone. 
+&answer2=<b>The correct answer is:</b> Steroid hormones receptors are located inside the cell; nonsteroid hormones receptors are embedded in the plasma membrane. 
+&answer3=<b>The suggested answer is:</b> They act as a relay system to transfer the hormone's signal (binding to its receptor on the plasma membrane) to a target protein in the cytoplasm, which will carry out the cell's response.
+&answer4=<b>The suggested answer is:</b> This change is important because the glucose will be released into the bloodstream and carried to cells, such as muscle cells, where it will be used to produce energy.  

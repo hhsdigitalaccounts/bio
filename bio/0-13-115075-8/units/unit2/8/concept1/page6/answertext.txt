@@ -1,0 +1,4 @@
+
+&answer1= <b>The suggested answer is:</b> ATP and NADPH 
+&answer2= <b>The suggested answer is:</b> no 
+&answer3= <b>The suggested answer is:</b> no 

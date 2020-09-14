@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Animals first evolved during the Precambrian Era. 
+&answer2=<b>The suggested answer is:</b> Continental drift would have a strong influence on the evolution of living things because as Earth split into separate continents over time, living things would have diverged in their evolution as they adapted and diversified on the now-separate continents.
+&answer3=<b>The suggested answer is:</b> Each era represents a distinct step in the evolutionary history of life. Major changes in life forms, such as the large-scale extinction of dinosaurs during the Mesozoic Era or the diversification of mammals during the Cenozoic Era, define the boundaries of these eras.

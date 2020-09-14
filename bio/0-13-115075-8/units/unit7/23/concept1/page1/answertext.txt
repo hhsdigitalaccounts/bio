@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> A paramecium isn't considered an animal because it is unicellular, while animals are multicellular; and it digests food outside of its body, and then absorbs it, while animals ingest their food.
+&answer2=<b>The suggested answer is:</b> Most plants, unlike animals, have chloroplasts, the ability to make their own food, and cell walls.

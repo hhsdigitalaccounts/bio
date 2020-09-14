@@ -1,0 +1,3 @@
+
+&answer1= <b>The suggested answer is:</b> They both use sugar and oxygen, give off carbon dioxide and water, and make ATP.
+&answer2= <b>A correct answer is:</b> The sun!

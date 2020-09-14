@@ -1,0 +1,3 @@
+
+&answer1= <b>The suggested answer is: </b> Water breaks the bond holding the last phosphate to ATP, releasing ADP, phosphate, and energy. 
+&answer2= <b>The suggested answer is: </b> Energy is stored in ATP until it is released to be used for cellular work.

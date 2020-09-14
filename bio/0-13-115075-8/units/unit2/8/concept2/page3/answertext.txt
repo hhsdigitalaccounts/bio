@@ -1,0 +1,6 @@
+
+&answer1= <b>The correct answer is:</b> Chlorophyll b; it traveled the shortest distance on the chromatography paper.
+&answer2= <b>The suggested answer is:</b> Two pigments might have the same color, or they might have the same Rf, but they are less likely to have both features the same.
+&answer3= <b>The suggested answer is:</b> It is difficult to reproduce Rf values because there are a number of factors that can influence the Rf factor, including type of solvent, paper, and precision in measurement. The most important step is to compare the movement of pigments to each other.
+&answer4= <b>The suggested answer is:</b> Each measurement may have errors, but if you collect several measurements, the errors tend to cancel out so the average is more accurate.
+&answer5= <b>The suggested answer is:</b> Your Rf values may differ from those of your classmates, but the relative position of the pigments should be the same.

@@ -1,0 +1,1 @@
+&answer1= <b>The correct answer is:</b> 0; 2&answer2= <b>The suggested answer is:</b> In two of the four examples, Cl<font size="7">2</font> and CO<font size="7">2</font>, electrons are shared between atoms, forming covalent bonds. The other two examples, KCl and NaF, show oppositely charged ions attracted to one another, forming ionic bonds.

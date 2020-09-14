@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> The bacteria are approximately 4 %B5m.
+&answer2=<b>The correct answer is:</b> The approximate diameter of the nucleus is 10 %B5m.
+&answer3=<b>The correct answer is:</b> 150 µm converts to 0.15mm.
+

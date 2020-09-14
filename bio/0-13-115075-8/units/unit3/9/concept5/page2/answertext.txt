@@ -1,0 +1,3 @@
+
+&answer1= <b>The suggested answer is:</b> Examples include: genes for hair, eyes, skin color, and height; and genes for special chemicals produced by the body, such as hemoglobin and pepsin.
+&answer2= <b>The correct answer is:</b> X chromosome

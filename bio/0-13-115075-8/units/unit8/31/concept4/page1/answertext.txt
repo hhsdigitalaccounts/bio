@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> You don't the full-blown flu because the deactivated virus cannot infect body cells. However, you may feel flu-like symptoms because the antigens stimulate your immune response.
+&answer2=<b>The suggested answer is:</b> The body cannot tell the difference between the active and inactive forms of the virus, therefore the immune response is triggered. This action "fools" the body. 
+&answer3=<b>The suggested answer is:</b> The body's memory cells circulate in the bloodstream and immediately begin producing plasma cells that will make antibodies to this flu.  

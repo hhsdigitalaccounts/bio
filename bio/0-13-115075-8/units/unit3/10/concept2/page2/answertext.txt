@@ -1,0 +1,2 @@
+&answer1= <b>The suggested answer is:</b> If the blending hypothesis of inheritance was true, any purple-flowered plant crossed with another purple-flowered plant would produce all purple-flowered offspring. The blending theory would show that purple x purple plants, regardless of generation, would produce purple plants.
+&answer2= <b>The correct answer is:</b> 58; 174

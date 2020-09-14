@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> These insects have traits that protect them from the pesticide. 
+&answer2=<b>The correct answer is:</b> Yes; they will be passed on to some of their offspring.
+&answer3=<b>The correct answer is:</b> The percentage of pesticide-resistant individuals increases. Reproduction of insects with inherited resistance to the pesticide is favored over those with no resistance.

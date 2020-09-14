@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> No; they are closely related but they are not insects.  Insects have six legs and myriapods have many more.
+&answer2=<b>The correct answer is:</b> Centipedes have flattened bodies and one pair of legs per segment.  Millipedes have more rounded bodies and two pairs of legs per segment. They also differ in feeding habits. Centipedes usually eat small insects; millipedes eat dead and decaying plant material.

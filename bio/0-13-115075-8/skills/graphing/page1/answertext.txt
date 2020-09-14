@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> In this case, the data points can be easily connected to show a continuous trend over time. 
+&answer2=<b>The correct answer is:</b> Each data point represents a specific location on the graph, reflecting a particular combination of values for each of the variables.
+&answer3=<b>The suggested answer is:</b> On a line graph, a "best fit" line is used when data points, representing the research, do not generate a continuous line. From this, scientists can learn about trends in the research they are studying.

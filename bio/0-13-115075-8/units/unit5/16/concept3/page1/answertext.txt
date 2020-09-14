@@ -1,0 +1,2 @@
+&answer1=<b>The correct answer is:</b> The two steps include the digestion of organic material in the aeration tank and the digestion of solids during solids processing.  
+&answer2=<b>The correct answer is:</b> In the aeration tank, aerobic bacteria are used. They require oxygen. In solids processing, anaerobic bacteria are used. They can only grow in the absence of oxygen.

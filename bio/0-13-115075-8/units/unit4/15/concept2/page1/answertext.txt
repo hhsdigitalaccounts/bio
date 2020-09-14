@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> No, a patch of light-sensitive cells provides information only about the presence or absence of light.
+&answer2=<b>The suggested answer is:</b> The "eyecup" eye provides information about the direction of light, and the animal can use this information to find dark places and hide from predators.
+&answer3=<b>The suggested answer is:</b> The number of light-sensitive cells has increased.

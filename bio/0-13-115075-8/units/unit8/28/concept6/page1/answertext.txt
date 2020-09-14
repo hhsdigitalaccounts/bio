@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Dopamine is a neurotransmitter that produces feelings of pleasure and well-being.
+&answer2=<b>The correct answer is:</b> Use of cocaine prevents the reuptake of the dopamine back to the synaptic knob. Dopamine then stimulates numerous action potentials, causing a feeling of intense pleasure.
+&answer3=<b>The correct answer is:</b> Marijuana is included in more than one category because it acts as both a depressant and a hallucinogen; ecstasy acts as both a stimulant and a hallucinogen.
+&answer4=<b>The suggested answer is:</b> Answers could include troubled relationships, concealing drug use, risky behavior, an increased tolerance to the drug.

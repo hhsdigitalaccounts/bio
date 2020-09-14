@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> The synapse is the junction between an axon of a sending neuron and the receiving neuron. It includes the membranes of both cells and the space between, called the synaptic cleft. The synaptic cleft refers to just the space between the two neurons.
+&answer2=<b>The correct answer is:</b> The chemicals are the neurotransmitters that are released from the knobs at the end of the axons. 
+&answer3=<b>The correct answer is:</b> The neurotransmitters are stored in sac-like organelles called vesicles that are located in the knobs of the axon.  
+&answer4=<b>The suggested answer is:</b> The protein receptor has a unique binding site that allows only a specific neurotransmitter to bind to it. When it binds to the receptor, an action potential may fire and initiate a nerve signal.

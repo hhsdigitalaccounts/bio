@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Roots exhibit positive gravitropism.
+&answer2=<b>The suggested answer is:</b> Side "A" is getter longer, because the distance along the "outside" of the bend is greater than the distance along the "inside."

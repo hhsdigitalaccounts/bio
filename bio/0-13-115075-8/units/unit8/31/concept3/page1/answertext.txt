@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> The lymphatic system produces and stores specific immune cells in organs and tissues. Lymph nodes contain lymphocytes and macrophages that filter, trap, and destroy pathogens.
+&answer2=<b>The correct answer is:</b> the circulatory system
+&answer3=<b>The suggested answer is:</b> Yes; bone marrow produces all the blood cells and is important in the development of mature B lymphocytes. 

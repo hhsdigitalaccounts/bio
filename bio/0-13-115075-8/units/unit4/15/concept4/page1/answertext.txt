@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> The vertebral column is a shared derived character of all the organisms in the cladogram; therefore, it likely evolved before hair, which is shared by only two of these organisms.
+&answer2=<b>The suggested answer is:</b> It was probably made of cartilage because bone is a shared character of bony fishes, lizards, monkeys, and kangaroos but not of sharks; therefore, cartilage most likely evolved later than bone.

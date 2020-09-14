@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> There is a lot of nitrogen in animal proteins, such as those found in muscle tissue. Also, fly-eating plants grow in soil that is very low in nitrogen, so they need to obtain their supply elsewhere.
+&answer2=<b>The suggested answer is:</b> If a piece of debris blows into the trap and hits a trigger, the plant does not waste its energy on an object that is not a nutritional source.
+&answer3=<b>The suggested answer is:</b> There is less of a chance that random hits from debris, raindrops, and other objects will trip the trap, and more of a chance that the second hit is a likely food source.

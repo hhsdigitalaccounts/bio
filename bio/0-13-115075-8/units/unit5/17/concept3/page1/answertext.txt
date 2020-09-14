@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> Slime molds are like fungi in that some are unicellular and some multicellular, and in their role as decomposers. Slime molds are unlike fungi in that slime molds lack a cell wall.
+&answer2=<b>The suggested answer is:</b> Slime molds can be found in most warm, moist habitats that also have abundant organic material. The rich, damp, litter layer of a forest floor is one example.

@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> After Jos%e9 eats donuts his blood glucose level increases. When he skips breakfast, his blood glucose level decreases.
+&answer2= <b>The correct answer is:</b> insulin
+&answer3= <b>The correct answer is:</b> glucagon
+&answer4= <b>The suggested answer is:</b> The hormone regulation system functions to help the body maintain homeostasis.

@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> Spindle fibers separate homologous chromosomes in Anaphase I  In this stage all the chromosomes have replicated and are composed of two chromatids.
+&answer2=<b>The suggested answer is:</b> If the gamete that results from abnormal meiosis produces an embryo, then all the cells of the embryo inherit the chromosomal abnormality.
+&answer3=<b>The suggested answer is:</b> An extra chromosome, #21, causes Down syndrome. If nondisjunction results in a missing chromosome, the result in an embryo is usually fatal. The exception is in Turner's syndrome when only one X is present. 

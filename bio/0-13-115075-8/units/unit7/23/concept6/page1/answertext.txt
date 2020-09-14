@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Annelids have a closed circulatory system. The circulating blood transports nutrients, oxygen, and wastes that diffuse into and out of different tissues.  
+&answer2=<b>The suggested answer is:</b> Some annelids are important members of the soil community. They consume organic material that accumulates in soil as it passes through the worm's system, forming castings.
+&answer3=<b>The correct answer is:</b> Leeches are annelids with specialized sucking disks. Leeches feed on blood from a host species.
+&answer4=<b>The suggested answer is:</b> Like roundworms and flatworms, earthworms are bilaterally symmetrical. Roundworms and earthworms have complete digestive tracts. Unlike roundworms and flatworms, earthworms have a closed circulatory system and a segmented body. Earthworms also have a coelom, which differs from the roundworm's pseudocoelom in that the coelom is completely lined by tissue.

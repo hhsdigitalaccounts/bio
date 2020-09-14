@@ -1,0 +1,3 @@
+&answer1=<b>The suggested answer is:</b> A disease called scurvy was causing the symptoms. The sailor contracted scurvy due to a lack of vitamin C in his diet.
+&answer2=<b>The suggested answer is:</b> The fatigue occurs because vitamin B<sub><font size="8">12</font></sub> is essential in the formation of red blood cells, which carry oxygen throughout the body. Oxygen is necessary for the production of energy in the cells. 
+&answer3=<b>The suggested answer is:</b> Ultraviolet (UV) rays from the sun stimulate the production of vitamin D found in the skin.

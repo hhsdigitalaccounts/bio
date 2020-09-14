@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> RNA: HIV virus, influenza virus, tobacco mosaic virus;  DNA: T-4 bacteriophage, smallpox  
+&answer2=<b>The suggested answer is:</b> They do not have the molecular mechanisms for complete nucleic acid or protein formation. They depend on the functioning of the host cell.
+&answer3=<b>The suggested answer is:</b> They all have some kind of outer coat (usually proteins) and some kind of nucleic acid (DNA or RNA). They are also all dependent on the host cell for replication.

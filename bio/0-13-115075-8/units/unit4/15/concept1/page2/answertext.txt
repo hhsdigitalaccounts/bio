@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> The most obvious example is <i>Mammuthus meridionalis</i>, which survived unchanged for 2.5 million years.
+&answer2=<b>The suggested answer is:</b> No; approximately 2 million years ago, there were 5 species; 500,000 years ago, there were 8 species; and today there are only 2 or 3 species.

@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Yeast cells have a membrane-bound nucleus and mitochondria.
+&answer2=<b>The suggested answer is:</b> Fermentation generates ATP, which stores energy needed for cellular processes.
+&answer3=<b>The suggested answer is:</b> In the presence of oxygen, yeast cells perform cellular respiration. Some processes of cellular respiration occur in the mitochondria.
+&answer4=<b>The suggested answer is:</b> Write your prediction on a piece of paper and save it for use in the Analysis and Conclusion section of the investigation.

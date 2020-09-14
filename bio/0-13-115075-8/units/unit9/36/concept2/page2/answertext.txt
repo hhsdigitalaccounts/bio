@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> The total mass of organic material found in a specific ecosystem is called biomass.  The rate at which producers build biomass is called primary productivity.
+&answer2= <b>The correct answer is:</b> highest level: tropical rainforest; lowest level: desert
+&answer3= <b>The suggested answer is:</b> Year round high rainfall, warm temperatures, and intense sunlight create the lush rain tropical forest with rich biodiversity. In the tundra, permafrost (permanently frozen sub-soil), bitterly cold temperatures, and long winters with periods of continual darkness are responsible for the absence of trees and tall plants.
+

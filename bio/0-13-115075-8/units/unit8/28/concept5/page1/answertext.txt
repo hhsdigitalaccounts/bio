@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The lens bends the light rays and focuses them onto the retina.
+&answer2=<b>The correct answer is:</b> The cones are stimulated by bright light, and they enable color vision. The rods enable you to see in dim light at night, though only in shades of gray (black and white).
+&answer3=<b>The suggested answer is:</b> The light stimulates a photoreceptor cell that, in turn, stimulates the overlying network of neurons that feed into the optic nerve. The optic nerve sends the signal to the brain.  

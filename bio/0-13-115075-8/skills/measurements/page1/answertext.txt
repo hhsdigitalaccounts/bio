@@ -1,0 +1,5 @@
+&answer1=<b>The suggested answer is:</b> Most SI units are related by some power of 10 and conversions involve moving a decimal point.
+&answer2=<b>The suggested answer is:</b> a. %B5m; b. km; c. %B0C; d. mL; e. kg
+&answer3=<b>The correct answer is:</b> The volume of the tank in cm3 is 20 cm x 20 cm x 30 cm  = 12,000 cm3. 12,000 cm3 of water has a mass of 12,000 g. 12,000 g = <b>12 kg</b>.
+&answer4=<b>The correct answers are:</b> <br>a. 1000 (103) times the base unit<br>b. 1/100 (10-2) of the base unit<br>c. 1/1000 (10-3) of the base unit<br>d. 1/1,000,000 (10-6) of the base unit<br>e. 1/1,000,000,000 (10-9) of the base unit
+&answer5=<b>The suggested answer is:</b> He is about 71 inches tall (5 feet 11 inches), and weighs 165 pounds. (181 cm x 0.39 in/cm = 71 in). (75 kg x 2.2 lb/kg = 165 lb)

@@ -1,0 +1,5 @@
+&answer1= <b>The suggested answer is:</b> Scientists had new tools available. The compound microscope allowed them to view cells at a much higher magnification, and new stains made it possible for them to see structures insde the cells.
+&answer2= <b>The suggested answer is:</b> The 19th-century scientists were observing stages of mitosis.
+&answer3= <b>The correct answer is:</b> d
+
+

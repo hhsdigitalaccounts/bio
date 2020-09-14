@@ -1,0 +1,8 @@
+&answer1=<b>The correct answer is:</b> electron beams
+&answer2=<b>The correct answer is:</b> because they are bombarded with electrons
+&answer3=<b>The correct answer is:</b> They are coated with a thin film of gold.
+&answer4=<b>The suggested answer is:</b> The sample is placed in a vacuum tube, and an electron gun sends out a beam of electrons while a scanner moves the beams back and forth. A detector records the electrons knocked off the sample, and this information is sent to an amplifier. The final image is built from the numbers of electrons removed from each spot.
+&answer5=<b>The correct answer is:</b> approximately 2 mm
+&answer6=<b>The correct answer is:</b> 70X
+&answer7=<b>The correct answer is:</b>  2200X
+&answer8=<b>The suggested answer is:</b> The light micrographs are in color and the SEMs are not; the SEMs provided much more detailed images of the aphid's surface features, such as the complex lenses of the eye and hair-like structures on the legs than the light micrographs; the light micrographs provide a more complete image.

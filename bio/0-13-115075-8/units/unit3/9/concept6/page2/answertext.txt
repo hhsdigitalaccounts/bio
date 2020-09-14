@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> Mitosis would occur in the diploid body cells, replacing old or damaged cells. Meiosis would occur in the haploid cells of the gonads (ovaries and testes), producing eggs or sperm.
+&answer2= <b>The correct answer is:</b> At the end of mitosis there will be 8 chromosomes; at the end of meiosis there will be 4.
+&answer3= <b>The suggested answer is:</b> They have half the number so that when the egg and sperm join, or reproduce, the resulting zygote will have the proper number of chromosomes for that species.

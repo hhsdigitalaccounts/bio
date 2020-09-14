@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Kelp and other multicellular marine algae are classified with protists based on their cell structure.
+&answer2=<b>The suggested answer is:</b> The protist <i>Plasmodium</i> (carried by mosquitoes) causes malaria in humans by attacking red blood cells. The protist <i>Giardia</i>, found in untreated drinking water, can cause illness in humans when ingested.
+&answer3=<b>The suggested answer is:</b> The diverse structures and forms of protists have enabled them to adapt to a wide variety of habitats on Earth.
+

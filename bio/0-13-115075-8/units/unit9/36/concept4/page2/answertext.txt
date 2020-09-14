@@ -1,0 +1,4 @@
+&answer1= <b>The correct answer is:</b> It increased drastically.
+&answer2= <b>The correct answer is:</b> 1988
+&answer3= <b>The suggested answer is:</b> This research data suggests that when plants are not present to absorb nitrates from the soil, this nutrient's concentration dramatically increases in the soil and stream water. These effects are almost immediate, following logging, and continue as long as plants are absent.
+&answer4= <b>The suggested answer is:</b> One negative consequence might be that the increased levels of nitrate in the stream water could make the water unsuitable for drinking.

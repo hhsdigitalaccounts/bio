@@ -1,0 +1,3 @@
+&answer1= <b>The correct answer is:</b> The four latitude ranges that receive the most rain are between 0-10%B0 North and South; and 50-70%B0 North and South.
+&answer2= <b>The correct answer is:</b> The four latitude ranges that receive the least rain are between 70-90%B0 North and South; and 20-40%B0 North and South.
+

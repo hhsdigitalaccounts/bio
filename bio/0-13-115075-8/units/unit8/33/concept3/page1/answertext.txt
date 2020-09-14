@@ -1,0 +1,4 @@
+&answer1=<b>The correct answer is:</b> Fertilization typically takes place in the oviduct.
+&answer2=<b>The suggested answer is:</b> The "secondary oocyte" is the cell released during ovulation. Once a sperm penetrates the secondary oocyte, it is called an "ovum." Following fusion of the two haploid nuclei, a zygote is created with a diploid set of chromosomes.
+&answer3=<b>The suggested answer is:</b> The trophoblast secretes enzymes that enable the blastocyst to burrow into the endometrium.
+&answer4=<b>The suggested answer is:</b> Cleavage begins about 36 hours after fertilization and is the process in which the zygote doubles its chromosomes and divides into identical daughter cells through the process of mitosis.

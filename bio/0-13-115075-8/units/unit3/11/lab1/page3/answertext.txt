@@ -1,0 +1,3 @@
+&answer1=<b>The correct answers %28in order%29 are:</b> %0Da. breaks open cells%0Db. separates organelles and cell debris, such as fragments of cell walls and membranes, from DNA and small dissolved molecules such as proteins and sugars%0Dc. dissolves plasma membranes%0Dd. clumps DNA together
+&answer2=<b>The suggested answer is:</b> Many molecules of DNA will clump together to form a much thicker strand of DNA that can be seen with the unaided eye.
+&answer3=<b>The suggested answer is:</b> The clump of DNA molecules has a ropelike shape because each DNA molecule is long and threadlike. When many threads wrap together, they make a rope.

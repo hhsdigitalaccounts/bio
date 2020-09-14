@@ -1,0 +1,4 @@
+&answer1= <b>The suggested answer is:</b> mountains and bodies of water
+&answer2= <b>The suggested answer is:</b> In both cases, the proximity, or nearness, to large bodies of water causes the climate differences. Chicago is located on Lake Michigan; the lake absorbs heat when the air is warm and releases heat when the air is cold, making Chicago summers cooler and winters warmer than nearby towns. A similar effect, caused by the ocean, causes summers in Los Angeles to be cooler than nearby inland areas.
+&answer3= <b>The suggested answer is:</b> The mountains block the flow of the moist air, which causes precipitation to fall on the western slope; therefore little precipitation falls on the eastern slope.
+&answer4= <b>The suggested answer is:</b> Even though it may be quite warm at the base of the mountains, the temperature drops 6 %B0C for every 1000 meter increase in elevation.

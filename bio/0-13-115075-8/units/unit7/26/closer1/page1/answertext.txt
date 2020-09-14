@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> The mammals in this order, which includes horses, zebras, tapirs, and rhinoceroses, possess hooves with an odd number of toes on each foot and are herbivorous.  
+&answer2=<b>The correct answer is:</b> This order includes bats, which are unique among mammals because of their ability to fly.
+&answer3=<b>The suggested answer is:</b> orders Carnivora and Chiroptera    

@@ -1,0 +1,2 @@
+&answer1=<b>The suggested answer is:</b> In AND situations, all the events must occur together and you multiply the probabilities of the individual events. In OR situations, only one of the events must occur, and you add the probabilities of the individual events.
+&answer2=<b>The correct answer is:</b> 1/2.  Each flip is independent of the other flips.

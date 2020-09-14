@@ -1,0 +1,4 @@
+&answer1=<b>The suggested answer is:</b> Cell shapes with a high surface area to volume ratio are most efficient at obtaining nutrients and eliminating wastes.
+&answer2=<b>The suggested answer is:</b> Cell size would be limited by the time it takes for diffusion to occur. In a very large cell it would take too long for nutrients to penetrate the cell and for wastes to get out.
+&answer3=<b>The suggested answer is:</b> If you increase the volume of a cell or decrease the surface area, the surfac area to volume ratio decreases; therefore, neither of these approaches would increase the rate of diffusion. The ratio must become greater for the rate of diffusion to increase.
+&answer4=<b>The suggested answer is:</b> Cell shapes could be flat, wavy, or have ridges carved in them.

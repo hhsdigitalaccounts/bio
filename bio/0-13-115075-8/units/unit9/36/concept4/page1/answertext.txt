@@ -1,0 +1,3 @@
+&answer1= <b>The suggested answer is:</b> It was used to collect soil water that drained from the soil.
+&answer2= <b>The suggested answer is:</b> The ion chromatograph was used to measure the amount of nitrates in the soil and water samples.
+&answer3= <b>The suggested answer is:</b> Scientists must look at the whole ecosystem. Soil water nitrate levels give direct data on the effects of whole-tree clear-cutting because nitrogen cycling mainly occurs in soil. Water nitrate levels give indirect data because water runs through the soil, taking excess dissolved nitrates with it.

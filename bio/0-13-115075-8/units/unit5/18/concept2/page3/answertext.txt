@@ -1,0 +1,3 @@
+&answer1=<b>The correct answer is:</b> morel and truffle
+&answer2=<b>The correct answer is:</b> The ascus is a sac that surrounds and protects the haploid spores.
+&answer3=<b>The suggested answer is:</b> Sac fungi can produce large fruiting bodies that include spore sacs called asci. Zygote fungi do not produce fruiting bodies; their resistant spores are contained in a specialized structure called a zygosporangium.
