@@ -1,0 +1,230 @@
+html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	transform-origin: 0 0;
+	overflow: hidden;
+	
+	background: #b51e12;
+	background: rgba(145,23,14,1);
+	
+	background: -moz-linear-gradient(-45deg, rgba(145,23,14,1) 0%, rgba(54,9,5,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(145,23,14,1)), color-stop(100%, rgba(54,9,5,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(145,23,14,1) 0%, rgba(54,9,5,1) 100%);
+	background: -o-linear-gradient(-45deg, rgba(145,23,14,1) 0%, rgba(54,9,5,1) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(145,23,14,1) 0%, rgba(54,9,5,1) 100%);
+	background: linear-gradient(135deg, rgba(145,23,14,1) 0%, rgba(54,9,5,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#91170e', endColorstr='#360905', GradientType=1 );
+}
+.wrapper {
+	box-sizing: border-box;
+	width: 1920px;
+	height: 1080px;
+	position: relative;
+	margin: 0;
+	padding: 50px; 
+	display: flex;
+	flex-direction: row;
+	
+}
+
+.content-box, .daily-info {
+	-webkit-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
+}
+
+.content-box {
+	box-sizing: border-box;
+	order: 2;
+	display: flex;
+	flex-direction: column;
+	flex-basis: 1320px;
+	flex-shrink: 0;
+	position: relative;
+	overflow: hidden;
+}
+
+.main-slideshow-box {
+	width: 1320px;
+	height: 900px;
+	overflow: hidden;
+	order: 1;
+}
+
+.daily-info {
+	box-sizing: border-box;
+	flex-basis: auto;
+	flex-grow: 1;
+	margin-right: 30px;
+	order: 1;
+	background: #FFF;
+	overflow: hidden;
+}
+
+.footer {
+	box-sizing: border-box;
+	order: 2;
+	border: 1px solid red;
+	flex-grow: 1;
+	
+}
+
+.main-slideshow-box iframe {
+	width: 101%;
+	height: 105%;
+	overflow: hidden;
+	position: absolute;
+	left: -1%;
+	top: -1%;
+}
+
+/**
+  * DAILY INFO Styles
+  */
+  
+#letter-outer {
+  text-align: center;
+  font-family: 'Cantora One';
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+.day {
+  font-size: 80px;
+  display: none;  /*block;*/
+  color: #000;
+  line-height: 50px;
+  text-align: center;
+  width: 220px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+  
+.letter-wrapper { 
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+.letter-wrapper img {
+    max-height: 180px;
+    max-width: 265px;
+}
+
+.letter-wrapper .letter {
+  font-size: 8em;
+  line-height: 1.0em;
+  font-weight: bold;
+  color: #b51e12;
+  vertical-align: middle;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 220px;
+  }
+  
+.letter-wrapper .star {
+  font-size: 10em;
+  line-height: 0.8em;
+  font-weight: bold;
+  color: #b51e12;
+  vertical-align: middle;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  }
+
+.letter-wrapper .special {
+  position: absolute;
+  top: 1em;
+  vertical-align: middle;
+  display: block;
+  color: #000;
+  font-size: 2em;
+  line-height: 1em;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  transform: rotate(-10deg);
+  
+
+}
+
+#schedBox, #lunchBox {
+  padding: 15px;
+  font-family: 'Roboto Condensed';
+  font-size: 36px;
+}
+
+#schedBox #date,
+#lunchBox .date {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #b51e12;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  }
+  
+#schedBox table {
+  color: #000000;
+  width: 100%;
+  font-size: 1em;
+  line-height: 0.95em;
+}
+
+#schedBox table td {
+  padding: 0.2em
+}
+
+#schedBox table td.lunch {
+  padding: 0px 0px;
+}
+
+
+#schedBox table.no-data td {
+  text-align: center;
+  }
+
+#schedBox table td.timecell:first-child {
+  color: #b51e12;
+  text-align: right;
+}
+
+#schedBox .lunch {
+  font-size: 70%;
+}
+
+#lunchBox {
+   display: none;
+}
+
+#lunchBox table {
+  width: 100%;
+  font-size: 1em;
+}
+
+#lunchBox td {
+  padding: 6px;
+  text-align: center;
+}
+
+#lunchBox td.menuTitle {
+  font-weight: bold;
+  font-style: italic;
+}
+
+#lunchBox td.menuDescr  {
+  padding-bottom: 30px;
+  }
+
+#lunchBox table.no-data td {
+  text-align: center;
+  }
+
+  

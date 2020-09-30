@@ -1,0 +1,70 @@
+<html>
+<head>
+	<meta http-equiv="refresh" content="3600">
+	<link href="hhs-signage.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cantora+One">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="sched-and-lunch.js"></script>
+</head>
+<body>
+  <div class="wrapper">
+	
+	<!-- Daily Schedules and Lunch Info -->
+	<section class="daily-info">
+		<div id="letter-outer">
+			<div class="letter-wrapper">
+				<span class="letter"></span>
+				<span class="star"></span>
+				<span class="special"></span>
+			</div>
+		</div>
+  
+		<div id="swapping-boxes">
+			<div id="schedBox">
+				<div id="date"></div>
+				<div id="schedTable"></div>
+			</div>
+	  
+			<div id="lunchBox">
+				<div id="date"></div>
+				<div id="table"></div>
+			</div>
+		</div>
+	</section>
+	
+	<div class="content-box">
+		<!-- Slide Show section -->
+		<section class="main-slideshow-box">
+		  <!-- 16x9 
+		  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQujWYbJV1F406wBc_GHH6Gx8xtHufFS2M48PTq0Nrwlo77CZM1gff0IxzWQ3S3LbY4Y_3iz0gqhGRv/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1200" height="730" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>-->
+		  <!-- 4x3 -->
+		  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROO4Y7tVDDnf0iDH0U3CzeecQxCOctDw_MgXkCrpyKHVRqVSCz0lzpKlyL1LiA_LGWUEX7u585lF1A/embed?start=true&loop=true&delayms=6000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		</section>
+	
+	</div>
+  </div>
+  <script>
+    
+	function scalePage() {
+		var idealWidth = 1920;
+		var idealHeight = 1080;
+		
+		var width = window.innerWidth;
+		var height = window.innerHeight;
+		console.log(width, height);
+		
+		var newWidth = width/1920;
+		var newHeight = height/1080;
+		
+		var scale = Math.min(newWidth, newHeight);
+		var scaleStr = "scale("+ scale +")";
+		
+		$("body").css("transform", scaleStr);
+	}
+	
+	$(window).resize(scalePage);
+	scalePage();
+  </script>
+</body>
+<html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+ 
+  <div id="letter-outer">
+  	<div class="wrapper">
+  		<span class="letter"></span>
+           <span class="symbol"></span>
+  		<span class="text"></span>
+  		<span class="day"></span>
+  	</div>
+  </div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+
+      /***************************************************************
+       * Today's LETTER OF THE DAY
+       */
+      
+      var d = new Date();
+
+      var today = new Date(d.getFullYear(), d.getMonth(), d.getDate(), 0, 0, 0, 0);
+      var todayStr = today.toISOString().substr(0,10);
+      
+      console.log("today="+todayStr);
+      var twoWeeks = new Date(d.getFullYear(), d.getMonth(), d.getDate()+14, 0, 0, 0, 0);
+      var twoWeeksStr = twoWeeks.toISOString().substr(0,10);
+
+      var dataUrl = "https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec";
+      dataUrl += "?type=schedule&start="+todayStr;  //+"&end="+twoWeeksStr;
+      console.log(dataUrl);
+      //https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec?type=schedule&start=2018-01-19&end=2018-01-31
+      
+      $.getJSON( dataUrl) .done(function( dataIn ) {
+            if (dataIn != null) {
+                var data = dataIn.schedules;
+                
+                if ((data) && (data.length >0)) {
+                  var nextSched = data[0][0];
+    			  var nextSchedDate = new Date(nextSched["startTime"]);
+  			  nextSchedDate = new Date(nextSchedDate.getFullYear(), nextSchedDate.getMonth(), nextSchedDate.getDate());
+    			  var today = new Date();
+  			  today = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+    
+  			  var datesMatch = (today.getFullYear() == nextSchedDate.getFullYear() ) &&
+                     (today.getMonth() == nextSchedDate.getMonth()) && 
+                     (today.getDate() == nextSchedDate.getDate());
+    
+  			  if (datesMatch) {
+   			    displayLetter(nextSched["title"]);
+  			  } 
+ 		     }
+		  }
+var textColorMain = getUrlParameter('text')!="" ? getUrlParameter('text') : "#000000";
+            var textColorAccent = getUrlParameter('accent')!="" ? getUrlParameter('accent') : "#FFFF00";
+            var bgColor = getUrlParameter('bg')!="" ? getUrlParameter('bg') : "transparent";
+            setColors(textColorMain, textColorAccent, bgColor);
+        });
+
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+};
+
+function setColors(textColorMain, textColorAccent, bgColor) {
+  $("body").css("background", bgColor);
+  $(".symbol").css("color", textColorAccent);
+  $("table").css("color", textColorMain);
+  $("table td:first-child" ).css("color", textColorAccent);
+
+}
+
+
+function formatDate(d) {
+  var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Sep','Oct','Nov','Dec'];
+  var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  
+  var dd = new Date(d);
+  //Logger.log(dd);
+  var ret = days[dd.getDay()] + ", "+ months[dd.getMonth()-1] +" "+dd.getDate() + ", "+dd.getFullYear();
+  return ret;
+}
+
+function formatSchedTable(desc) {
+  var html = "<table>";
+  var fullRows = desc.split("\n");
+  for (var r in fullRows) {
+    var row = fullRows[r].split(": ");
+    html += "<tr>";
+    for (var rr in row) {
+      html += "<td>" + row[rr] + "</td>";
+    }
+    html += "</tr>"
+  }
+  html += "</table>";
+  return html;
+}
+
+function displayLetter(t){
+  var letter = "&#9733;";
+  var sp = "SPECIAL<br>SCHEDULE";
+  var code = t.charCodeAt(0);
+  if ((code >= 65) && (code <= 68)) {
+    //between A and D
+    letter = t.charAt(0);
+    sp = "DAY";
+    $(".symbol").html(letter);
+    $(".day").html(sp);
+    $(".text").html("");
+  } else {
+    $(".symbol").html(letter);
+    $(".text").html(sp);
+    $(".day").html("");
+  }
+}
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cantora+One">
+    
+<style>
+
+body {
+  margin: 0;
+  padding: 0;
+  }
+
+#letter-outer {
+  text-align: center;
+  height: 220px;
+  font-family: 'Cantora One';
+}
+
+.day {
+  font-size: 80px;
+  display: none;  /*block;*/
+  color: #000;
+  line-height: 50px;
+  text-align: center;
+  width: 220px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+  
+.wrapper { 
+  position: absolute;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.symbol {
+  font-size: 200px;
+  font-weight: bold;
+  color: #FFFF00;
+  line-height: 200px;
+  vertical-align: middle;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 220px;
+  }
+
+.text {
+  display: block;
+  color: #FFF;
+  font-size: 50px;
+  line-height: 40px;
+  text-align: center;
+  width: 220px;
+  margin: 0 auto;
+  margin-top: -120px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+</style>
+</body>
+</html>

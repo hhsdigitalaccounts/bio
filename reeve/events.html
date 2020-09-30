@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <div id="date"></div> 
+  <div id="schedTable"></div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+ 	/***************************************************************
+       * Today's EVENTS
+       */
+      
+      var d = new Date();
+      var today = new Date(d.getFullYear(), d.getMonth(), d.getDate(), 0, 0, 0, 0);
+      var todayStr = today.toISOString().substr(0,10);
+      
+      console.log("today="+todayStr);
+      var twoWeeks = new Date(d.getFullYear(), d.getMonth(), d.getDate()+14, 0, 0, 0, 0);
+      var twoWeeksStr = twoWeeks.toISOString().substr(0,10);
+      
+      var dataUrl = "https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec";
+      dataUrl += "?type=event&start="+todayStr;
+      //console.log(dataUrl);
+      //https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec?type=event&start=2017-10-16   
+   
+      $.getJSON( dataUrl) .done(function( dataIn ) {
+           console.log(dataIn); 
+			if (dataIn != null) {
+                	var data = dataIn.events;
+                	if ((data) && (data.length >0)) {
+
+					$("#schedTable").html(formatTable(data[0]));
+                		$("#date").html("Today's Events");
+            		}
+			} else {
+				$("#schedTable").html("<table><tr><td>No events scheduled</td></tr></table>");
+			}
+var textColorMain = getUrlParameter('text')!="" ? getUrlParameter('text') : "#000000";
+            var textColorAccent = getUrlParameter('accent')!="" ? getUrlParameter('accent') : "#FFFF00";
+            var bgColor = getUrlParameter('bg')!="" ? getUrlParameter('bg') : "transparent";
+            setColors(textColorMain, textColorAccent, bgColor);
+        });
+
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+};
+
+function setColors(textColorMain, textColorAccent, bgColor) {
+  $("body").css("background", bgColor);
+  $("#date").css("color", textColorAccent);
+  $("table").css("color", textColorMain);
+  $("table td:first-child" ).css("color", textColorAccent);
+
+}
+
+
+function formatDate(d) {
+  var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Sep','Oct','Nov','Dec'];
+  var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  
+  var dd = new Date(d);
+  //Logger.log(dd);
+  var ret = days[dd.getDay()] + ", "+ months[dd.getMonth()-1] +" "+dd.getDate() + ", "+dd.getFullYear();
+  return ret;
+}
+
+function formatTable(data) {
+  var html = "<table>";
+  console.log(data);
+  for (var row in data) {
+    console.log(row);
+    html += "<tr>";
+    var d = new Date(data[row].startTime);
+    var hours = d.getHours();
+    var minutes = d.getMinutes();
+    if (minutes <10) { 
+      minutes = "0" + minutes;
+    }
+    var ampm = "&nbsp;am";
+    if (hours >12) {
+      hours = hours - 12;
+      ampm = "&nbsp;pm";
+    }
+    var time = hours +":" + minutes + ampm;
+    if ((hours == 0) && (minutes == "00")) {
+      time = "All day";
+      }
+      
+    html += "<td>"+time+"</td>";
+    html += "<td>"+data[row].title+"</td>";
+    html += "</tr>"
+  }
+  html += "</table>";
+  return html;
+}
+
+function firstLetter(t){
+  var ret = "&#9733;";
+  var code = t.charCodeAt(0);
+  if ((code <65) || (code >68)) {
+    //between A and D
+    ret = t.charAt(0);
+  }
+  return ret;
+  
+
+}
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+    
+<style>
+
+body {
+  margin: 0;
+  padding: 15px;
+  font-family: 'Roboto Condensed';
+  font-size: 28px;
+  color: #ffffff;
+  }
+
+#date {
+  font-weight: bold;
+  font-size: 36px;
+  color: #FFFF00;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  }
+
+table td {
+  padding: 6px;
+  vertical-align: top;
+}
+
+table td:first-child {
+  color: #FFFF00;
+  white-space: no-wrap;
+}
+
+
+</style>
+</body>
+</html>

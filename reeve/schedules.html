@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+ 
+  <div id="date"></div>
+  <div id="schedTable"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+
+      /***************************************************************
+       * Today's SCHEDULE
+       */
+      
+      var d = new Date();
+      var today = new Date(d.getFullYear(), d.getMonth(), d.getDate(), 0, 0, 0, 0);
+      var todayStr = today.toISOString().substr(0,10);
+      
+      console.log("today="+todayStr);
+      var twoWeeks = new Date(d.getFullYear(), d.getMonth(), d.getDate()+14, 0, 0, 0, 0);
+      var twoWeeksStr = twoWeeks.toISOString().substr(0,10);
+      
+      var dataUrl = "https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec";
+      dataUrl += "?type=schedule&start="+todayStr+"&end="+twoWeeksStr;
+      console.log(dataUrl);
+      //https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec?type=schedule&start=2017-12-5&end=2017-12-19
+      
+      $.getJSON( dataUrl) .done(function( dataIn ) {
+            if (dataIn != null) {
+                var data = dataIn.schedules;
+                
+                if ((data) && (data.length >0)) {
+                  var nextSched = data[0][0];
+                  var nextSchedDate = new Date(nextSched["startTime"]);
+                  nextSchedDate = new Date(nextSchedDate.getFullYear(), nextSchedDate.getMonth(), nextSchedDate.getDate());
+                  //console.log(nextSchedDate);
+                  var today = new Date();
+                  today = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+                
+                  var datesMatch = (today.getFullYear() == nextSchedDate.getFullYear() ) &&
+                                   (today.getMonth() == nextSchedDate.getMonth()) && 
+                                   (today.getDate() == nextSchedDate.getDate());
+                
+                  if (datesMatch) {
+                    $("#date").html("Today's Schedule");
+                  } else {
+                    var dn = dayName(nextSchedDate);
+                    if (dn != "") {
+                      $("#date").html(dn + "'s Schedule");
+                    }
+                  }
+                  if (nextSched["description"] != null) {
+                    $("#schedTable").html(formatSchedTable(nextSched["description"]));
+                  }
+                } else {
+                  var html = "<table class='no-data'><tr><td>No classes scheduled</td></tr></table>";
+                  $("#schedTable").html(html);
+                }
+            } else {
+               var html = "<table class='no-data'><tr><td>No classes scheduled</td></tr></table>";
+               $("#schedTable").html(html);
+            }
+
+		 var textColorMain = getUrlParameter('text')!="" ? getUrlParameter('text') : "#000000";
+            var textColorAccent = getUrlParameter('accent')!="" ? getUrlParameter('accent') : "#FFFF00";
+            var bgColor = getUrlParameter('bg')!="" ? getUrlParameter('bg') : "transparent";
+            setColors(textColorMain, textColorAccent, bgColor);
+        });
+
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+};
+
+function setColors(textColorMain, textColorAccent, bgColor) {
+  $("body").css("background", bgColor);
+  $("#date").css("color", textColorAccent);
+  $("table").css("color", textColorMain);
+  $("table td:first-child" ).css("color", textColorAccent);
+
+}
+
+
+function formatDate(d) {
+  var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Sep','Oct','Nov','Dec'];
+  var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+  
+  var dd = new Date(d);
+  //Logger.log(dd);
+  var ret = days[dd.getDay()] + ", "+ months[dd.getMonth()-1] +" "+dd.getDate() + ", "+dd.getFullYear();
+  return ret;
+}
+
+function dayName(d) {
+  var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  var ret = "";
+  if (d.getDay()) {
+    ret = days[d.getDay()];
+  }
+  return ret;
+}
+
+function formatSchedTable(desc) {
+  var html = "<table>";
+  desc = desc.replace(/ - /g,"-");
+  var fullRows = desc.split("\n");
+  for (var r in fullRows) {
+    var lunchspan = "";
+    if (fullRows[r].indexOf("Lunch") >=0) {
+      lunchspan = " class='lunch'";
+	}
+    var row = fullRows[r].split(": ");
+    html += "<tr>";
+    for (var rr in row) {
+      var colspan = "";
+      if (row.length ==1) {
+        colspan = " colspan='2'";
+      } else {
+        colspan = " class='timecell'";
+      }
+      html += "<td"+colspan +"><span" + lunchspan +">" + row[rr] + "</span></td>";
+    }
+    html += "</tr>"
+  }
+  html += "</table>";
+  return html;
+}
+
+function firstLetter(t){
+  var ret = "?";
+  var code = t.charCodeAt(0);
+  if ((code <65) || (code >68)) {
+    //between A and D
+    ret = t.charAt(0);
+  }
+  return ret;
+}
+
+function getDateString(date) {
+}
+
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+    
+<style>
+
+body {
+  margin: 0;
+  padding: 15px;
+  font-family: 'Roboto Condensed';
+  font-size: 28px;
+
+  }
+
+#date {
+  font-weight: bold;
+  font-size: 36px;
+  color: #FFFF00;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  }
+  
+table {
+  color: #FFFFFF;
+  width: 100%;
+}
+
+table td {
+  padding: 6px;
+}
+
+table td.lunch {
+  padding: 0px 0px;
+}
+
+
+table.no-data td {
+  text-align: center;
+  }
+
+table td.timecell:first-child {
+  color: #FFFF00;
+  text-align: right;
+}
+
+.lunch {
+  font-size: 70%;
+  line-height: 50%;
+}
+
+
+</style>
+
+</body>
+</html>
