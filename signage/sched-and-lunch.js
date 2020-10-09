@@ -96,10 +96,8 @@ function getLunches() {
 			}
 		  }
 		  
-		  console.log(nextSched["description"]);
-		  if (nextSched["description"] != null) {
-			 lunchTableHtml += formatLunchTable(nextSched);
-		  }
+		  lunchTableHtml += formatLunchTable(nextSched);
+
 		  if (data.length >= 2) {
 			 var secondSched = data[1][0];
 			 var secondSchedDate = new Date(secondSched["startTime"]);
@@ -178,7 +176,9 @@ function formatSchedTable(desc) {
 function formatLunchTable(day) {
   var html = "<table>";
   html += "<tr><td class='menuTitle'>" + day["title"] + "</td></tr>";
-  html += "<tr><td class='menuDescr'>" + day["description"] + "</td></tr>";
+
+var description = typeof day["description"] !== "undefined" ? day["description"] : "";
+  html += "<tr><td class='menuDescr'>" + description + "</td></tr>";
   html += "</table>";
   
   return html;
