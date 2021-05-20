@@ -41,7 +41,6 @@ body {
 	box-sizing: border-box;
 	flex-basis: auto;
 	flex-grow: 1;
-	margin-right: 30px;
 	order: 1;
 	background: #FFF;
 	overflow: hidden;
@@ -137,7 +136,7 @@ body {
 }
 
 #schedBox, #lunchBox {
-  padding: 15px;
+  padding-bottom: 15px;
   font-family: 'Roboto Condensed';
   font-size: 18px;
 }
@@ -149,7 +148,10 @@ body {
   color: #b51e12;
   width: 100%;
   text-align: center;
-  padding-bottom: 20px;
+  }
+
+  #schedBox #date {
+    padding-bottom: 10px;
   }
   
 #schedBox table {
@@ -199,10 +201,6 @@ body {
   font-weight: bold;
   font-style: italic;
 }
-
-#lunchBox td.menuDescr  {
-  padding-bottom: 30px;
-  }
 
 #lunchBox table.no-data td {
   text-align: center;
