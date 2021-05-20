@@ -69,7 +69,7 @@ body {
   
 #letter-outer {
   text-align: center;
-  font-family: 'Cantora One';
+  font-family: 'Lora';
   font-size: 36px;
   margin-bottom: 15px;
 }
@@ -137,7 +137,7 @@ body {
 
 #schedBox, #lunchBox {
   padding-bottom: 15px;
-  font-family: 'Roboto Condensed';
+  font-family: 'Lato';
   font-size: 18px;
 }
 
