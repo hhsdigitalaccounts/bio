@@ -201,7 +201,14 @@ function displayLetter(t){
 	$(".special").show().html("SPECIAL<br>SCHEDULE");
   }
 }
-window.setInterval(toggleScreens, 8000);
+
+function startScreenToggles(interval) {
+  let delay = interval;
+  if (typeof delay === 'undefined') {
+    delay = 8000;
+  }
+  window.setInterval(toggleScreens, delay);
+}
 
 function toggleScreens() {
   $("#schedBox").slideToggle();
