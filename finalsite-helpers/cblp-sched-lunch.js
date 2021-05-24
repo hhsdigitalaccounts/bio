@@ -3,7 +3,7 @@
 */
 var REFRESH_INTERVAL = 15 * 60 * 1000;  // milliseconds = minutes * 60 * 1000 
 
-var d =  new Date(2021, 4, 28);
+var d =  new Date();  //2021, 4, 28);
 var today = new Date(d.getFullYear(), d.getMonth(), d.getDate(), 0, 0, 0, 0);
 var todayStr = today.toISOString().substr(0,10);
 
