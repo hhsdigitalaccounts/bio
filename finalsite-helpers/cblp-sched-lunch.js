@@ -12,6 +12,9 @@ var twoWeeksStr = twoWeeks.toISOString().substr(0,10);
 
 var date1;
 var date2;
+var schedulesReady = false;
+var lunchesReady = false;
+var lunchesData = null;
 
 var schedDataUrl = "https://script.google.com/a/holliston.k12.ma.us/macros/s/AKfycbySq1-awpeZr2RLzsEizMJjBpgBvD8KFWc-VKGjV6JrcKTe3g/exec";
 schedDataUrl += "?type=schedule&start="+todayStr+"&end="+twoWeeksStr;
@@ -26,7 +29,7 @@ function getSchedules() {
 		console.log("getSchedules done");
 		if (dataIn != null) {
 			var data = dataIn.schedules;
-
+			
 			if ((data) && (data.length >=1)) {
 				var nextSched = data[0][0];
 				var nextSchedDate = new Date(nextSched["startTime"]);
@@ -47,9 +50,11 @@ function getSchedules() {
 			} 
 		} 
 		
+		schedulesReady = true;
+		processLunches();
 	});
 	
-	getLunches();
+	
 }
 
 function fillDate(date, dateDiv) {
@@ -79,28 +84,35 @@ function fillLunchDetails(event, dateDiv) {
 
 function getLunches() {
 	$.getJSON( lunchDataUrl) .done(function( dataIn ) {
-				
-		console.log("getLunches done");
-		if (dataIn != null) {
-			var data = dataIn.lunch;
-			
-			data.forEach((item) => {
-				var nextLunch = item[0];
-				var nextLunchDate = new Date(nextLunch["startTime"]);
-
-				if (dateMatches(nextLunchDate, date1)) {
-					fillLunchDetails(nextLunch, $('#day-1'));
-				} else if (dateMatches(nextLunchDate, date2)) {
-					fillLunchDetails(nextLunch, $('#day-2'));
-				}
-			}); 
-		}
+		lunchesReady = true;
+		lunchesData = dataIn;
+		processLunches();
 	});
-	
-	setTimeout(getLunches, REFRESH_INTERVAL);
+}
+
+function processLunches() {
+	var dataIn = lunchesData;
+	if (!lunchesReady || !schedulesReady) {
+		return;
+	}
+	if (dataIn != null) {
+		var data = dataIn.lunch;
+		
+		data.forEach((item) => {
+			var nextLunch = item[0];
+			var nextLunchDate = new Date(nextLunch["startTime"]);
+			
+			if (dateMatches(nextLunchDate, date1)) {
+				fillLunchDetails(nextLunch, $('#day-1'));
+			} else if (dateMatches(nextLunchDate, date2)) {
+				fillLunchDetails(nextLunch, $('#day-2'));
+			}
+		}); 
+	}
 }
 
 getSchedules();
+getLunches();
 
 function formatDate(d) {
 	var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Sep','Oct','Nov','Dec'];
@@ -157,10 +169,10 @@ function formatSchedTable(desc) {
 function dateMatches(d1, d2) {
 	try {
 		var matchYear = d1.getFullYear() == d2.getFullYear();
-	  var matchMonth = d1.getMonth() == d2.getMonth();
-	  var matchDay = d1.getDate() == d2.getDate();
-
-	  return (matchYear && matchMonth && matchDay);
+		var matchMonth = d1.getMonth() == d2.getMonth();
+		var matchDay = d1.getDate() == d2.getDate();
+		
+		return (matchYear && matchMonth && matchDay);
 	} catch (e) {
 		return false;
 	}
