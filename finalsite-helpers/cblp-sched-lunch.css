@@ -1,0 +1,83 @@
+html {
+	padding: 0;
+	margin: 0;
+  font-family: Lato, sans-serif;
+}
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+	box-sizing: border-box;
+	position: relative;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+.day {
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+}
+
+.date-box {
+  width: 60px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 2px;
+  margin-right: 1rem;
+  flex-shrink: 0;
+  flex-grow: 0;
+}
+
+
+.month-name {
+  font-size: 0.9em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.date-number {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.info {
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+
+.info > div {
+  margin-bottom: 0.5rem;
+}
+
+.title {
+  font-family: Lora;
+  color: #a81004;
+}
+
+.schedule .title {
+  font-size: 1.2em;
+  margin-bottom: 0.5rem;
+}
+
+.details * {
+  font-size: 0.75rem;
+}
+
+.schedule-grid {
+  display: grid;
+  grid-template-columns: 6rem auto;
+}
+
+.schedule-grid .double {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.lunch .details b {
+  font-weight: 400 !important;
+}
