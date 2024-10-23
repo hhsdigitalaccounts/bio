@@ -1,0 +1,252 @@
+body {
+  position: fixed;
+  inset: 0px;
+  margin: 0px;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  font-family: var(--font-body);
+  text-align: center;
+  background-color: white;
+}
+
+.wrapper {
+  display: inline-block;
+
+  & > section {
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0.45, 0, 0.55, 1);
+    animation-fill-mode: both;
+
+    & > article {
+      /* border-block: 1px solid red; */
+
+      display: flex;
+      flex-flow: column nowrap;
+      align-items: center;
+      margin: var(--spacing);
+      gap: calc(var(--spacing) * 0.5);
+
+      & > * {
+        margin-inline: auto;
+      }
+    }
+  }
+}
+
+section.letter-of-the-day {
+  #letter-wrapper {
+    flex-direction: row;
+    justify-content: center;
+    gap: 0px;
+
+    & > * {
+      margin: 0px;
+    }
+  }
+
+  #letter {
+    --size: calc(var(--size-huge) * 0.8);
+    min-width: var(--size);
+    min-height: var(--size);
+    line-height: var(--size);
+    color: var(--color-accent);
+    font-size: var(--size-huge);
+    font-weight: bold;
+    font-family: var(--font-heading);
+  }
+
+  #special {
+    --size: calc(var(--size-huge) * 0.5);
+    min-width: var(--size);
+    min-height: var(--size);
+    line-height: var(--size);
+    font-size: var(--size);
+
+    .loading & {
+      display: none;
+    }
+  }
+
+  #message {
+    font-size: var(--size-subtitle);
+    text-transform: uppercase;
+
+    .loading & {
+      display: none;
+    }
+  }
+}
+
+@keyframes swapBankA {
+  0% {
+    opacity: 100%;
+    transform: translateX(0%);
+  }
+  45% {
+    opacity: 100%;
+    transform: translateX(0%);
+  }
+  55% {
+    opacity: 0%;
+    transform: translateX(-100%);
+  }
+  100% {
+    opacity: 0%;
+    transform: translateX(-100%);
+  }
+}
+
+section.bell-schedule {
+  height: 0px;
+  margin-block-end: calc(var(--spacing) * -1);
+  animation-name: swapBankA;
+  animation-direction: alternate;
+
+  #schedule-wrapper {
+    text-align: center;
+  }
+
+  #day-name {
+    display: inline-block;
+    min-width: calc(var(--size-huge) * 2.0);
+    min-height: var(--size-title);
+    line-height: var(--size-title);
+    color: var(--color-accent);
+    font-size: var(--size-title);
+    text-transform: capitalize;
+  }
+
+  #schedule {
+    display: inline-table;
+    border-spacing: 0px;
+    min-width: calc(var(--size-huge) * 1.5);
+    min-height: var(--size-body);
+    font-size: var(--size-body);
+
+    .loading & {
+      height: calc(var(--size-body) * 7);
+    }
+
+    /* If a refresh fails, the current data isn't cleared, so it must be hidden
+     * in order to not mess with the loading state. */
+    .loading & > * {
+      display: none;
+    }
+
+    .name {
+      padding-inline-start: calc(var(--spacing) * 0.75);
+      text-align: start;
+    }
+
+    .time {
+      padding-inline-end: calc(var(--spacing) * 0.75);
+      text-align: end;
+      border-inline-end: 2px solid var(--color-accent);
+    }
+
+    .lunch {
+      padding-inline-start: 1em;
+      font-weight: normal;
+      font-style: italic;
+      text-align: start;
+      text-transform: capitalize;
+    }
+  }
+
+  #no-schedule {
+    font-size: var(--size-body);
+    font-style: italic;
+
+    .loading & {
+      display: none;
+    }
+  }
+}
+
+@keyframes swapBankB {
+  0% {
+    opacity: 100%;
+    transform: translateX(0%);
+  }
+  45% {
+    opacity: 100%;
+    transform: translateX(0%);
+  }
+  55% {
+    opacity: 0%;
+    transform: translateX(100%);
+  }
+  100% {
+    opacity: 0%;
+    transform: translateX(100%);
+  }
+}
+
+section.lunch {
+  height: 0px;
+  margin-block-end: calc(var(--spacing) * -1);
+  animation-name: swapBankB;
+  animation-direction: alternate-reverse;
+
+  .day-name {
+    display: inline-block;
+    min-width: calc(var(--size-huge) * 2.0);
+    min-height: var(--size-title);
+    line-height: var(--size-title);
+    color: var(--color-accent);
+    font-size: var(--size-title);
+    text-transform: capitalize;
+  }
+
+  .menu-title {
+    display: inline-block;
+    min-width: calc(var(--size-huge) * 1.0);
+    min-height: var(--size-body);
+    font-size: var(--size-body);
+  }
+
+  .menu-description {
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-block: 0px;
+    padding: 0px;
+    gap: 0.25em;
+    min-width: calc(var(--size-huge) * 1.0);
+    min-height: var(--size-body);
+    font-size: var(--size-body);
+    font-style: italic;
+    list-style-type: none;
+
+    .loading & {
+      height: calc(var(--size-body) * 3);
+    }
+
+    /* If a refresh fails, the current data isn't cleared, so it must be hidden
+     * in order to not mess with the loading state. */
+    .loading & > * {
+      display: none;
+    }
+
+    /* Restyle <ul> as comma-separated list. */
+    & > * {
+      display: inline-block;
+
+      &:not(:last-child)::after {
+        content: ",";
+      }
+    }
+  }
+
+  #error-lunch {
+    font-size: var(--size-body);
+
+    .loading &,
+    /* Show a placeholder text if all lunch info is hidden. */
+    section.lunch:has(article:not(.hidden, :last-child)) & {
+      display: none;
+    }
+  }
+}
