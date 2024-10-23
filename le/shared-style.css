@@ -1,0 +1,65 @@
+:root {
+  --spacing: 1rem;
+  --size-huge: 14rem;
+  --size-title: 2.50rem;
+  --size-subtitle: 2.00rem;
+  --size-body: 1.75rem;
+  --color-accent: #B51E12;
+  --font-heading: "Cantora One", "Verdana", sans-serif;
+  --font-body: "Roboto Condensed", "Arial", sans-serif;
+}
+
+h2, p {
+  margin: 0px;
+}
+
+.hidden:not(.loading .hidden) {
+  display: none !important;
+}
+
+.skeleton {
+  position: relative;
+}
+
+@keyframes shimmer {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+.loading .skeleton {
+  font-size: 0px !important;
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    inset: -2px;
+    border-radius: 8px;
+  }
+
+  &::before {
+    background: linear-gradient(
+      90deg,
+      rgba(from white r g b / 0.0) 0%,
+      rgba(from white r g b / 0.2) 20%,
+      rgba(from white r g b / 0.5) 60%,
+      rgba(from white r g b / 0.0) 100%
+    );
+    animation: shimmer 5s cubic-bezier(0.67, 0, 0.33, 1) infinite;
+    z-index: 100;
+  }
+
+  &::after {
+    background: hsl(0, 0%, 86%);
+    box-shadow: inset 0px 0px 4px 2px white;
+  }
+}
+
+.error-message {
+  font-style: italic;
+  color: hsl(from var(--color-accent) 30 100% l);
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cantora%20One" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto%20Condensed" />
+    <link rel="stylesheet" type="text/css" href="../shared-style.css" />
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+  </head>
+  <body>
+    <main class="wrapper">
+      <section class="letter-of-the-day loading">
+        <article id="letter-wrapper">
+          <span id="letter" class="skeleton"></span>
+          <span id="special">&#x2605;</span>
+        </article>
+        <article id="message">
+          special schedule
+        </article>
+      </section>
+      <section class="bell-schedule loading">
+        <article id="schedule-wrapper">
+          <h2 id="day-name" class="skeleton"></h2>
+          <!-- Table doubles as an error state when missing schedule data. -->
+          <table id="schedule" class="skeleton"></table>
+          <template id="schedule-row">
+            <tr>
+              <td class="time"></td>
+              <td class="name"></th>
+            </tr>
+          </template>
+        </article>
+        <article id="no-schedule">
+          <!-- For when the current schedule returned by the API is for another
+            day, not today. Still display it, but assert that it isn't for
+            today. -->
+          No classes scheduled today.
+        </article>
+      </section>
+      <section class="lunch loading">
+        <article id="today">
+          <h2 class="day-name skeleton"></h2>
+          <p class="menu-title skeleton"></p>
+          <ul class="menu-description skeleton"></ul>
+        </article>
+        <article id="upcoming">
+          <h2 class="day-name skeleton"></h2>
+          <p class="menu-title skeleton"></p>
+          <ul class="menu-description skeleton"></ul>
+        </article>
+        <article id="error-lunch" class="error-message">
+          <!-- Gets shown as an error state when both articles in this section
+            error out and get hidden. -->
+          No lunch menu available.
+        </article>
+      </section>
+    </main>
+    <script src="../util.js"></script>
+    <script src="../data-layer.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
